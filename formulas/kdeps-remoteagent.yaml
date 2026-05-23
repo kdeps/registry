@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-remoteagent-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [remoteagent]
+sha256: 7459ad416f3eaad865fd89c53ca0109c26dcf4574907fe02346f4d29ba9f9b23
+description: Call a remote kdeps agent via HTTP — delegate tasks to agents running on other servers.
+tags: [agent, remote, http, delegate]
 license: Apache-2.0

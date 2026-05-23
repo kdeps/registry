@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-email-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [email]
+sha256: 07fbb9d96a1fbccbbf89f6bf1a8e457dacfda9b652deadebf0138bb85b2fb9f2
+description: Send email via SMTP — supports TLS, HTML and plain text.
+tags: [email, smtp, notification]
 license: Apache-2.0

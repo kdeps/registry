@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-search-local-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [search-local]
+sha256: 8c170de0db9fe9d2e116dc3be73753c403c5d9befec99ca7de4ef563ab1aaa15
+description: Search local files by keyword or glob pattern — recursive directory search with content matching.
+tags: [search, local, files, glob, keyword]
 license: Apache-2.0

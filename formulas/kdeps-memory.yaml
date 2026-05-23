@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-memory-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [memory]
+sha256: 023faebc3b2e4a1ec6ac2a11a00494c7ebe647de24efd311c948850d4dcf8c92
+description: Persistent key-value memory store backed by SQLite.
+tags: [memory, storage, sqlite, key-value]
 license: Apache-2.0

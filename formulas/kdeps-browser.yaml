@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-browser-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [browser]
+sha256: 78ea18e580997a472ad59804e65f8891d425352bc354b9bd50ad074f2f19e959
+description: Browser automation via Playwright — navigate, click, fill forms, screenshot, and extract content.
+tags: [browser, playwright, automation, scraper]
 license: Apache-2.0

@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-tts-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [tts]
+sha256: 0ff541ec97c1e3974881b54abe5a0cefd81407ac47afc6b773d516be0589d3bf
+description: Text-to-speech synthesis — offline via espeak or online via OpenAI TTS API.
+tags: [tts, speech, audio, espeak, openai]
 license: Apache-2.0

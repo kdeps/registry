@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-search-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [search]
+sha256: 3cb43392d314b8764b7e52174f2f7eab62abed8c8f3fb848825ae00bcb1464f9
+description: Web search via Tavily API — query the web and get structured results.
+tags: [search, web, tavily, api]
 license: Apache-2.0

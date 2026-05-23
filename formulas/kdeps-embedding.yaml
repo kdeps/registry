@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-embedding-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [embedding]
+sha256: 24afa36fa177555d995907bb4dade3957d5427bdc006060b6dbfbdc7644e19ac
+description: Local document store with keyword similarity search — SQLite-backed, fully on-prem.
+tags: [embedding, search, rag, sqlite, local]
 license: Apache-2.0

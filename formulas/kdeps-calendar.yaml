@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-calendar-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [calendar]
+sha256: 3a53ad92b5bcf8d955e456681d61cb2083d75c198178240232afa937be16aec2
+description: Generate iCalendar (.ics) event files — meeting invites, reminders, scheduling.
+tags: [calendar, ics, scheduling, events]
 license: Apache-2.0

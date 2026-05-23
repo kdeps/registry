@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-autopilot-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [autopilot]
+sha256: b83ff588c0a2ca6aeb95f9cff2db408dc4464ca95a2a20c9b86fa65aee6e6fac
+description: Autonomous task execution via LLM planning — break down goals into executable steps.
+tags: [autopilot, agent, planning, llm]
 license: Apache-2.0

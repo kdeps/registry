@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-input-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [input]
+sha256: 894985fcd2eb63140e25703f6b682617ed5c0ac44e1aa06da2c92d687a6e0eeb
+description: Input processing — parse and validate incoming data from multiple sources.
+tags: [input, parsing, validation]
 license: Apache-2.0

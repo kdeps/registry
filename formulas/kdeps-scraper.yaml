@@ -3,7 +3,7 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-scraper-v1.0.0.tar.gz
-sha256: <computed-by-kdeps-registry-submit>
-description: apiVersion: kdeps.io/v1
-tags: [scraper]
+sha256: 022c1f5649ff7a0ce9425291367878dd0cef2c1081298ab8246c5f4fdbcfe207
+description: Web scraper — fetch a URL and extract text content, with optional CSS selector filtering.
+tags: [scraper, web, html, extraction]
 license: Apache-2.0
