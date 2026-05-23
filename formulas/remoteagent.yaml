@@ -1,0 +1,9 @@
+name: remoteagent
+version: 1.0.0
+type: component
+github: kdeps/packages
+tarball: https://github.com/kdeps/packages/archive/refs/tags/remoteagent-v1.0.0.tar.gz
+sha256: <computed-by-kdeps-registry-submit>
+description: apiVersion: kdeps.io/v1
+tags: [remoteagent]
+license: Apache-2.0
