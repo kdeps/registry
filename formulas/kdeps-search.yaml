@@ -1,9 +1,9 @@
-name: browser
+name: kdeps-search
 version: 1.0.0
 type: component
 github: kdeps/packages
-tarball: https://github.com/kdeps/packages/archive/refs/tags/browser-v1.0.0.tar.gz
+tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-search-v1.0.0.tar.gz
 sha256: <computed-by-kdeps-registry-submit>
 description: apiVersion: kdeps.io/v1
-tags: [browser]
+tags: [search]
 license: Apache-2.0

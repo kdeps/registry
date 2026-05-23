@@ -1,9 +1,9 @@
-name: embedding
+name: kdeps-tts
 version: 1.0.0
 type: component
 github: kdeps/packages
-tarball: https://github.com/kdeps/packages/archive/refs/tags/embedding-v1.0.0.tar.gz
+tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-tts-v1.0.0.tar.gz
 sha256: <computed-by-kdeps-registry-submit>
 description: apiVersion: kdeps.io/v1
-tags: [embedding]
+tags: [tts]
 license: Apache-2.0

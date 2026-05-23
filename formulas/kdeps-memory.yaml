@@ -1,9 +1,9 @@
-name: search-local
+name: kdeps-memory
 version: 1.0.0
 type: component
 github: kdeps/packages
-tarball: https://github.com/kdeps/packages/archive/refs/tags/search-local-v1.0.0.tar.gz
+tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-memory-v1.0.0.tar.gz
 sha256: <computed-by-kdeps-registry-submit>
 description: apiVersion: kdeps.io/v1
-tags: [search-local]
+tags: [memory]
 license: Apache-2.0
