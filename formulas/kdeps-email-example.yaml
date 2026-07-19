@@ -1,8 +1,8 @@
-name: kdeps-email
+name: kdeps-email-example
 version: 1.0.0
 type: component
 github: kdeps/packages
-tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-email-v1.0.0.tar.gz
+tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-email-example-v1.0.0.tar.gz
 sha256: 07fbb9d96a1fbccbbf89f6bf1a8e457dacfda9b652deadebf0138bb85b2fb9f2
 description: Send email via SMTP — supports TLS, HTML and plain text.
 tags: [email, smtp, notification]

@@ -1,8 +1,8 @@
-name: kdeps-search
+name: kdeps-search-example
 version: 1.0.0
 type: component
 github: kdeps/packages
-tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-search-v1.0.0.tar.gz
+tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-search-example-v1.0.0.tar.gz
 sha256: 3cb43392d314b8764b7e52174f2f7eab62abed8c8f3fb848825ae00bcb1464f9
 description: Web search via Tavily API — query the web and get structured results.
 tags: [search, web, tavily, api]

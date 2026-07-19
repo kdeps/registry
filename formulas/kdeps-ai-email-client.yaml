@@ -1,0 +1,9 @@
+name: kdeps-ai-email-client
+version: 1.0.0
+type: workflow
+github: kdeps/packages
+tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-ai-email-client-v1.0.0.tar.gz
+sha256: 0000000000000000000000000000000000000000000000000000000000000000
+description: AI email client — triage, summarize, draft, reorganize labels, and unsubscribe, with a web UI.
+tags: [llm, email, api, web, agent]
+license: Apache-2.0
