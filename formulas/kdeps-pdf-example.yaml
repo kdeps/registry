@@ -3,7 +3,11 @@ version: 1.0.0
 type: component
 github: kdeps/packages
 tarball: https://github.com/kdeps/packages/archive/refs/tags/kdeps-pdf-example-v1.0.0.tar.gz
-sha256: cec7ada889c4a08acee09902d655318b70d69140a46ef42e15f9ddeb84d8863c
+sha256: a5c0cf24d5757c9d3c4857b6733a643c154e9a86b14b4ab80d6ca3a89e717c66
 description: Generate PDF documents from HTML or plain text content.
-tags: [pdf, document, export, html]
+tags:
+  - pdf
+  - document
+  - export
+  - html
 license: Apache-2.0
