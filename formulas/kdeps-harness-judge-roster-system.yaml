@@ -1,0 +1,11 @@
+name: kdeps-harness-judge-roster-system
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/judge-roster-system/1.0.0.yaml
+sha256: 354ad7c057e4afd14e254fb73bda59132c6e5dcee17348021aaf656791006b77
+description: 'kdeps harness: judge-roster-system'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

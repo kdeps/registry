@@ -1,0 +1,11 @@
+name: kdeps-templates-agency
+version: 1.0.0
+type: template
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/agency/1.0.0.yaml
+sha256: 1fc04f971b0bc1c13b67fbae160b83b5549731a926e3f71e71ac0f21102c3825
+description: 'kdeps template: agency'
+tags:
+  - kdeps
+  - template
+license: Apache-2.0

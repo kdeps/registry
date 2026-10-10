@@ -1,0 +1,11 @@
+name: kdeps-harness-errors
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/errors/1.0.0.yaml
+sha256: cbfd8286ab823e0a18d4ec0fa4f8e2cf5283851550c64712af4ea94026c07c63
+description: 'kdeps harness: errors'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

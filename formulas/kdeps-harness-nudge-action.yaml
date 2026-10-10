@@ -1,0 +1,11 @@
+name: kdeps-harness-nudge-action
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-action/1.0.0.yaml
+sha256: cbcca60f63f2a7b5b2ef1ef42a5a55d61518be987ecf98835ac91b4ce248daed
+description: 'kdeps harness: nudge-action'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

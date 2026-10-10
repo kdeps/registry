@@ -1,0 +1,11 @@
+name: kdeps-recipes-vllm
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/vllm/1.0.0.yaml
+sha256: 186808391231220b672e9da21a99122f2ef4c212bc213ba2b9609bacfd59516b
+description: High-throughput OpenAI-compatible server (vLLM) for GPU inference
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

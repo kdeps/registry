@@ -1,0 +1,11 @@
+name: kdeps-harness-scope
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/scope/1.0.0.yaml
+sha256: 7bc7107c0bd77624e82b342e6138e4d38c220ad377385eb9fbaa1ea9f9d6fd84
+description: 'kdeps harness: scope'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

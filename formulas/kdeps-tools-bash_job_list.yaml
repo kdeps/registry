@@ -1,0 +1,11 @@
+name: kdeps-tools-bash_job_list
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/bash_job_list/1.0.0.yaml
+sha256: f1e204a6000c3ba13e9d75e523d61ce01fbc12ddfd1e5a3c5161bafdfa352d8c
+description: List background bash jobs started with bash_exec and backgrounded via Ctrl+Z. Shows job ID, status (running/done/failed), command, and elapsed time.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

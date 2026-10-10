@@ -1,0 +1,11 @@
+name: kdeps-harness-repeat-offense-note
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/repeat-offense-note/1.0.0.yaml
+sha256: 64866a8e522d9ec1597bc9c3d14b878768aa4a6624247d4b3ee305a14cd40740
+description: 'kdeps harness: repeat-offense-note'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

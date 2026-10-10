@@ -1,0 +1,11 @@
+name: kdeps-tools-task_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/task_get/1.0.0.yaml
+sha256: fe1137afcf0c6e97da54747113409efce90b1fd41e520396d04f7b344011e56e
+description: Get a task's full details by ID. Returns status, timestamps, output, and assigned team.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

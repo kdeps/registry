@@ -1,0 +1,11 @@
+name: kdeps-harness-tool-call-recovery-praise
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/tool-call-recovery-praise/1.0.0.yaml
+sha256: 3fb8d4b04d1f9f243e2a290413e5496aedcab007b16a50a1b38fc6929c00ee31
+description: 'kdeps harness: tool-call-recovery-praise'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

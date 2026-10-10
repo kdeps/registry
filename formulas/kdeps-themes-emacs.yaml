@@ -1,0 +1,11 @@
+name: kdeps-themes-emacs
+version: 1.0.0
+type: theme
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/themes/emacs/1.0.0.yaml
+sha256: 3dd5c24312a7b042198e93383dd4455044ecdceea26750f101efd2d11bbcf9aa
+description: 'kdeps theme: emacs'
+tags:
+  - kdeps
+  - theme
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-harness-nudge-fake-tool-response
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-fake-tool-response/1.0.0.yaml
+sha256: 5eae28ae258e9deb007e3dc71dee71c5a6a5cfab84c95a98f09fa02d16694de7
+description: 'kdeps harness: nudge-fake-tool-response'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

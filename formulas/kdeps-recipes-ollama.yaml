@@ -1,0 +1,11 @@
+name: kdeps-recipes-ollama
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/ollama/1.0.0.yaml
+sha256: c7ba5c5f0ed06daa8c6e38694cfd327294c2475da06dc5871a69448e5c8d6d62
+description: Ollama inference server with OpenAI-compatible /v1 surface
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

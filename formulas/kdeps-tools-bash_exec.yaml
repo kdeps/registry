@@ -1,0 +1,11 @@
+name: kdeps-tools-bash_exec
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/bash_exec/1.0.0.yaml
+sha256: 7ced451b79e84f583d94fec54e655cc451ea4a165406a4fc5345da6ccd4ab72e
+description: Execute a bash shell command and return its output. Use for running scripts, checking system state (git status, ls, etc.), or performing file operations. Press Ctrl+C to interrupt (partial output returned to LLM); press Ctrl+Z to background (use bash_job_wait to retrieve output).
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

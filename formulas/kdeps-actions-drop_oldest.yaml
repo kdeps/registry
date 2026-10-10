@@ -1,0 +1,11 @@
+name: kdeps-actions-drop_oldest
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/drop_oldest/1.0.0.yaml
+sha256: 7d4106149eb01344f80da36248012bad01cd9cb3d5121f907f3ab06d2f410d12
+description: Drop the oldest complete entries from a growing in-flight collection to stay under a size budget, announcing the drop so nothing goes unexplained.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

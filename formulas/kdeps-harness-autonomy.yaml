@@ -1,0 +1,11 @@
+name: kdeps-harness-autonomy
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/autonomy/1.0.0.yaml
+sha256: 5e7b273e35f2a4f168e4f0fd0163d74cd216ef86eb585187c0c6b018da30e8e6
+description: 'kdeps harness: autonomy'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

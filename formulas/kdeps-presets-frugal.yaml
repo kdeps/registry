@@ -1,0 +1,11 @@
+name: kdeps-presets-frugal
+version: 1.0.0
+type: preset
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.0.0.yaml
+sha256: 86bb4266697e12cc4a110701ba10adf0f65ee2d1d740d80062b4ee7342317e3e
+description: 'Minimizes token usage: compacts and folds history sooner, injects far less memory context, truncates tool output harder, and caps tool-call budgets tighter. Best for cost-sensitive sessions or a small-context- window local model.'
+tags:
+  - kdeps
+  - preset
+license: Apache-2.0

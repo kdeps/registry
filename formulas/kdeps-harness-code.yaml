@@ -1,0 +1,11 @@
+name: kdeps-harness-code
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/code/1.0.0.yaml
+sha256: 4b1c76f06b2e1aa1ff66cb3bc9bd0a01021ba8a23327ae3d3a58ad985c3d7ef0
+description: 'kdeps harness: code'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

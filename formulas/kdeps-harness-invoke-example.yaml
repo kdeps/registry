@@ -1,0 +1,11 @@
+name: kdeps-harness-invoke-example
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/invoke-example/1.0.0.yaml
+sha256: 44298cd44ca2e45a1ed75d8fa53504e8c6348b9657129f5885e0c3d73a91e049
+description: 'kdeps harness: invoke-example'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

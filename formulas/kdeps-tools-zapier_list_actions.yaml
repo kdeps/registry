@@ -1,0 +1,11 @@
+name: kdeps-tools-zapier_list_actions
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/zapier_list_actions/1.0.0.yaml
+sha256: 2db29ffe725e76d07baa25314bc689c17232ebef6639bb821ce3b667beef5954
+description: List all available Zapier NLA actions configured in your Zapier account. Returns action IDs, names, and descriptions. Use this to discover what actions you can run with zapier_run_action. Requires ZAPIER_NLA_API_KEY.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

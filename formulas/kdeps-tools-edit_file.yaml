@@ -1,0 +1,11 @@
+name: kdeps-tools-edit_file
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/edit_file/1.0.0.yaml
+sha256: 3a61c049922cef65ba820ccbbf0bbf9c0ac5461f3c8e4bed106b462ac3b04dcb
+description: 'Edit a file. Pass command:'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

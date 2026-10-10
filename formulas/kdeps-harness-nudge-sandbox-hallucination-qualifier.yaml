@@ -1,0 +1,11 @@
+name: kdeps-harness-nudge-sandbox-hallucination-qualifier
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-sandbox-hallucination-qualifier/1.0.0.yaml
+sha256: 50e878e4c3885793007cde28effa30f583725388643cea0aad83e127cd5e4097
+description: 'kdeps harness: nudge-sandbox-hallucination-qualifier'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-tools-approval_revoke
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/approval_revoke/1.0.0.yaml
+sha256: 1b7ec1ce83374509d800d1a84b5a4dc644b9671344ac8717fe0a1e4eb64ce763
+description: Revoke a previously granted approval token.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

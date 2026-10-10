@@ -1,0 +1,11 @@
+name: kdeps-tools-bash_job_wait
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/bash_job_wait/1.0.0.yaml
+sha256: 7448c09680a3ea903e1df1fcabba07ec954bfd4ac626b74c4d8ceb8dbd4af036
+description: Wait for a background bash job (from bash_exec backgrounded via Ctrl+Z) to complete and return its full output. Use the job_id from the bash_exec backgrounded result.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

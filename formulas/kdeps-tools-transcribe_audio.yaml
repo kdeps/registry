@@ -1,0 +1,11 @@
+name: kdeps-tools-transcribe_audio
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/transcribe_audio/1.0.0.yaml
+sha256: 56acc212c287835dca2da6d09660146d92ce1b09905325e5bbcc566f7255801e
+description: 'Transcribe an audio or video file to text. Whisper API backends (openai, groq, local) support mp3, mp4, mpeg, mpga, m4a, wav, webm; the whisper-cpp backend runs entirely offline (no API key, no network after the model is cached) and supports flac, mp3, ogg, wav only. Returns the transcribed text. Requires: file (absolute path to audio file). Optional: model (default whisper-1), backend (openai, groq, local, whisper-cpp), modelPath (whisper-cpp only -- overrides the auto-downloaded default model).'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

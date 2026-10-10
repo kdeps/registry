@@ -1,0 +1,11 @@
+name: kdeps-tools-team_add_task
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/team_add_task/1.0.0.yaml
+sha256: d63f4379681fb2b61b5789dcbbab26b96ce5318a90861032b22810111e4ae7cd
+description: Assign an existing task to a team.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

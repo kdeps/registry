@@ -1,0 +1,11 @@
+name: kdeps-harness-internals
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/internals/1.0.0.yaml
+sha256: 68a02c3e7fa4b51f50dd58a476849b42ce16c7d06943f687f2ed4de57b1a162a
+description: 'kdeps harness: internals'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

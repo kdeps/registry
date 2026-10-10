@@ -1,0 +1,11 @@
+name: kdeps-events-task-round-budget
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/task-round-budget/1.0.0.yaml
+sha256: f3f00b8fb5acee1b0c4cd291e7598423cf285fe12cdf4e54c19428a09d8594b8
+description: 'kdeps event: task-round-budget'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0

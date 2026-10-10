@@ -1,0 +1,11 @@
+name: kdeps-actions-force_answer
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/force_answer/1.0.0.yaml
+sha256: 85d2b0ef723e6f1aea3ec4ddb912cfa00bd5b15000e455147d5cbe13450be37f
+description: End the current tool-calling loop and force a final text answer from whatever was gathered, instead of letting the model keep spinning.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

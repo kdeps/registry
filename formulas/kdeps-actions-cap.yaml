@@ -1,0 +1,11 @@
+name: kdeps-actions-cap
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/cap/1.0.0.yaml
+sha256: 8ee5a89e6f6475a7f10749eee2bda5615a901e9ea96929c189932d811f78cd32
+description: Bound a collection to a fixed count while building it, keeping priority/recency order instead of growing unboundedly.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

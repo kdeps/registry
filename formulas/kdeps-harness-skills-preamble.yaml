@@ -1,0 +1,11 @@
+name: kdeps-harness-skills-preamble
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/skills-preamble/1.0.0.yaml
+sha256: fcf1b170650693d6da4b5d6672c3dc467ef5c05bca421ebef2d2f5da609627ee
+description: 'kdeps harness: skills-preamble'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-harness-honesty
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/honesty/1.0.0.yaml
+sha256: 912a151bddcb55b8dde857c00fcbca9821b06480076b7419587fb83b3f8d8180
+description: 'kdeps harness: honesty'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

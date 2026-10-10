@@ -1,0 +1,11 @@
+name: kdeps-harness-compaction-user
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/compaction-user/1.0.0.yaml
+sha256: b67470aa0a6727e267e1806f110eec63e70fe92f9439436ece7e885ffbc22970
+description: 'kdeps harness: compaction-user'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

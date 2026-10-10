@@ -1,0 +1,11 @@
+name: kdeps-events-file-read-limit
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/file-read-limit/1.0.0.yaml
+sha256: 9f7783c1072c56e1d9b8c65271ece47f494bd0dfe41a6356d0f2a7017272b1b6
+description: 'kdeps event: file-read-limit'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0

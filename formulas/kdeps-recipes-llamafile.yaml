@@ -1,0 +1,11 @@
+name: kdeps-recipes-llamafile
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/llamafile/1.0.0.yaml
+sha256: 96baac40ca52a1fb65f8c7cf908f4cf559a908f5da544f7d49da7c4fff626a09
+description: Self-contained .llamafile binary serving OpenAI-compatible /v1
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-presets-thorough
+version: 1.0.0
+type: preset
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.0.0.yaml
+sha256: 22b19cb2ecc10883247369e7e33044b0832236bec1b5d340e394f8a525a01418
+description: 'Maximizes context retention: compacts and folds much less often, injects far more memory context, keeps more of every tool result, and allows larger tool-call budgets. Best for long research/investigation sessions where losing history hurts quality more than the extra tokens cost.'
+tags:
+  - kdeps
+  - preset
+license: Apache-2.0

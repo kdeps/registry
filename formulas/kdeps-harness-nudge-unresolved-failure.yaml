@@ -1,0 +1,11 @@
+name: kdeps-harness-nudge-unresolved-failure
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-unresolved-failure/1.0.0.yaml
+sha256: c621aa102347a98f07b53af409dacf670fd7b583c86277b0cbce9727a34bd393
+description: 'kdeps harness: nudge-unresolved-failure'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-recipes-llama-server
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/llama-server/1.0.0.yaml
+sha256: f22dcc301d5b52988eff224304617a4d6814fa37415758a6cc783e75b4513b5e
+description: llama.cpp llama-server serving GGUF weights over OpenAI-compatible /v1
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-tools-task_list
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/task_list/1.0.0.yaml
+sha256: aad9c54592faf920187aec7d0a3ac3cdf9b1ccbf29164264a615a9e650d3beee
+description: List all tasks in the registry, newest first. Use to see what work is pending or completed.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

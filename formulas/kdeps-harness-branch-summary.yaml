@@ -1,0 +1,11 @@
+name: kdeps-harness-branch-summary
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/branch-summary/1.0.0.yaml
+sha256: e3fd4d4b93e149697b1acd6163a5dfbf5b95260b52de42589eaa3cfb96a7399b
+description: 'kdeps harness: branch-summary'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

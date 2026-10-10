@@ -1,0 +1,11 @@
+name: kdeps-harness-tool-call-early-praise
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/tool-call-early-praise/1.0.0.yaml
+sha256: 38bc3be74b545cae186949a14a0048ed0d395f675eb0b55b51c2526ec9a63d8c
+description: 'kdeps harness: tool-call-early-praise'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

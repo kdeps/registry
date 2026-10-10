@@ -1,0 +1,11 @@
+name: kdeps-recipes-tgi
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/tgi/1.0.0.yaml
+sha256: fb5ef9d40f2d147337faec444d1b644694da48ad56586e86bf5ff1bbfc0f3ca6
+description: Hugging Face TGI with OpenAI-compatible /v1 (GPU-oriented)
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

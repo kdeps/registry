@@ -1,0 +1,11 @@
+name: kdeps-tools-identity_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/identity_get/1.0.0.yaml
+sha256: 52664855c1b3f4da9eded552ed38a0cbbf164199fb02e9d434b1f2fedc4469ff
+description: 'Return this agent''s configured identity: name, email, and mailing address. Use this to answer questions about who you are, or to sign outputs (commits, emails) as this agent. Never returns credentials.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

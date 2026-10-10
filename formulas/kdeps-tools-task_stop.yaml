@@ -1,0 +1,11 @@
+name: kdeps-tools-task_stop
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/task_stop/1.0.0.yaml
+sha256: 636b633a5714dc3178fd4c0e287354e70b8ef6a9f49601584a0451dc16b0aaa5
+description: Stop a running or created task. Sets its status to stopped. Returns success or not-found.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

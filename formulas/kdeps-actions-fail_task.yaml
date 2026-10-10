@@ -1,0 +1,11 @@
+name: kdeps-actions-fail_task
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/fail_task/1.0.0.yaml
+sha256: e40f28b366e36e90690df72aad948d4b786b8e541fdd85a67d88ee8416fb4499
+description: Escalate a stalled goal-directed task (reanchor, narrow tools, force close, then fail forward) and eventually close it so the loop can never get trapped on one task.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

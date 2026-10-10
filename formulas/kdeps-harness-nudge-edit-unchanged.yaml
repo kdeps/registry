@@ -1,0 +1,11 @@
+name: kdeps-harness-nudge-edit-unchanged
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-edit-unchanged/1.0.0.yaml
+sha256: f3d70aa66386986b3e5a778135f0a3ff1727e37a071589fe05b888690bca29be
+description: 'kdeps harness: nudge-edit-unchanged'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

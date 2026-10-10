@@ -1,0 +1,11 @@
+name: kdeps-tools-team_list
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/team_list/1.0.0.yaml
+sha256: 0ec849303dd5eed3c67c312e74c25b5d28152ecc4a551fe8202c0d96eb663731
+description: List all teams in the registry.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

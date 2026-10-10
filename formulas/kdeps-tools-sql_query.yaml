@@ -1,0 +1,11 @@
+name: kdeps-tools-sql_query
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/sql_query/1.0.0.yaml
+sha256: 05d92e2c478a75186b81bca4b17e4c78b66b3c8f2261ba2025f56f614deaff45
+description: Execute a SQL query against a SQLite database and return the results as formatted text. Use SELECT statements to retrieve data. Non-SELECT statements are rejected for safety.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

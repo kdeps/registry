@@ -1,0 +1,11 @@
+name: kdeps-themes-vim
+version: 1.0.0
+type: theme
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/themes/vim/1.0.0.yaml
+sha256: d21ab5a54be8a5504847fd92d4c6583f1f6045fab454997b8c88e4450e90e508
+description: 'kdeps theme: vim'
+tags:
+  - kdeps
+  - theme
+license: Apache-2.0

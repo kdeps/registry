@@ -1,0 +1,11 @@
+name: kdeps-harness-tools-reminder
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/tools-reminder/1.0.0.yaml
+sha256: 7bc14870b68ab7a63152cf9704cb0222111b3e5a7356b6d863caa7074dae4a43
+description: 'kdeps harness: tools-reminder'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

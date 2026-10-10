@@ -1,0 +1,11 @@
+name: kdeps-tools-memory_search
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/memory_search/1.0.0.yaml
+sha256: c729d46cebce8bd25c8b6472f6a8c173b13bb204b8f9c3217d8bc614a5cbf8e0
+description: 'Search persistent memory for entries matching a query. Returns up to 20 matching key-value pairs (each value capped), best match first: a key hit outranks a value-only hit, more query words outrank fewer, and a newer update breaks a tie. Use to recall previously saved facts, preferences, or decisions. There is no memory_list tool; the memory graph is already in the system prompt.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

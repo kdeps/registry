@@ -1,0 +1,11 @@
+name: kdeps-harness-handshake-evidence
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/handshake-evidence/1.0.0.yaml
+sha256: 49dd0496ff40e6c1f2987cfc6b99e0c561d58bfc4290f3379d6ef6d3ef874564
+description: 'kdeps harness: handshake-evidence'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

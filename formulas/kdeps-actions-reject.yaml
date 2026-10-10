@@ -1,0 +1,11 @@
+name: kdeps-actions-reject
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/reject/1.0.0.yaml
+sha256: 568ad72c6d52f2605eeda0945ab91143f84a020e17ed70d76e6e80a35e4836f1
+description: Refuse an operation whose input exceeds a size limit, returning an error instead of truncating and proceeding.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

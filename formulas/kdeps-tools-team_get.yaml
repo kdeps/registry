@@ -1,0 +1,11 @@
+name: kdeps-tools-team_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/team_get/1.0.0.yaml
+sha256: dfa68b1f21a146c108cb75ab7eccfb13736ee213edbf2db103ebfa7c6e71da46
+description: Get a team's details by ID. Returns task IDs, status, and name.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

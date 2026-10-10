@@ -1,0 +1,11 @@
+name: kdeps-tools-code_symbols
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_symbols/1.0.0.yaml
+sha256: 74d6a06f5742ab6db81a2d9b575b4471e33571d7ed33c8e5505fdff769b0cc97
+description: 'List all symbols (functions, types, classes) in a file. Returns structured symbol info with nesting. Requires: path.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

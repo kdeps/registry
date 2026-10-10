@@ -1,0 +1,11 @@
+name: kdeps-tools-memory_delete
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/memory_delete/1.0.0.yaml
+sha256: 8ebd18ac3186d53a96777d3ed363295a5fbece63024374b048945b37cfb45282
+description: Delete a memory entry by key. Use to remove outdated or incorrect facts from persistent memory.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

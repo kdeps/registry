@@ -1,0 +1,11 @@
+name: kdeps-harness-nudge-give-up
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-give-up/1.0.0.yaml
+sha256: 24ff85d24f93ab1acb6d8d72658056ce2ab79afb65e91963afb5e5175e7c4483
+description: 'kdeps harness: nudge-give-up'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

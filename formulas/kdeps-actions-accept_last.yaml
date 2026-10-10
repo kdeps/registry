@@ -1,0 +1,11 @@
+name: kdeps-actions-accept_last
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/accept_last/1.0.0.yaml
+sha256: 71eddb4ca71f89efcab5272c599ae13054a69e7055aaa0e99dea10f74c7cd7e2
+description: Accept the most recent judge-panel response as final once the revise-and-rejudge iteration budget is spent, regardless of outcome -- a judge panel must never block a turn indefinitely.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

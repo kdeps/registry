@@ -1,0 +1,11 @@
+name: kdeps-harness-goal-confirm-system
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/goal-confirm-system/1.0.0.yaml
+sha256: 93601437bafcf23d5fdf8b8debfd221dd255f9270038bea06a70138af0521036
+description: 'kdeps harness: goal-confirm-system'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

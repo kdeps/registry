@@ -1,0 +1,11 @@
+name: kdeps-tools-search_local
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/search_local/1.0.0.yaml
+sha256: b5e5b1f5c3aaa9c7e3aabef5725cc5a6b4d994a33e810fbdf17fe1b6ace17538
+description: 'Search for text patterns in local files using ripgrep. Returns matching files with a snippet, and (when the query is found) a match_id/line/revision - pass match_id to read_file to jump straight to that hit. Use for finding usages, patterns, or strings across the codebase. Requires: path (directory to search), query (search term). Optional: glob (file pattern), limit (max results, default 3).'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

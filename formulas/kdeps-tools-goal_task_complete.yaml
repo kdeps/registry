@@ -1,0 +1,11 @@
+name: kdeps-tools-goal_task_complete
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/goal_task_complete/1.0.0.yaml
+sha256: 418554ffd449d86283638a46a8472f31bda95b96c61c3b1c070158f630889382
+description: Mark the ACTIVE task finished and advance to the next one. Call this as soon as the active task's objective is met. Pass the active task's id and a one-line summary of what was achieved.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-tools-zapier_run_action
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/zapier_run_action/1.0.0.yaml
+sha256: 03f3c35d903e12a3bafa9ccc5cdafa73ab862559b430a9303c8ad020aad88db4
+description: Execute a Zapier NLA action by action ID with natural language instructions. First use zapier_list_actions to find available action IDs. Requires ZAPIER_NLA_API_KEY.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

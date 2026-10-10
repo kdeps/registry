@@ -1,0 +1,11 @@
+name: kdeps-tools-serpapi_search
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/serpapi_search/1.0.0.yaml
+sha256: b05dcf1f47e367ea3f38acf720d629eaa910fa9e1e3a34763e073f1c70227f7c
+description: Search Google via SerpAPI. Use for current events, news, and queries requiring fresh web results. Requires SERPAPI_API_KEY. Input is a plain search query string.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

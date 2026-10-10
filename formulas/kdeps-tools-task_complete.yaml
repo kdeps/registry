@@ -1,0 +1,11 @@
+name: kdeps-tools-task_complete
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/task_complete/1.0.0.yaml
+sha256: 4852e1cf0de82b3849c8c346d4bf257aa7372cd7f08f81e1c7249a8a1bd32684
+description: Mark a task as completed. Call this when a task's work is done.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

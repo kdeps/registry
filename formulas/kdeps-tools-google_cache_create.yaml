@@ -1,0 +1,11 @@
+name: kdeps-tools-google_cache_create
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/google_cache_create/1.0.0.yaml
+sha256: 656c135baf0b7cbf14025d6007299439f8a13bacefce5cc7378d83a0ee22b965
+description: 'Create a Google AI server-side cached content entry from a text system prompt. Returns the cache name (e.g. ''cachedContents/xyz123'') for use in chat: googleCachedContent. Only available when GOOGLE_API_KEY is set.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

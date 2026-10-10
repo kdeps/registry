@@ -1,0 +1,11 @@
+name: kdeps-events-efficiency-failures
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-failures/1.0.0.yaml
+sha256: 7bc2b5d166e413dcc6fc3adcb6ae9d9df6c782bfbc3e61524f0cbe745127597c
+description: 'kdeps event: efficiency-failures'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0

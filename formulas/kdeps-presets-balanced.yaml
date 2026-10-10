@@ -1,0 +1,11 @@
+name: kdeps-presets-balanced
+version: 1.0.0
+type: preset
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/balanced/1.0.0.yaml
+sha256: 427cbfa8f3ff161ad1ca7bd8f5ffa48276ded997a3c0e7dd8222b88b42ebd1af
+description: The shipped, out-of-the-box defaults for every token-economy event. Applying this after switching to "frugal" or "thorough" resets them all in one step, without needing to hand-edit or delete override files.
+tags:
+  - kdeps
+  - preset
+license: Apache-2.0

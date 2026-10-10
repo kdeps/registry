@@ -1,0 +1,11 @@
+name: kdeps-tools-calculator
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/calculator/1.0.0.yaml
+sha256: 2b41264fd3ddfe279672aed4045d9f2923b22157ddbf7179a702a976a5dc23a7
+description: Evaluate a mathematical expression and return the result. Accepts any valid numeric expression (e.g. '2 + 2', '3.14 * 10**2', 'sqrt(16)'). Powered by Starlark math evaluation.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

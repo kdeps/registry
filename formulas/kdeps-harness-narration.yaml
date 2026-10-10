@@ -1,0 +1,11 @@
+name: kdeps-harness-narration
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/narration/1.0.0.yaml
+sha256: a665c98ad54c69a4a0871c721322ce8b6c7f72bf252ac1bde8c58784720c4dde
+description: 'kdeps harness: narration'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

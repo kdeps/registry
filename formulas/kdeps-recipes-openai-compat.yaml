@@ -1,0 +1,11 @@
+name: kdeps-recipes-openai-compat
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/openai-compat/1.0.0.yaml
+sha256: a9b45b2d289e4faa1c29171b2d9c0cba479b0b886b1f1c51dec99c134f807a4a
+description: Thin recipe for any image that already serves OpenAI-compatible /v1 on port 8000
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

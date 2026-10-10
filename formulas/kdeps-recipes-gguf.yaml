@@ -1,0 +1,11 @@
+name: kdeps-recipes-gguf
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/gguf/1.0.0.yaml
+sha256: 3cf4ac8795251099a653a1375b1c4e27f97e3e714bffb35f873462452d98d2a6
+description: Alias for llama-server — GGUF weights via llama.cpp OpenAI-compatible /v1
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

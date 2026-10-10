@@ -1,0 +1,11 @@
+name: kdeps-tools-embedding_search
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/embedding_search/1.0.0.yaml
+sha256: 99458e9b7402091ff0a080c910efcbc536aaa0cf1df21af8f0db48877f0d8bcb
+description: 'Search for documents semantically similar to a query in the local embedding database. Returns ranked results with similarity scores. Requires: query (natural language search query), collection (name of the document collection). Optional: limit (max results, default 5).'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

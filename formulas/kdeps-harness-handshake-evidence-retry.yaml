@@ -1,0 +1,11 @@
+name: kdeps-harness-handshake-evidence-retry
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/handshake-evidence-retry/1.0.0.yaml
+sha256: 5d7bb6056290c82024c05f9e23da9a569ad27dedd133855e392728a3f6fb867c
+description: 'kdeps harness: handshake-evidence-retry'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

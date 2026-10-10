@@ -1,0 +1,11 @@
+name: kdeps-tools-approval_grant
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/approval_grant/1.0.0.yaml
+sha256: 454920276eb10a4c3b46469c51d87c11f49c008603f1bd3d5c267dcf7c878f58
+description: Grant a pending approval token. Use when the user has explicitly approved the requested exception.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-harness-m365-sandbox
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/m365-sandbox/1.0.0.yaml
+sha256: 2fe13472bb22c22f168963f62d7c65ed42311abfd84093e20b90a5569df81a7f
+description: 'kdeps harness: m365-sandbox'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

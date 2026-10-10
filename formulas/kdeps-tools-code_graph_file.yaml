@@ -1,0 +1,11 @@
+name: kdeps-tools-code_graph_file
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_graph_file/1.0.0.yaml
+sha256: b27af452d8ad17a03dbd9def72f850e45876374047e2121a4ab2ac8a70b1cfb9
+description: 'Graph a single indexed file: its reference tree plus every other indexed file that shares a topic with it. Requires an index built with code_index_folder first. Requires: path.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

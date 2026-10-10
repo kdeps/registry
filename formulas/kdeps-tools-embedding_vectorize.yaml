@@ -1,0 +1,11 @@
+name: kdeps-tools-embedding_vectorize
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/embedding_vectorize/1.0.0.yaml
+sha256: 12dba432c84bc5e61ab1cb6361af7764c57e7578cf431f30938629764f77ab25
+description: 'Convert text into vector embeddings using an embedding model. Returns the embedding vectors. Use for indexing documents into the local embedding database or computing semantic similarity. Requires: texts (list of strings to embed). Optional: model, backend.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

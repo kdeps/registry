@@ -1,0 +1,11 @@
+name: kdeps-harness-refine-system
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/refine-system/1.0.0.yaml
+sha256: b5e1e8599eeed7c67f095023259196dbf6fab4eb838c98b8e396c14cdf432a2a
+description: 'kdeps harness: refine-system'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

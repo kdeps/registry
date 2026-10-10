@@ -1,0 +1,11 @@
+name: kdeps-tools-load_skill
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/load_skill/1.0.0.yaml
+sha256: d7aae760790a4d25f0ed0693c243e8a85019f85b81f24bece1446c193b3a00fc
+description: Load the full instructions for a named skill. Call this when the user's task matches one of the skills listed in <available_skills>. Returns the skill's complete instructions to follow.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-templates-sql-agent
+version: 1.0.0
+type: template
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/sql-agent/1.0.0.yaml
+sha256: c8b11929566e71086671af7a39cb47f4915c86e9b877fc9560884ce4f5632559
+description: 'kdeps template: sql-agent'
+tags:
+  - kdeps
+  - template
+license: Apache-2.0

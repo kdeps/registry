@@ -1,0 +1,11 @@
+name: kdeps-tools-google_cache_list
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/google_cache_list/1.0.0.yaml
+sha256: 12cb5088bbd53b650234eeec43ed62a5178c4d32e2926299140777616504e89a
+description: List all Google AI cached content entries. Returns a JSON array of cache names. Only available when GOOGLE_API_KEY is set.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

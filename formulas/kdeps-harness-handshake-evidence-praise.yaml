@@ -1,0 +1,11 @@
+name: kdeps-harness-handshake-evidence-praise
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/handshake-evidence-praise/1.0.0.yaml
+sha256: 0ac346d3bb30ae1ee2631d6a121e398bcd04b21e27a3640691dfd6a7ee5e4849
+description: 'kdeps harness: handshake-evidence-praise'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-tools-judge_verdict
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/judge_verdict/1.0.0.yaml
+sha256: b971c4f4635dacf13eeb1e500de4233c962a1a260f0e4f94bf3d40470f315cdf
+description: Settle your review of the candidate output. Must be called exactly once, when your review is complete.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

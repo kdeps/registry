@@ -1,0 +1,11 @@
+name: kdeps-tools-cron_resume
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/cron_resume/1.0.0.yaml
+sha256: 40fc51c502fd71ac56a518b0dd80fb7e82842381ad7a69334f4309bd24af497a
+description: Resume a paused cron job.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-events-efficiency-stops
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-stops/1.0.0.yaml
+sha256: 92c15e94f672e2ff6196b4295c61750b58daebb7f289914089f85c21da4b789c
+description: 'kdeps event: efficiency-stops'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0

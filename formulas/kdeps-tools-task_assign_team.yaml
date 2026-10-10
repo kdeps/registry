@@ -1,0 +1,11 @@
+name: kdeps-tools-task_assign_team
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/task_assign_team/1.0.0.yaml
+sha256: 1379af871c0f65de7694fce6391478ab98ac3e800f1db81dfd4e933a6d859149
+description: Assign a task to a team for multi-agent coordination.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-themes-linux
+version: 1.0.0
+type: theme
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/themes/linux/1.0.0.yaml
+sha256: 420c9656d58a70057f958d506d0d59eb2e61260e629c1b7385e86a5c679d5be7
+description: 'kdeps theme: linux'
+tags:
+  - kdeps
+  - theme
+license: Apache-2.0

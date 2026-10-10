@@ -1,0 +1,11 @@
+name: kdeps-themes-black
+version: 1.0.0
+type: theme
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/themes/black/1.0.0.yaml
+sha256: 877d3d90826004e60eb7fafc7fe8f65088b9108a9d205de944308580fb097219
+description: 'kdeps theme: black'
+tags:
+  - kdeps
+  - theme
+license: Apache-2.0

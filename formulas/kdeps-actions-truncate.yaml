@@ -1,0 +1,11 @@
+name: kdeps-actions-truncate
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/truncate/1.0.0.yaml
+sha256: 291c1a3eb15fe635a979e1764ebe158a980e1aa606453c93294450e3b3ca10ec
+description: Shorten oversized content to a size budget, appending a marker noting what was cut, instead of refusing the operation outright.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

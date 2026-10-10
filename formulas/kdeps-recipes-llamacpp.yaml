@@ -1,0 +1,11 @@
+name: kdeps-recipes-llamacpp
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/llamacpp/1.0.0.yaml
+sha256: ea0c1830cb82a4b0fa5fae307cdd74c1e10693d1aeb512ffc43953eabd96d456
+description: Official llama.cpp server image (OpenAI-compatible /v1) for GGUF
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

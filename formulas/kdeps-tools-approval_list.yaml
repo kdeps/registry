@@ -1,0 +1,11 @@
+name: kdeps-tools-approval_list
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/approval_list/1.0.0.yaml
+sha256: 83a8eb6367e700ecd33a76d80148a20cd3c5520935945236b101c590d5bb5885
+description: List all approval tokens, their statuses, and scopes.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

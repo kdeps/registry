@@ -1,0 +1,11 @@
+name: kdeps-tools-ocr_image
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/ocr_image/1.0.0.yaml
+sha256: 1119b273d15fa92ab4cef973391ac2debc52783bbe9872d0ff23d3e233a4ceb0
+description: 'Extract text from an image via tesseract OCR. Runs entirely locally -- no API key required. Supports png, jpg/jpeg, tiff, bmp, gif. Requires: file (absolute path to the image). Optional: language (tesseract -l value, e.g. ''eng'' or ''eng+fra''; default ''eng''). Does not support PDF -- use load_document with type pdf for text-layer PDFs.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

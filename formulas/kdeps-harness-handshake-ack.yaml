@@ -1,0 +1,11 @@
+name: kdeps-harness-handshake-ack
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/handshake-ack/1.0.0.yaml
+sha256: ed912966c778171738477946e1227588cb47bebce2e8b5d7cb392aa1aa321b27
+description: 'kdeps harness: handshake-ack'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

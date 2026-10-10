@@ -1,0 +1,11 @@
+name: kdeps-harness-compaction-system
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/compaction-system/1.0.0.yaml
+sha256: dcc9c8af8a793c09a8fcf721fdb3c0ac414553877f2366d6cbb7f45020d098fa
+description: 'kdeps harness: compaction-system'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

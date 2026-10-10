@@ -1,0 +1,11 @@
+name: kdeps-actions-fail_handshake
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/fail_handshake/1.0.0.yaml
+sha256: 8578da827818d0e5ee1e17c241f84542e7575487e043ff0016637db29595a134
+description: End a session-integrity handshake challenge as failed once its round budget is spent without the model producing the expected grounding call.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

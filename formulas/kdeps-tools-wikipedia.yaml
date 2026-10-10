@@ -1,0 +1,11 @@
+name: kdeps-tools-wikipedia
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/wikipedia/1.0.0.yaml
+sha256: 2d4e70277c50ab6f7818b471456401fd420612174b99887f167d11e811ab36c6
+description: Look up information on Wikipedia. Use for general knowledge questions about people, places, companies, historical events, concepts, or any topic needing an encyclopedic answer. Input is a search query.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

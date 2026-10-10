@@ -1,0 +1,11 @@
+name: kdeps-tools-perplexity_search
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/perplexity_search/1.0.0.yaml
+sha256: e139ca1ec1d6f5c76c4c4862a63d81d71025bb713008d461fab763326bee2e23
+description: Search the web using Perplexity AI. Provides cited, up-to-date answers from the internet. Requires PERPLEXITY_API_KEY. Input is a plain search query or question.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

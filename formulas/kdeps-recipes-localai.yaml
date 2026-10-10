@@ -1,0 +1,11 @@
+name: kdeps-recipes-localai
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/localai/1.0.0.yaml
+sha256: 5eec8d44252a412689e163053b3208ceffb6db5caf7fa764acc480a7295098d2
+description: LocalAI drop-in OpenAI-compatible API (CPU/GPU images)
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

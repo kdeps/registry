@@ -1,0 +1,11 @@
+name: kdeps-events-efficiency-tighten
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-tighten/1.0.0.yaml
+sha256: dce2f5e99f2e4571a194fabc4e95acfb141641b5dd8288f8858d527811504e9e
+description: 'kdeps event: efficiency-tighten'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0

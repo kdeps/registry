@@ -1,0 +1,11 @@
+name: kdeps-tools-code_diagnostics
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_diagnostics/1.0.0.yaml
+sha256: 0b04efd8684d14c01658c803c136e645009def590bc931ee128aa14eb3604c61
+description: 'Get compiler/linter diagnostics for a file. Returns errors, warnings, hints. Requires: path.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

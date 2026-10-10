@@ -1,0 +1,11 @@
+name: kdeps-recipes-sglang
+version: 1.0.0
+type: recipe
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/recipes/sglang/1.0.0.yaml
+sha256: b96e0b0a2a5231a2c8217642cb5a767245314a10a4de189aa8364fff469d4dcf
+description: SGLang OpenAI-compatible serving runtime (GPU)
+tags:
+  - kdeps
+  - recipe
+license: Apache-2.0

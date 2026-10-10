@@ -1,0 +1,11 @@
+name: kdeps-harness-handshake
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/handshake/1.0.0.yaml
+sha256: 8a4e82ab07286decab6f3f8f0d0d8059eecb62337b43f9632aae674bdf350810
+description: 'kdeps harness: handshake'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

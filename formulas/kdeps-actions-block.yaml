@@ -1,0 +1,11 @@
+name: kdeps-actions-block
+version: 1.0.0
+type: action
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/actions/block/1.0.0.yaml
+sha256: 53e1da1ac9fbe4f2290ab2eb0197bcb495d61aca95b7f6eabe647da07ad39f09
+description: Refuse further distinct tool calls in one category once its per-turn budget is exhausted. A repeat of an already-attempted call is never blocked -- only new, distinct calls draw from the budget.
+tags:
+  - kdeps
+  - action
+license: Apache-2.0

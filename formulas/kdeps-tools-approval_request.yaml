@@ -1,0 +1,11 @@
+name: kdeps-tools-approval_request
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/approval_request/1.0.0.yaml
+sha256: 19b4f3886527c8bb835d189422761ce447cc6209a01c04d61876d309e291bed2
+description: Request a one-time permission exception from the user. Use when a tool call is blocked by permission mode and you need user approval. Returns a token ID.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-harness-goal-plan-system
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/goal-plan-system/1.0.0.yaml
+sha256: bc80de94046d7d50478702cbd46e4103a4d98fd26bd293a80b26f3fd169bf73d
+description: 'kdeps harness: goal-plan-system'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

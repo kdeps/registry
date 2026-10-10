@@ -1,0 +1,11 @@
+name: kdeps-harness-tool-call-sandbox-recovery-praise
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/tool-call-sandbox-recovery-praise/1.0.0.yaml
+sha256: 0364406656c28f0e2e7634f6f1e83350316257a764646643fa739d97f8abdd35
+description: 'kdeps harness: tool-call-sandbox-recovery-praise'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0

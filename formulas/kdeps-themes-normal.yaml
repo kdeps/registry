@@ -1,0 +1,11 @@
+name: kdeps-themes-normal
+version: 1.0.0
+type: theme
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/themes/normal/1.0.0.yaml
+sha256: 3af14f0bc789bdc9d7a1e31883e85267f28dec262dde591fe37995037c0b806b
+description: 'kdeps theme: normal'
+tags:
+  - kdeps
+  - theme
+license: Apache-2.0
