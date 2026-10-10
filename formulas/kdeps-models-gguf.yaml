@@ -1,0 +1,11 @@
+name: kdeps-models-gguf
+version: 1.0.0
+type: model
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/gguf/1.0.0.yaml
+sha256: 6057e47808db20bfa34384fe98f7b19daf5cd0ccd255e1863fc8117c61ce444b
+description: 'kdeps model: gguf'
+tags:
+  - kdeps
+  - model
+license: Apache-2.0
