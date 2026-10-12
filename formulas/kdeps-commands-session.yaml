@@ -1,0 +1,11 @@
+name: kdeps-commands-session
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/session/1.0.0.yaml
+sha256: 34e5be901990a9b55f2abb81631eb01ecdd6f83c9d9da7804e8d955c1b2871ec
+description: 'kdeps command: session'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-commands-permission
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/permission/1.0.0.yaml
+sha256: 00ca4b09ac1232df5d6c64709843a85caba4021860c6693a9a4dc4785cff3a9a
+description: 'kdeps command: permission'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

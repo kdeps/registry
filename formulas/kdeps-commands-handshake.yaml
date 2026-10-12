@@ -1,0 +1,11 @@
+name: kdeps-commands-handshake
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/handshake/1.0.0.yaml
+sha256: 72c4a2a8067e893f60fa3eabdebca293120d8e311e805b8e15b42b9271db60fe
+description: 'kdeps command: handshake'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

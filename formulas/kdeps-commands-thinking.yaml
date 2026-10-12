@@ -1,0 +1,11 @@
+name: kdeps-commands-thinking
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/thinking/1.0.0.yaml
+sha256: 84002861c2f7204f1c16fc4e17dac5d675195472a1da0cc2f307537368ac1d2e
+description: 'kdeps command: thinking'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

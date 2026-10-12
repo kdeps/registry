@@ -1,0 +1,11 @@
+name: kdeps-commands-turo
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/turo/1.0.0.yaml
+sha256: 7524cc638def40cb11eaddc9280d0afca5f6976ea91eba7d4d5ff98c82ffec5b
+description: 'kdeps command: turo'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

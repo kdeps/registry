@@ -1,0 +1,11 @@
+name: kdeps-commands-review
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/review/1.0.0.yaml
+sha256: 184db1b2514817ae128426ecc25d067c2c14a9b011ed55ee1fc005c4c644fa71
+description: 'kdeps command: review'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

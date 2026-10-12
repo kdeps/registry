@@ -1,0 +1,11 @@
+name: kdeps-commands-theme
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/theme/1.0.0.yaml
+sha256: 560eefa1ee7006549c4cef0def0b8c6d514bc18e933c43c523a38bec00ea4d1a
+description: 'kdeps command: theme'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

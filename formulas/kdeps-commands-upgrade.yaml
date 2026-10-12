@@ -1,0 +1,11 @@
+name: kdeps-commands-upgrade
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/upgrade/1.0.0.yaml
+sha256: 30c9585365e13e5fedfc91afb6cc56daf3f27e568fd6f6db1a08867def81cd23
+description: 'kdeps command: upgrade'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

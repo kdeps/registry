@@ -1,0 +1,11 @@
+name: kdeps-commands-efficiency
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/efficiency/1.0.0.yaml
+sha256: a74f3120cbc6c76483d37ce2ac0fdb9ee8a51e797fa4da97a07542126c1b0128
+description: 'kdeps command: efficiency'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

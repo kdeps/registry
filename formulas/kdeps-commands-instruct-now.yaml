@@ -1,0 +1,11 @@
+name: kdeps-commands-instruct-now
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/instruct-now/1.0.0.yaml
+sha256: 821d0cbf03e5b74b898fe059b619fb18ca565bbe7f831bc96f5ceff85e4519ae
+description: 'kdeps command: instruct-now'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

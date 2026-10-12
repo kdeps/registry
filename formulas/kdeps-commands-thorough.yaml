@@ -1,0 +1,11 @@
+name: kdeps-commands-thorough
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/thorough/1.0.0.yaml
+sha256: b956881d83c12bb453b3d3d78bb9b7f533d9332477e46a795f5ea124f7f30969
+description: 'kdeps command: thorough'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

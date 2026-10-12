@@ -1,0 +1,11 @@
+name: kdeps-commands-frugal
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/frugal/1.0.0.yaml
+sha256: 4bec3b0868836a4995afc07c27345f0855a13aad5fabb573c148834e1db8bec8
+description: 'kdeps command: frugal'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

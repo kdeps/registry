@@ -1,0 +1,11 @@
+name: kdeps-commands-autocontext
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/autocontext/1.0.0.yaml
+sha256: df2bc89bc670521eb2182470a495cad391dec9bfe6d654b80f2c6ff29032f765
+description: 'kdeps command: autocontext'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

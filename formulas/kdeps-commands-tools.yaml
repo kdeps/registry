@@ -1,0 +1,11 @@
+name: kdeps-commands-tools
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/tools/1.0.0.yaml
+sha256: 96c2ef56f97e373b568f78040a17c2d3b5d85061b5d1d2315db1bf2a5bbedfb0
+description: 'kdeps command: tools'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-commands-kartographer
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/kartographer/1.0.0.yaml
+sha256: 8d30fcb1f30a4984028ffdba664a406db64b95fb3ed6475fec1b4c00b0bd2910
+description: 'kdeps command: kartographer'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

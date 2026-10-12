@@ -1,0 +1,11 @@
+name: kdeps-commands-settings
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/settings/1.0.0.yaml
+sha256: 090af8915dd20c642a57f4ccff71ea878ffd8940b5a9a42577594cf043c6f168
+description: 'kdeps command: settings'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

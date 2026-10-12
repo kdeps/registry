@@ -1,0 +1,11 @@
+name: kdeps-commands-goal
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/goal/1.0.0.yaml
+sha256: b145516f736998346ec6982a3433516e2ede452a15ef6224962494d975f70924
+description: 'kdeps command: goal'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

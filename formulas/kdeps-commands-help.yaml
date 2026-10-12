@@ -1,0 +1,11 @@
+name: kdeps-commands-help
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/help/1.0.0.yaml
+sha256: 9976d7235f662629cb25727f28a73accd3f58a36d33483870231677808652f51
+description: 'kdeps command: help'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

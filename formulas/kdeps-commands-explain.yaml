@@ -1,0 +1,11 @@
+name: kdeps-commands-explain
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/explain/1.0.0.yaml
+sha256: 1ef0caff6dfd7df855952fe6f88367083c61bfb8f4ea25aef580987a5166ad56
+description: 'kdeps command: explain'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

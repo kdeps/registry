@@ -1,0 +1,11 @@
+name: kdeps-commands-login
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/login/1.0.0.yaml
+sha256: 55073a66bd429074266f8bf55ca8fec99faa634fc9f06c623750493fcd95e5fa
+description: 'kdeps command: login'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

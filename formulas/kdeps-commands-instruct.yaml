@@ -1,0 +1,11 @@
+name: kdeps-commands-instruct
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/instruct/1.0.0.yaml
+sha256: f8c741bdb556054630c93879ced73a949373869cd0fd5f061ad24e949a643550
+description: 'kdeps command: instruct'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

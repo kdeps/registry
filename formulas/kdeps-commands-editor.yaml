@@ -1,0 +1,11 @@
+name: kdeps-commands-editor
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/editor/1.0.0.yaml
+sha256: e34874ffc3ccf1ad55bc1716537886b7adadee9b891f7f295f8dc5e9a6e596a9
+description: 'kdeps command: editor'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0
