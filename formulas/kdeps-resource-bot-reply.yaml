@@ -1,0 +1,12 @@
+name: kdeps-resource-bot-reply
+version: 2.58.2
+type: resource
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/botReply/2.58.2.md
+sha256: 8222328c1130aab48f4845a07357d758a07a5b58ba75d6e825e12f518c377ce4
+description: The `botReply:` resource sends a text reply back to the bot platform that delivered the current message - Discord, Slack, Telegram, WhatsApp, or stdout when running in stateless mode. It only makes sense in a workflow whose `settings.input.sources` includes `bot`.
+tags:
+  - kdeps
+  - resource
+  - botReply
+license: Apache-2.0

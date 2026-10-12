@@ -1,0 +1,12 @@
+name: kdeps-resource-api-response
+version: 2.58.2
+type: resource
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/apiResponse/2.58.2.md
+sha256: 4eed58cb060188b32c4cb79f4a2113bd18045b676dc9b61f7b2eee21bdd844d0
+description: '`apiResponse:` builds and returns the HTTP response sent back to the caller. It is always the last resource in the dependency chain - the resource pointed to by [`targetActionId`](https://kdeps.com/reference/glossary#targetactionid) in `workflow.yaml`.'
+tags:
+  - kdeps
+  - resource
+  - apiResponse
+license: Apache-2.0

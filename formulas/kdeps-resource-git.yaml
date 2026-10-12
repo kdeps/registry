@@ -1,0 +1,12 @@
+name: kdeps-resource-git
+version: 2.58.2
+type: resource
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/git/2.58.2.md
+sha256: 2565f785c3f982f4223b8792aebae9248ceef23ba0aa86b66c42800c74d82b12
+description: The `git:` resource provides structured version control operations for reading repository state and making commits. It replaces ad-hoc shell commands (`exec git status`, `exec git log`) with type-safe, composable DAG operations that return structured output.
+tags:
+  - kdeps
+  - resource
+  - git
+license: Apache-2.0

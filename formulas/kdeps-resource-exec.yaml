@@ -1,0 +1,12 @@
+name: kdeps-resource-exec
+version: 2.58.2
+type: resource
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/exec/2.58.2.md
+sha256: fe71af846d5ac59b9eda6204d4b3e13bbc1dadfaa8e61593761a4f811149c411
+description: The `exec:` resource runs a shell command and stores its stdout as the resource's output. Use it for system operations, file manipulation, or wrapping CLI tools that do not have a native resource type.
+tags:
+  - kdeps
+  - resource
+  - exec
+license: Apache-2.0

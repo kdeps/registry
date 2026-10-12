@@ -1,0 +1,12 @@
+name: kdeps-resource-browser
+version: 2.58.2
+type: resource
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/browser/2.58.2.md
+sha256: 8c18006cf4c9b20534004faa6207de33c6c12581c0a8a56e5594903060fba17f
+description: The `browser:` resource drives a real browser (Chromium, Firefox, or WebKit) via [Playwright](https://playwright.dev/). Use it to navigate pages, fill forms, run JavaScript, capture screenshots, and maintain authenticated sessions across resources.
+tags:
+  - kdeps
+  - resource
+  - browser
+license: Apache-2.0

@@ -1,0 +1,12 @@
+name: kdeps-resource-sql
+version: 2.58.2
+type: resource
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/sql/2.58.2.md
+sha256: f708cad44b69e97353c2af0d97a8c4df95fa516ff9a7aedd8a286775d32bc8ba
+description: The `sql:` resource runs SQL queries against a named connection and returns the result set as the resource's output. Use it to read, write, or transact against any supported database.
+tags:
+  - kdeps
+  - resource
+  - sql
+license: Apache-2.0
