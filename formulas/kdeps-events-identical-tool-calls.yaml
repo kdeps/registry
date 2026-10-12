@@ -1,9 +1,9 @@
 name: kdeps-events-identical-tool-calls
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/identical-tool-calls/1.0.0.yaml
-sha256: b1b94b2f9f27df94e5760675ebd212ac6500692caca69e6a3fe918d1f928d9d5
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/identical-tool-calls/1.0.1.yaml
+sha256: c3c3d612ffd872224cbbd42f89dbfe43687146c3c0068d032f6cc80b0a5e5dce
 description: 'kdeps event: identical-tool-calls'
 tags:
   - kdeps

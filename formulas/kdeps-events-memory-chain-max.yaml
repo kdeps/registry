@@ -1,9 +1,9 @@
 name: kdeps-events-memory-chain-max
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-chain-max/1.0.0.yaml
-sha256: c668029b969a2744aa1bec2030ce9e976d5540f9d5307e61261a3a9b2a537627
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-chain-max/1.0.1.yaml
+sha256: c8e0d720d727f1b9fbc2c9a8ee64fc616cff1e29c006c9ccecd8eb3d3e037b81
 description: 'kdeps event: memory-chain-max'
 tags:
   - kdeps
