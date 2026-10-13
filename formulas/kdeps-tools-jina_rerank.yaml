@@ -1,9 +1,9 @@
 name: kdeps-tools-jina_rerank
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/jina_rerank/1.0.0.yaml
-sha256: 6b17e31f5c67a1f83b0a75b85d80a45c661150656f1a24a97924c428f9dd1e12
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/jina_rerank/1.1.0.yaml
+sha256: 15e8e7fe7565ebadd41b75cfa31e7d8faff1f4d4bef80297f6234f7f8341e3cf
 description: Rerank a list of documents by relevance to a query using Jina AI's reranking API. Requires JINA_API_KEY.
 tags:
   - kdeps

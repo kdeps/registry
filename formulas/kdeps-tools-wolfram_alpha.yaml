@@ -1,9 +1,9 @@
 name: kdeps-tools-wolfram_alpha
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/wolfram_alpha/1.0.0.yaml
-sha256: 6811fe748388636c9dcfceb706dad1cfd3c76df59f11384cffc9398286b82231
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/wolfram_alpha/1.1.0.yaml
+sha256: 4c81f971271b4feac1a9ecb3240e413969d0375afb338f98fe2f87648a212e5a
 description: Query Wolfram Alpha for factual computations, math, science, unit conversions, and data lookups. Returns a concise plain-text answer. Requires WOLFRAM_APP_ID.
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-tools-exa_search
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/exa_search/1.0.0.yaml
-sha256: 7a4766c2c378ff4edad140a99f37620c0c253cc3291964a7c9aa1060236c2622
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/exa_search/1.1.0.yaml
+sha256: 0fe8ca2bc3c5a41377eec0859c48cbed7857b0585d3195ccc4dfa8bb8b79cecc
 description: Search the web using Exa (formerly Metaphor) neural search. Finds highly relevant URLs and content using AI-powered link prediction. Best for research, finding authoritative sources, and content discovery. Requires EXA_API_KEY.
 tags:
   - kdeps

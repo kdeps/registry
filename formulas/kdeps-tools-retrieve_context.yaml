@@ -1,9 +1,9 @@
 name: kdeps-tools-retrieve_context
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/retrieve_context/1.0.0.yaml
-sha256: 99824e941ee191be8fd1fa8602dd1f998402f5cc222d62f13fc5c7f41f24fe90
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/retrieve_context/1.1.0.yaml
+sha256: bacc79eea9d57fba3625c80f15f26e25709d81137c48019c6bd9085bd1682212
 description: Retrieve semantically relevant text chunks from the configured RAG index. Use for finding code, documentation, or notes related to a query before implementing or answering. Requires KDEPS_RAG_BASE_URL pointing to a compatible RAG service.
 tags:
   - kdeps

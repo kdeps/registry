@@ -1,9 +1,9 @@
 name: kdeps-tools-voyageai_rerank
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/voyageai_rerank/1.0.0.yaml
-sha256: 5910e5d78c12d038f3433e6c081ed2b3ce6d5cb47a3153c474465b7de32c37c6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/voyageai_rerank/1.1.0.yaml
+sha256: 14828026d2853f6a98c01332e29f5abf0c92ee01d9a86b600470aa77134d6843
 description: Rerank a list of documents by relevance to a query using VoyageAI's reranking API. Requires VOYAGEAI_API_KEY.
 tags:
   - kdeps

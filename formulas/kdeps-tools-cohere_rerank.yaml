@@ -1,9 +1,9 @@
 name: kdeps-tools-cohere_rerank
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/cohere_rerank/1.0.0.yaml
-sha256: 79512a0a46d26ed4d1a3d22a2ec928ed83803aec36b4c4ba53a5f51f7c21705f
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/cohere_rerank/1.1.0.yaml
+sha256: 004799b383ebc966a912964d23aeb4f980d2f65f092b99fdcf5ef0e5d38725a0
 description: Rerank a list of documents by relevance to a query using Cohere's reranking API. Returns documents sorted by relevance score. Requires COHERE_API_KEY.
 tags:
   - kdeps
