@@ -1,0 +1,11 @@
+name: kdeps-k8s-manifests
+version: 1.0.0
+type: manifest
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/k8s/manifests/1.0.0.yaml
+sha256: 1eb5838cc7baba42dc5d7dc80a137113d62416464100e1a3d9297041d3c43a68
+description: 'kdeps manifest: manifests'
+tags:
+  - kdeps
+  - manifest
+license: Apache-2.0
