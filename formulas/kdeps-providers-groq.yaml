@@ -1,0 +1,11 @@
+name: kdeps-providers-groq
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/groq/1.0.0.yaml
+sha256: fd2ffc28b816d930ed104fa872e568e77f820737c89fc4c9001ca8904cbe8937
+description: 'kdeps provider: groq'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

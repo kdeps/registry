@@ -1,0 +1,11 @@
+name: kdeps-providers-huggingface
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/huggingface/1.0.0.yaml
+sha256: d676df3d435b5fb6fb9fe30e56c5a4a015a3fc5229c40b55d7fe4d1fb4275e38
+description: 'kdeps provider: huggingface'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

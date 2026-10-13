@@ -1,0 +1,11 @@
+name: kdeps-providers-deepseek
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/deepseek/1.0.0.yaml
+sha256: 01bd0dc9d82159b4b1a6a7d5ff41ce95f410f745dee7d3193b43f83e4b26b943
+description: 'kdeps provider: deepseek'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

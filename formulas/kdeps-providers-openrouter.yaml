@@ -1,0 +1,11 @@
+name: kdeps-providers-openrouter
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/openrouter/1.0.0.yaml
+sha256: f794b5d0a9c8024481334630096700fc7ab5e930c5dd4adcffaf2c707e00486d
+description: 'kdeps provider: openrouter'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-providers-maritaca
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/maritaca/1.0.0.yaml
+sha256: 592a4817672ce6913b36192fc2df4baf65cc8534fa9ce1c6f3464de535971cd7
+description: 'kdeps provider: maritaca'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

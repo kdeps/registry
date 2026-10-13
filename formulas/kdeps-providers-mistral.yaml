@@ -1,0 +1,11 @@
+name: kdeps-providers-mistral
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/mistral/1.0.0.yaml
+sha256: 403726c064a2a6de6b257ff87390c985f084fa1eeeb97c68f20a8fd427f98709
+description: 'kdeps provider: mistral'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

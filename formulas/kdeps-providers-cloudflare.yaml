@@ -1,0 +1,11 @@
+name: kdeps-providers-cloudflare
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/cloudflare/1.0.0.yaml
+sha256: b370d83365558ace46309fd7a88ebbea3c4009250a69db5f9dc3a5ccbe2e247a
+description: 'kdeps provider: cloudflare'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

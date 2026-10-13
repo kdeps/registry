@@ -1,0 +1,11 @@
+name: kdeps-providers-perplexity
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/perplexity/1.0.0.yaml
+sha256: da84d3e598bad104c1e222413eac0c83c1321a8feaee75d434cbabd84c6b1fe8
+description: 'kdeps provider: perplexity'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

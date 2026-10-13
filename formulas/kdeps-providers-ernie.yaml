@@ -1,0 +1,11 @@
+name: kdeps-providers-ernie
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/ernie/1.0.0.yaml
+sha256: a3de099eaec6a56ea1ac416a4bf8ad14ba207bf760a5b58087bb49f11cbfc9e8
+description: 'kdeps provider: ernie'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-providers-together
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/together/1.0.0.yaml
+sha256: fd778b428f82f71d5d63c45747f01da9e03a7e515f9f8b6548b193bb0435a196
+description: 'kdeps provider: together'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

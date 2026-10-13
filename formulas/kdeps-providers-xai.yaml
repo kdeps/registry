@@ -1,0 +1,11 @@
+name: kdeps-providers-xai
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/xai/1.0.0.yaml
+sha256: 1ec2d6c7c6cf6c07207bf70eab5be260c3bc77ecdf1c846bc5e04e7cfa519433
+description: 'kdeps provider: xai'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0

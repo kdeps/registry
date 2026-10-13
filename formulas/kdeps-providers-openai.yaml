@@ -1,0 +1,11 @@
+name: kdeps-providers-openai
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/openai/1.0.0.yaml
+sha256: bfbe3399a212a78783d31b0a6eff18f6548a3c4775d689ec2240962ed4930f77
+description: 'kdeps provider: openai'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0
