@@ -3,7 +3,7 @@ version: 2.58.2
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/file/2.58.2.md
-sha256: 4c0792dddccc64e983fbcdd019a72d9f1c702a69ad8ae7e79f76020dbad557c7
+sha256: b2da9faf6337916f0f08f8dc05478444d3144c41b2072eb7fc8e96b3a605873f
 description: The `file:` resource provides structured filesystem operations for reading, writing, patching, listing, deleting, copying, moving, and appending files and directories. It replaces ad-hoc shell commands (`exec cat`, `exec sed -i`, etc.) with type-safe, composable DAG operations that return structured output.
 tags:
   - kdeps
