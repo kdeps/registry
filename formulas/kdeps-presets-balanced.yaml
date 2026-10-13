@@ -1,11 +1,43 @@
 name: kdeps-presets-balanced
-version: 1.0.0
+version: 1.0.1
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/balanced/1.0.0.yaml
-sha256: 427cbfa8f3ff161ad1ca7bd8f5ffa48276ded997a3c0e7dd8222b88b42ebd1af
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/balanced/1.0.1.yaml
+sha256: 4ac14699f4345fdb8d1eed4a9e91d2f9944edc57405f6772b0697ac9d1461512
 description: The shipped, out-of-the-box defaults for every token-economy event. Applying this after switching to "frugal" or "thorough" resets them all in one step, without needing to hand-edit or delete override files.
 tags:
   - kdeps
   - preset
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""
+  kdeps-actions-cap: ""
+  kdeps-actions-compact: ""
+  kdeps-actions-drop_oldest: ""
+  kdeps-actions-truncate: ""
+  kdeps-events-auto-compact: ""
+  kdeps-events-bash-call-budget: ""
+  kdeps-events-code-call-budget: ""
+  kdeps-events-efficiency: ""
+  kdeps-events-efficiency-actions: ""
+  kdeps-events-efficiency-bash: ""
+  kdeps-events-efficiency-code: ""
+  kdeps-events-efficiency-failures: ""
+  kdeps-events-efficiency-file: ""
+  kdeps-events-efficiency-reads: ""
+  kdeps-events-efficiency-stops: ""
+  kdeps-events-efficiency-tighten: ""
+  kdeps-events-efficiency-verbose: ""
+  kdeps-events-efficiency-web: ""
+  kdeps-events-file-call-budget: ""
+  kdeps-events-fold: ""
+  kdeps-events-force-answer-digest: ""
+  kdeps-events-history-window-trim: ""
+  kdeps-events-memory-chain-max: ""
+  kdeps-events-memory-focus-max: ""
+  kdeps-events-memory-keys-limit: ""
+  kdeps-events-memory-prompt-limit: ""
+  kdeps-events-rel-memory-limit: ""
+  kdeps-events-tool-error-truncate: ""
+  kdeps-events-tool-result-truncate: ""
+  kdeps-events-web-call-budget: ""

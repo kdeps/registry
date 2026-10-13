@@ -1,11 +1,13 @@
 name: kdeps-events-unproductive-rounds
-version: 1.0.1
+version: 1.0.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/unproductive-rounds/1.0.1.yaml
-sha256: 704da719750c62dfc0532c2179f97c4e1f1dec3ed89ab144fea1eafed188fdbc
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/unproductive-rounds/1.0.2.yaml
+sha256: b098297ba14b8c811d89a20cf797d1eef5d2953e440b243445b90aadfd798e8c
 description: 'kdeps event: unproductive-rounds'
 tags:
   - kdeps
   - event
 license: Apache-2.0
+dependencies:
+  kdeps-actions-fail_task: ""

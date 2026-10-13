@@ -1,11 +1,43 @@
 name: kdeps-presets-frugal
-version: 1.0.0
+version: 1.0.1
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.0.0.yaml
-sha256: 86bb4266697e12cc4a110701ba10adf0f65ee2d1d740d80062b4ee7342317e3e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.0.1.yaml
+sha256: 1525c99f05a020a0612b4a76a759011a60d3f44b0deead56ce41d80539778d16
 description: 'Minimizes token usage: compacts and folds history sooner, injects far less memory context, truncates tool output harder, and caps tool-call budgets tighter. Best for cost-sensitive sessions or a small-context- window local model.'
 tags:
   - kdeps
   - preset
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""
+  kdeps-actions-cap: ""
+  kdeps-actions-compact: ""
+  kdeps-actions-drop_oldest: ""
+  kdeps-actions-truncate: ""
+  kdeps-events-auto-compact: ""
+  kdeps-events-bash-call-budget: ""
+  kdeps-events-code-call-budget: ""
+  kdeps-events-efficiency: ""
+  kdeps-events-efficiency-actions: ""
+  kdeps-events-efficiency-bash: ""
+  kdeps-events-efficiency-code: ""
+  kdeps-events-efficiency-failures: ""
+  kdeps-events-efficiency-file: ""
+  kdeps-events-efficiency-reads: ""
+  kdeps-events-efficiency-stops: ""
+  kdeps-events-efficiency-tighten: ""
+  kdeps-events-efficiency-verbose: ""
+  kdeps-events-efficiency-web: ""
+  kdeps-events-file-call-budget: ""
+  kdeps-events-fold: ""
+  kdeps-events-force-answer-digest: ""
+  kdeps-events-history-window-trim: ""
+  kdeps-events-memory-chain-max: ""
+  kdeps-events-memory-focus-max: ""
+  kdeps-events-memory-keys-limit: ""
+  kdeps-events-memory-prompt-limit: ""
+  kdeps-events-rel-memory-limit: ""
+  kdeps-events-tool-error-truncate: ""
+  kdeps-events-tool-result-truncate: ""
+  kdeps-events-web-call-budget: ""

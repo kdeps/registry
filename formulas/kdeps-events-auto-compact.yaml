@@ -1,11 +1,13 @@
 name: kdeps-events-auto-compact
-version: 1.0.1
+version: 1.0.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/auto-compact/1.0.1.yaml
-sha256: 03b6081e220925e614e3e5cabfc53b7ed7084d2beefde35f7ac669c7b46bbe76
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/auto-compact/1.0.2.yaml
+sha256: 1612bb1ffc5f6cc7ddd9425eef4153fb508dff69f7d297f6af214d0c4c49e8cc
 description: 'kdeps event: auto-compact'
 tags:
   - kdeps
   - event
 license: Apache-2.0
+dependencies:
+  kdeps-actions-compact: ""

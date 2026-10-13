@@ -1,11 +1,13 @@
 name: kdeps-events-efficiency-bash
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-bash/1.0.0.yaml
-sha256: 1655ecfb5b5403202a98c51401ea0c7c111607030f28639203f7d2a3a25dfb73
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-bash/1.0.1.yaml
+sha256: 69894005fed2951acc309e11b388fc7a745ad462c9b4b7e600e8135fc3b13f23
 description: 'kdeps event: efficiency-bash'
 tags:
   - kdeps
   - event
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""

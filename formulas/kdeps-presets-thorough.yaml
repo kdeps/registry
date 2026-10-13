@@ -1,11 +1,43 @@
 name: kdeps-presets-thorough
-version: 1.0.0
+version: 1.0.1
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.0.0.yaml
-sha256: 22b19cb2ecc10883247369e7e33044b0832236bec1b5d340e394f8a525a01418
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.0.1.yaml
+sha256: aeca6b2d0243eac6cdbdaaa83eb8c099868ff03b81696f51361804037666e70d
 description: 'Maximizes context retention: compacts and folds much less often, injects far more memory context, keeps more of every tool result, and allows larger tool-call budgets. Best for long research/investigation sessions where losing history hurts quality more than the extra tokens cost.'
 tags:
   - kdeps
   - preset
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""
+  kdeps-actions-cap: ""
+  kdeps-actions-compact: ""
+  kdeps-actions-drop_oldest: ""
+  kdeps-actions-truncate: ""
+  kdeps-events-auto-compact: ""
+  kdeps-events-bash-call-budget: ""
+  kdeps-events-code-call-budget: ""
+  kdeps-events-efficiency: ""
+  kdeps-events-efficiency-actions: ""
+  kdeps-events-efficiency-bash: ""
+  kdeps-events-efficiency-code: ""
+  kdeps-events-efficiency-failures: ""
+  kdeps-events-efficiency-file: ""
+  kdeps-events-efficiency-reads: ""
+  kdeps-events-efficiency-stops: ""
+  kdeps-events-efficiency-tighten: ""
+  kdeps-events-efficiency-verbose: ""
+  kdeps-events-efficiency-web: ""
+  kdeps-events-file-call-budget: ""
+  kdeps-events-fold: ""
+  kdeps-events-force-answer-digest: ""
+  kdeps-events-history-window-trim: ""
+  kdeps-events-memory-chain-max: ""
+  kdeps-events-memory-focus-max: ""
+  kdeps-events-memory-keys-limit: ""
+  kdeps-events-memory-prompt-limit: ""
+  kdeps-events-rel-memory-limit: ""
+  kdeps-events-tool-error-truncate: ""
+  kdeps-events-tool-result-truncate: ""
+  kdeps-events-web-call-budget: ""

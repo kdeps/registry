@@ -1,11 +1,13 @@
 name: kdeps-components-transcribe
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/transcribe/1.0.0.yaml
-sha256: 4fc34acccc4d9203080474b9213c500906e10e0075455561ed78f4b42c4152b2
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/transcribe/1.0.1.yaml
+sha256: 04fa917b950df31e2642ed8ac96eba070c0886aca59f646cf0383da015ed7372
 description: 'kdeps kdeps-component: transcribe'
 tags:
   - kdeps
   - kdeps-component
 license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""

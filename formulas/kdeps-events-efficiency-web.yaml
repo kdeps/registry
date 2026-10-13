@@ -1,11 +1,13 @@
 name: kdeps-events-efficiency-web
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-web/1.0.0.yaml
-sha256: 75468294c9efdebd4f5aeca3b36d26ee3cbde568a27444bc02cce3214ac940ca
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-web/1.0.1.yaml
+sha256: 15d2f3b509a7231c49b0f33df369c998dc2ef5767685e68bd43670374cba5732
 description: 'kdeps event: efficiency-web'
 tags:
   - kdeps
   - event
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""

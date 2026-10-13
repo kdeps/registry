@@ -1,11 +1,13 @@
 name: kdeps-events-efficiency-reads
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-reads/1.0.0.yaml
-sha256: db28458aacbdd41c5100e7c13a1343176e5f4bd8a3800355d6d59d6c7e196213
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-reads/1.0.1.yaml
+sha256: afe7cba6f2964ddf224047cd638e6ee1625b9758a80aa61a231d9a39ebae3814
 description: 'kdeps event: efficiency-reads'
 tags:
   - kdeps
   - event
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""

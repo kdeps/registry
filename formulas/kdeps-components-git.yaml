@@ -1,11 +1,13 @@
 name: kdeps-components-git
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/git/1.0.0.yaml
-sha256: 9a64851ae67191935a0213e8bde0997a4efb5b574c645cb0140c4ca9481220a8
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/git/1.0.1.yaml
+sha256: de40a15d6184761127bb2f0bed1038401e1ecd4670ac7f032919edac77d0296a
 description: 'kdeps kdeps-component: git'
 tags:
   - kdeps
   - kdeps-component
 license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""

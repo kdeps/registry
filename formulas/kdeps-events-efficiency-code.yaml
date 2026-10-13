@@ -1,11 +1,13 @@
 name: kdeps-events-efficiency-code
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-code/1.0.0.yaml
-sha256: e8c70aad3cf305e13b7ca123421ee45f662e3a068a1cbbd08bbac1b20cc07bae
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-code/1.0.1.yaml
+sha256: 2854027bdeee11ea6732f4f36c0fa662c6680c7ff951f3933233380403e5f44a
 description: 'kdeps event: efficiency-code'
 tags:
   - kdeps
   - event
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""

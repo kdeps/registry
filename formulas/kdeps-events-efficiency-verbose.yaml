@@ -1,11 +1,13 @@
 name: kdeps-events-efficiency-verbose
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-verbose/1.0.0.yaml
-sha256: dedbccc67f0123b5a844d92534bbe2310c92841a73e9f4cb3a8bab7e85ae7364
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-verbose/1.0.1.yaml
+sha256: bd7df19d7e66a480baf5e772bc2ea1170d7f716bf58c163380785736510d626b
 description: 'kdeps event: efficiency-verbose'
 tags:
   - kdeps
   - event
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""

@@ -1,11 +1,13 @@
 name: kdeps-events-efficiency-file
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-file/1.0.0.yaml
-sha256: 3b74f50c81a4d1c18855d23d3b04e72bdd371ff9579c97f518f466ac64916c16
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-file/1.0.1.yaml
+sha256: a1c5ad350ec1c252a3e29f952cf701f913979894043f8d1bcde911a88ab3580c
 description: 'kdeps event: efficiency-file'
 tags:
   - kdeps
   - event
 license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""
