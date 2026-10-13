@@ -3,7 +3,7 @@ version: 2.58.2
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/httpClient/2.58.2.md
-sha256: 25d97114afdbe4a6d5b6c184dc2130b3bf18fb84816d10e8401e4022ea155f15
+sha256: 7e93707efed2b9e79b5d73e759470feb584349521d27969a7d9120f7b7b3df05
 description: The `httpClient:` resource makes an outbound HTTP request and stores the parsed response body as its output. JSON responses are parsed automatically; other content types are stored as a string.
 tags:
   - kdeps
