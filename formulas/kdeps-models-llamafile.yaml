@@ -1,9 +1,9 @@
 name: kdeps-models-llamafile
-version: 1.0.3
+version: 1.0.4
 type: model
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/llamafile/1.0.3.yaml
-sha256: ab3dfb3cdd23b12bcb3257b1b5ad462557c570e8430a07f2a100c0d8b7337905
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/llamafile/1.0.4.yaml
+sha256: 03dc60adddba818db6a8dc58148d4addf16f429e4603db9631750d5914ae0ed1
 description: 'kdeps model: llamafile'
 tags:
   - kdeps
