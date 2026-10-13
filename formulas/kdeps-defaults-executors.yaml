@@ -1,9 +1,9 @@
 name: kdeps-defaults-executors
-version: 1.0.1
+version: 1.0.2
 type: defaults
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/defaults/executors/1.0.1.yaml
-sha256: 908e219c263befc02ad1004626c7711c19b562e6be2031da5159eed45978006f
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/defaults/executors/1.0.2.yaml
+sha256: 700ebadddc6262c8904d20571cd4ed6d775679ff08c0ab9269d6c2834c5a3cf4
 description: 'kdeps defaults: executors'
 tags:
   - kdeps
