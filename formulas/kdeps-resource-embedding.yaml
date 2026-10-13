@@ -3,7 +3,7 @@ version: 2.58.2
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/embedding/2.58.2.md
-sha256: 54d4111c2af0a703863d3cea73934e8962adb79e85562e632004ed81965007ca
+sha256: bbf40ca90ff2863813d66c1633fe78b0abbc556a2af7c6a95191f6810d80e8f3
 description: The `embedding` executor is a native capability compiled into the `kdeps` binary. It provides a SQLite-backed keyword store for indexing, searching, upserting, and deleting text documents. Use it as the storage layer for RAG pipelines that run fully on-prem.
 tags:
   - kdeps

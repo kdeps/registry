@@ -1,0 +1,11 @@
+name: kdeps-components-scraper
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/scraper/1.0.0.yaml
+sha256: 9ddf161fa249040d38569b4bbe1f11fa8be834afb70d8967cab012bb679b5dd3
+description: 'kdeps kdeps-component: scraper'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
