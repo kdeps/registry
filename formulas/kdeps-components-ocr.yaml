@@ -1,0 +1,11 @@
+name: kdeps-components-ocr
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/ocr/1.0.0.yaml
+sha256: 2a41499c3eb657b32b42a377ac045525de17af916a0893b6c363126f534347ae
+description: 'kdeps kdeps-component: ocr'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0

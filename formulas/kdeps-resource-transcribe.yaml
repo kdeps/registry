@@ -3,7 +3,7 @@ version: 2.58.2
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/transcribe/2.58.2.md
-sha256: 83740be0c42a239b39b01ad4b634331f7125785a6c9f01d98c99523428a09859
+sha256: e7f7c088e555ba08e8167c4011d0bb1a4abf6862f2736eda01c1fd02a93d1a8a
 description: The `transcribe:` resource converts speech in an audio file to text using a Whisper model - OpenAI's API, Groq's API, a self-hosted OpenAI-compatible server, or fully offline via a local `whisper-cli` binary with no API key at all.
 tags:
   - kdeps
