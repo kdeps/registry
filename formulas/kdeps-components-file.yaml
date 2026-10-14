@@ -1,0 +1,13 @@
+name: kdeps-components-file
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/file/1.0.0.yaml
+sha256: f27f64c6d0ae0e5a06efc418a4488fcb3c80af0459a830322aeebd40c85deb5f
+description: 'kdeps kdeps-component: file'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
