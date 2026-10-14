@@ -1,0 +1,13 @@
+name: kdeps-components-browser
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/browser/1.0.0.yaml
+sha256: c224e60b64218b5cfab919755d637c56d652b0a0e9307d65ab875fc2cdb14f1b
+description: 'kdeps kdeps-component: browser'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: '>=1.0.4'
