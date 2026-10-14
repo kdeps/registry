@@ -1,0 +1,11 @@
+name: kdeps-templates-whatsapp-bot
+version: 1.0.0
+type: template
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/whatsapp-bot/1.0.0.yaml
+sha256: 624d2fde28b1de54f888be7983b84d77fd7362a896a64f46dcc97925bfb22811
+description: 'kdeps template: whatsapp-bot'
+tags:
+  - kdeps
+  - template
+license: Apache-2.0
