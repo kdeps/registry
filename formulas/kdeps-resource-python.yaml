@@ -3,7 +3,7 @@ version: 2.58.2
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/python/2.58.2.md
-sha256: 32b26c1b05083cb0051dc2fe9cbb521e13c8c5a49ab6aa2581bb2238892fe108
+sha256: 9f8ec33b99dbc6f720c0a19b9fe3d3cf687e0101bb24f019af7959d3c9e7c692
 description: The `python:` resource runs a Python script and stores its stdout (parsed as JSON) as the resource's output.
 tags:
   - kdeps
