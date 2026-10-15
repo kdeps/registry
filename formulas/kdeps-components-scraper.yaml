@@ -11,3 +11,4 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: '>=1.0.2'
+tokens: 115
