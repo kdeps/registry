@@ -1,0 +1,12 @@
+name: kdeps-harness-knowledge-extract-system
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/knowledge-extract-system/1.0.0.yaml
+sha256: ac3818fac81e50ea74c8e86dd256585d7fb8d957b15d6938cf8c5afa3bb2e76f
+description: 'kdeps harness: knowledge-extract-system'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 243

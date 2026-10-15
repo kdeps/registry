@@ -1,0 +1,12 @@
+name: kdeps-tools-knowledge_card_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/knowledge_card_get/1.0.0.yaml
+sha256: eb1260d805b5489af54090a08eb4cbc1f1f06da0bf9278a3ab851e7385a92f28
+description: 'Read a project or client card from the knowledge workspace: type, status, next step, updated date, and where everything lives (repo, vault folder, memory, skills). Cards are the only home of status. Without a name, returns the card that covers the working directory.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 113

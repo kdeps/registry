@@ -1,0 +1,11 @@
+name: kdeps-commands-knowledge
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/knowledge/1.0.0.yaml
+sha256: 4bc4f182a1b6797f9687f9dddcd213f0381c901545da60cd3dc4ec14fe6312ab
+description: 'kdeps command: knowledge'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

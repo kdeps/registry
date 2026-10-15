@@ -1,0 +1,12 @@
+name: kdeps-tools-knowledge_card_update
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/knowledge_card_update/1.0.0.yaml
+sha256: 38813eccbb84e1f74ed0a417739c9ee3958ffc8d588a1d3db0ca0c390f9fae1b
+description: 'Set a card''s status and/or next step and stamp its updated date. This is the only place status and the next step are written: never put them in a note. Without a name, updates the card that covers the working directory.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 121
