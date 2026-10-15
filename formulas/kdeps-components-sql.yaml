@@ -1,0 +1,13 @@
+name: kdeps-components-sql
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/sql/1.0.0.yaml
+sha256: d882c3ea5ed765514e523a6eb2574f39f56165e076e30f2c0e02788a637104be
+description: 'kdeps kdeps-component: sql'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: '>=1.0.4'

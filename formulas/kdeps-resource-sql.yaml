@@ -3,8 +3,8 @@ version: 2.58.2
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/sql/2.58.2.md
-sha256: f708cad44b69e97353c2af0d97a8c4df95fa516ff9a7aedd8a286775d32bc8ba
-description: The `sql:` resource runs SQL queries against a named connection and returns the result set as the resource's output. Use it to read, write, or transact against any supported database.
+sha256: 044a7ed0a99631a32c2ca7826d023dfb17d557632235956a22702b2239b727c9
+description: 'The `sql` component runs SQL against a named connection - PostgreSQL, MySQL/MariaDB, SQLite, SQL Server or Oracle - and returns the rows or a change summary. One statement, or several in a transaction. It is a kdeps component (YAML, no Go code) from the `components` asset set: call it with a `component:` resource, no install step.'
 tags:
   - kdeps
   - resource
