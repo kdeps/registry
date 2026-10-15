@@ -1,12 +1,12 @@
 name: kdeps-tools-knowledge_note_save
-version: 1.0.0
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/knowledge_note_save/1.0.0.yaml
-sha256: da7435b305019210f1fef15ca87320cf9943dd1b7044e14017aa9d6d32f47212
-description: 'Save a new note in the knowledge vault: one idea per note, with frontmatter (type, status, created, summary, tags, links). Refuses a title that already has a note - one home per fact, so edit that note instead. Use for a decision, a gotcha, a concept or a tool worth remembering beyond this session; status and next steps go to the card instead.'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/knowledge_note_save/2.0.0.yaml
+sha256: 29d27b3302731ab29a6966be0d0f7fae3443edab16ed93e00081649513abcddb
+description: 'Save a new note in the knowledge vault: one idea per note, with frontmatter (type, status, created, summary, tags, links). Refuses a title that already has a note - one home per fact, so edit that note instead. Use for a decision, a gotcha, a concept or a tool worth remembering beyond this session; it goes in the project''s folder unless scope says otherwise. Status and next steps go to the card instead.'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 287
+tokens: 316
