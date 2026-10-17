@@ -1,9 +1,9 @@
 name: kdeps-harness-safety
-version: 1.0.0
+version: 1.1.0
 type: harness
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/safety/1.0.0.yaml
-sha256: 5a2844c48fb2336ce15edb0a5295ac406e479a03e2efe16bf9f40c7074f93aee
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/safety/1.1.0.yaml
+sha256: 68e0b8af0c80cf6bed496728e9eb6361677c3fb61a3b401138509db4ee18224e
 description: 'kdeps harness: safety'
 tags:
   - kdeps

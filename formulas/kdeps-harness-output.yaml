@@ -1,9 +1,9 @@
 name: kdeps-harness-output
-version: 1.0.0
+version: 1.1.0
 type: harness
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/output/1.0.0.yaml
-sha256: 01e094f332fedfe5b6615181d2f8bede9e3abb65dc716279313d4016af0a1d13
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/output/1.1.0.yaml
+sha256: 555c382d7a4820ca58a9014e792a837a4cd5ba047a7782fcccb60df059352f09
 description: 'kdeps harness: output'
 tags:
   - kdeps

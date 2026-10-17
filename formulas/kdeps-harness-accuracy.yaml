@@ -1,9 +1,9 @@
 name: kdeps-harness-accuracy
-version: 1.0.0
+version: 1.1.0
 type: harness
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/accuracy/1.0.0.yaml
-sha256: 1a6696eb6353eb49e2cd934011ab495ee7d3baed343c191040ee9f60f5483f01
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/accuracy/1.1.0.yaml
+sha256: c4103a1d89db613444c9491472ea4d33c6c72c40c7121adb762c24f0cd5b4fbe
 description: 'kdeps harness: accuracy'
 tags:
   - kdeps

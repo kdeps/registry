@@ -1,9 +1,9 @@
 name: kdeps-harness-edit-workflow
-version: 1.0.0
+version: 1.1.0
 type: harness
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/edit-workflow/1.0.0.yaml
-sha256: 338c2353c0162a196fd19305216885624887e8961cb4cebd49e7eb3d1f2115c2
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/edit-workflow/1.1.0.yaml
+sha256: f54249bbfafc27b257f92677122730e86c11d960b5cb21ebe27b66c04ca8ab31
 description: 'kdeps harness: edit-workflow'
 tags:
   - kdeps

@@ -1,0 +1,12 @@
+name: kdeps-tools-instruct
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/instruct/1.0.0.yaml
+sha256: 7415f2680130a9598da2d829af506a262925ad67dea0f3a91b5269b8d4013402
+description: 'Return the full text of one harness section or one instruct briefing. Use it when the system prompt shows a one-line summary and you need that section''s full instructions. topic is a harness section name (memory, tools, narration, autonomy, safety, errors, scope, accuracy, honesty, code, output, internals, use-kdeps-tools, edit-workflow, or any other harness section) or an instruct topic (overview, modes, tools, available, memory, goals, feedback, files). A name that is both a section and a topic returns the harness section. Prefix instruct: (instruct:tools, instruct:memory) to force the briefing.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 263

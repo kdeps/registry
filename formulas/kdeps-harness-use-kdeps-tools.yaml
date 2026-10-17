@@ -1,9 +1,9 @@
 name: kdeps-harness-use-kdeps-tools
-version: 1.0.0
+version: 1.1.0
 type: harness
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/use-kdeps-tools/1.0.0.yaml
-sha256: 528d9ea643510304033e8b0d56211a6b2cf750bdbf6330ee5dbc9500ff79f583
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/use-kdeps-tools/1.1.0.yaml
+sha256: f6427a2f8d0bde9d6ab5b4835589c09a0e5360154638981a46a537dc90b3542d
 description: 'kdeps harness: use-kdeps-tools'
 tags:
   - kdeps
