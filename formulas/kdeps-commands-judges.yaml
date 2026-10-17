@@ -1,9 +1,9 @@
 name: kdeps-commands-judges
-version: 1.0.0
+version: 1.1.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/judges/1.0.0.yaml
-sha256: 7863e4a97d322cd2f76feae8026b60f4629dfa87dcc190564a5807414d6163d9
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/judges/1.1.0.yaml
+sha256: 2115fb682d13fd9a055d98a27ffddd297c569c8923f2fa32e7183895ff1e23b6
 description: 'kdeps command: judges'
 tags:
   - kdeps
