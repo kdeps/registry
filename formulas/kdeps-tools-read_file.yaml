@@ -1,9 +1,9 @@
 name: kdeps-tools-read_file
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/read_file/1.0.0.yaml
-sha256: da5106b2f5c0ba7b3c0a0ae4935f5b80e094c85913afdc67dfe3fa44d76a76ee
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/read_file/1.1.0.yaml
+sha256: f9e2e34a2e2b002d1c9e58618d275bf68a055fcd1aaea0ec242aa0f23ba20b3e
 description: 'Read a file from the local filesystem. Returns the contents with a 1-based line number on every line (`  42\tcode$`) - use those numbers for edit_file insert/view. Tabs render as ^I, other control characters as ^X, and a $ marks the true end of each line, so indentation, trailing whitespace, and stray control characters are visible instead of hidden. IMPORTANT: ^I, ^X, and the trailing $ are a display convention this tool adds - the real file does NOT contain those literal characters. When quoting text back into edit_file''s old_str, write the real tab/control character (or match a whole line via view_range/anchor instead), never the literal caret sequence - copying "^I" as text will not match a real tab byte. Plain text, source code, configuration files, and documentation are read directly; PDF, DOCX, EPUB, RTF, and ODT documents have their text extracted automatically. Use load_document instead for CSV/HTML structured parsing or RAG chunking. Pass match_id (from a search_local result) instead of file_path/offset to jump straight to that hit.'
 tags:
   - kdeps

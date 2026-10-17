@@ -1,9 +1,9 @@
 name: kdeps-tools-tail_file
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/tail_file/1.0.0.yaml
-sha256: 8254a039ea8201fae28354f7940a9f8b598f4263b60f23828e1ff46f3316e05f
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/tail_file/1.1.0.yaml
+sha256: 1f39a3028a21feac6dcca13be845288bc92af5bfb4b97f3696ebd5e1b5614e35
 description: Read the last N lines of a file (default 20) -- for checking the end of a log or output file without knowing its total length upfront. Use as evidence that a command's output or a log ends the way a task claims it does.
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-tools-web_scraper
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/web_scraper/1.0.0.yaml
-sha256: 560d348be6cd8430199cecb63f644dd8fb92e6a522a853cba9e0b090793a773c
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/web_scraper/1.1.0.yaml
+sha256: 1f9e0ecebbe71631718df154af4ca583c8ef319369a2b6c640335b967cf629f0
 description: Fetch and extract readable text content from any web URL. Returns page title, headers, body content, and links. Use when you need to read a specific web page, article, or documentation URL.
 tags:
   - kdeps

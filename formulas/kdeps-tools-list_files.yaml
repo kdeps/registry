@@ -1,9 +1,9 @@
 name: kdeps-tools-list_files
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/list_files/1.0.0.yaml
-sha256: 5ae95c85288e79e5791c4dd8c1e48df640bd144555307273c88cff93ebfda8fa
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/list_files/1.1.0.yaml
+sha256: 5f148837c87fbf914b0a364718a478ec92ca55bd7a75fe256059a864705fa09d
 description: List files and directories in a given directory path. Returns names and types (file/dir). Use to discover project structure before reading or editing files. Omit path to list the current working directory.
 tags:
   - kdeps

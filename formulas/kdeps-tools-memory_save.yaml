@@ -1,9 +1,9 @@
 name: kdeps-tools-memory_save
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/memory_save/1.0.0.yaml
-sha256: 6bb3887347f5187fddc305f1945f2a5b23702e905e4c55713c6ec2521645bdb5
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/memory_save/1.1.0.yaml
+sha256: deed9a5a3715cce41fd0b7d161707d4ecfaae1c663813365b71915148d9d9964
 description: Save a fact to persistent memory. The memory is injected into every LLM call automatically. Use for project conventions, user preferences, key decisions, or any information that should persist across sessions. Keys should be short and descriptive.
 tags:
   - kdeps
