@@ -1,0 +1,14 @@
+name: kdeps-components-cron_pause
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_pause/1.0.0.yaml
+sha256: 3f76dbbdffae23bb202b6d69f86705834167ab37fb70a79c5b4c1ef6ee4acd1d
+description: 'kdeps kdeps-component: cron_pause'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 33

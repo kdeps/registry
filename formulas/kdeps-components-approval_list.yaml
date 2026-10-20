@@ -1,0 +1,14 @@
+name: kdeps-components-approval_list
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_list/1.0.0.yaml
+sha256: ff25b940d61159fa33bfb2150982b1037d6a8560e13238a82cf6d2479c60e89d
+description: 'kdeps kdeps-component: approval_list'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 15

@@ -1,0 +1,14 @@
+name: kdeps-components-approval_revoke
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_revoke/1.0.0.yaml
+sha256: 30e3d92cb144fb5282d9e7ecc4289be39d89536d75801fd3c5f9769c083a5263
+description: 'kdeps kdeps-component: approval_revoke'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 37

@@ -1,0 +1,14 @@
+name: kdeps-components-approval_grant
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_grant/1.0.0.yaml
+sha256: a9a9742bb1dda9a67baf5d11b1962ea9498a8ac0818888d7eb020ccd30cefdf2
+description: 'kdeps kdeps-component: approval_grant'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 45

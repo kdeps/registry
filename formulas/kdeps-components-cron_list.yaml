@@ -1,0 +1,14 @@
+name: kdeps-components-cron_list
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_list/1.0.0.yaml
+sha256: ca224763298a1aa3965af3d1ac05767b90e67b983daadb9bcded73c4d1cca631
+description: 'kdeps kdeps-component: cron_list'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 13

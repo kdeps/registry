@@ -1,0 +1,14 @@
+name: kdeps-components-cron_create
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_create/1.0.0.yaml
+sha256: 53e6687c8e1ea6cd039406b601ec8dd9d21ca074be199f87bec67751fb80157e
+description: 'kdeps kdeps-component: cron_create'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 132
