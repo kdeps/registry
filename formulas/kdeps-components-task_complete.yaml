@@ -1,0 +1,14 @@
+name: kdeps-components-task_complete
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_complete/1.0.0.yaml
+sha256: 1a2159f088f2081296b5a167da5ea5ee3a21ddf15e6268dbe85505d80a19c34b
+description: 'kdeps kdeps-component: task_complete'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 34

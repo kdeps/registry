@@ -1,0 +1,14 @@
+name: kdeps-components-embedding_vectorize
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/embedding_vectorize/1.0.0.yaml
+sha256: cde1b93702f821a9f9111eba042bac0ede27f1c8a44aa874f987ebe2211c4693
+description: 'kdeps kdeps-component: embedding_vectorize'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 44

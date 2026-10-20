@@ -1,0 +1,14 @@
+name: kdeps-components-memory_search
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/memory_search/1.0.0.yaml
+sha256: 1a18d5884b80f014abe150153fd3e1b921be4a63b6f41bf32f2f200a0ce4ab31
+description: 'kdeps kdeps-component: memory_search'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 40

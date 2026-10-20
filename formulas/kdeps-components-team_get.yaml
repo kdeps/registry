@@ -1,0 +1,14 @@
+name: kdeps-components-team_get
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/team_get/1.0.0.yaml
+sha256: 89c401d59cbdbc223fb52d067436e2f1bb864061d116356a966d896376a505e8
+description: 'kdeps kdeps-component: team_get'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 34

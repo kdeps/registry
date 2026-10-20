@@ -1,0 +1,14 @@
+name: kdeps-components-load_document
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/load_document/1.0.0.yaml
+sha256: 74b26385d1252d7097c478f4d170a674d34754c9632a520810180d3ba8d740dc
+description: 'kdeps kdeps-component: load_document'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 65

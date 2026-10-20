@@ -1,0 +1,14 @@
+name: kdeps-components-task_append_output
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_append_output/1.0.0.yaml
+sha256: 7e2ca14f9bd4789ad12e2e707cd2b2ad5a72b767f7502fa64f4b511378852838
+description: 'kdeps kdeps-component: task_append_output'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 60

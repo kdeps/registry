@@ -1,0 +1,14 @@
+name: kdeps-components-sql_list_tables
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/sql_list_tables/1.0.0.yaml
+sha256: 2c418dc25b2158573a93ba3ce788d917b70c88d3ff1cae48db27d995d93c3f2f
+description: 'kdeps kdeps-component: sql_list_tables'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 45

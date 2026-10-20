@@ -1,0 +1,14 @@
+name: kdeps-components-team_add_task
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/team_add_task/1.0.0.yaml
+sha256: bc37bc175ff09e56fda2a466764dc715a1d21ec37f152ae2bb7276d688ef1024
+description: 'kdeps kdeps-component: team_add_task'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 57

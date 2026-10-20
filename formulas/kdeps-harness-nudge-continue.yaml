@@ -1,0 +1,12 @@
+name: kdeps-harness-nudge-continue
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-continue/1.0.0.yaml
+sha256: 4570c565a174f470b259295bc6efd1b61f46c0cccc9f6d936ffe244afd1968c1
+description: 'kdeps harness: nudge-continue'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 82

@@ -1,0 +1,14 @@
+name: kdeps-components-code_index_folder
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_index_folder/1.0.0.yaml
+sha256: ce841b007edcc0427876e24fc5bc9f225ab76b2f84f897b8654b39f82952cb88
+description: 'kdeps kdeps-component: code_index_folder'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 18

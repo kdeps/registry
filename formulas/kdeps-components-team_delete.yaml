@@ -1,0 +1,14 @@
+name: kdeps-components-team_delete
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/team_delete/1.0.0.yaml
+sha256: fd919d4631db4c67e3514f09d1f3ceb8d9c5fedb9c0b27f2e5f21d3337bf495b
+description: 'kdeps kdeps-component: team_delete'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 33

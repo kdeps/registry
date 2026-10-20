@@ -1,0 +1,14 @@
+name: kdeps-components-web_search
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/web_search/1.0.0.yaml
+sha256: 8e2bedbbbafb9e1853c6bf6e36bfade71d3e7971512cab331670e5be33f07c6f
+description: 'kdeps kdeps-component: web_search'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 31

@@ -1,0 +1,14 @@
+name: kdeps-components-google_cache_delete
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/google_cache_delete/1.0.0.yaml
+sha256: aa690e896e875d893d9bd1198f06c0e0f14a3e85f7066216a0985b64b1b49823
+description: 'kdeps kdeps-component: google_cache_delete'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 49

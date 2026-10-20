@@ -1,0 +1,14 @@
+name: kdeps-components-task_assign_team
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_assign_team/1.0.0.yaml
+sha256: 547bcb39619b10588ac010da85fc5534bad1153f68cb3be95acfab86ff902d35
+description: 'kdeps kdeps-component: task_assign_team'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 60

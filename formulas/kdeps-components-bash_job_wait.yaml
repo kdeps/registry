@@ -1,0 +1,14 @@
+name: kdeps-components-bash_job_wait
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/bash_job_wait/1.0.0.yaml
+sha256: 82dabe65d0e0f5063a08b10710226622f317d024fbb7a0175d9743b9fa0020ce
+description: 'kdeps kdeps-component: bash_job_wait'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 46

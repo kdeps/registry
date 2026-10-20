@@ -1,0 +1,14 @@
+name: kdeps-components-team_list
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/team_list/1.0.0.yaml
+sha256: 9a4c6d8917f18857a9f108d1876bde74fc67e6dafe55cd20a4aaa9081def3391
+description: 'kdeps kdeps-component: team_list'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 12

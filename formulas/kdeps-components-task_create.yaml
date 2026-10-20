@@ -1,0 +1,14 @@
+name: kdeps-components-task_create
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_create/1.0.0.yaml
+sha256: ed105ef1ca006ce2268fdafd88c813a78fc759962d9fa8a864429dd4388f56c7
+description: 'kdeps kdeps-component: task_create'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 58

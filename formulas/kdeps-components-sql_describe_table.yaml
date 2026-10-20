@@ -1,0 +1,14 @@
+name: kdeps-components-sql_describe_table
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/sql_describe_table/1.0.0.yaml
+sha256: 5f9c83a6c3682b92f61db4bd1e8f5101b52c2582e5d1f8a18d7987c1ed87c907
+description: 'kdeps kdeps-component: sql_describe_table'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 65

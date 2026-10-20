@@ -1,0 +1,14 @@
+name: kdeps-components-task_stop
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_stop/1.0.0.yaml
+sha256: 7f5cbb11865d88c3faa8d092b37384d3d48d345d97528d4fd7a449e986ac410f
+description: 'kdeps kdeps-component: task_stop'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 31

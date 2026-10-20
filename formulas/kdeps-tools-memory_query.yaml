@@ -1,12 +1,12 @@
 name: kdeps-tools-memory_query
-version: 1.0.0
+version: 1.0.1
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/memory_query/1.0.0.yaml
-sha256: ddc7431cc4e05aeb4d60975bb6622553e29cf527f53962f875a481825892f476
-description: 'Run a relational query over agent state. Relations: `memory` (persistent memory entries: key, value, namespace, type, references, createdAt, updatedAt), `tool_calls` (recent tool call history: name, args, result, timestamp), `tasks` (active goal''s task list: id, desc, status, rounds, note). Query language is expr-lang: filter(relation, predicate) selects rows (e.g. filter(memory, .type == "error")), map(relation, expr) projects fields, join(left, right, leftField, rightField) equi-joins two relations into rows with left_/right_ prefixed fields, union(a, b) combines two relations with set semantics.'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/memory_query/1.0.1.yaml
+sha256: 4791023349a1d047cf6f34174b884a6fe7de1873e219170447f389cacf6dfd6d
+description: 'Run a relational query over agent state. Relations: `memory` (persistent memory entries: key, value, namespace, type, references, createdAt, updatedAt), `tool_calls` (recent tool call history: name, args, result, timestamp), `tasks` (active goal''s task list: id, desc, status, rounds, note). Query language is expr-lang: filter(relation, predicate) selects rows (e.g. filter(memory, .type == "error")), map(relation, expr) projects fields, join(left, right, leftField, rightField) equi-joins two relations into rows with left_/right_ prefixed fields, union(a, b) combines two relations with set semantics. String operators are infix: .value contains "x", .value startsWith "x", .value endsWith "x", .value matches "regex"; lower()/upper() are functions (lower(.value)); membership is .key in ["a", "b"].'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 216
+tokens: 266

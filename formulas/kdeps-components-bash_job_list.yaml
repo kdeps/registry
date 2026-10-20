@@ -1,0 +1,14 @@
+name: kdeps-components-bash_job_list
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/bash_job_list/1.0.0.yaml
+sha256: ed05c24792768c474f3f4d935b956ca05d76f1bdc8c017480a02d7c18dc1d6e8
+description: 'kdeps kdeps-component: bash_job_list'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 17

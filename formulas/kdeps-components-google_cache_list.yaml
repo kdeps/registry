@@ -1,0 +1,14 @@
+name: kdeps-components-google_cache_list
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/google_cache_list/1.0.0.yaml
+sha256: 536630e1bd16b9b0b05bce81803e415ee567b83cb7a0a41fed2ee6291ebc13d8
+description: 'kdeps kdeps-component: google_cache_list'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 21
