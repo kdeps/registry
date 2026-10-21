@@ -1,8 +1,8 @@
 name: kdeps-resource-vector-store
-version: 2.58.2
+version: 2.59.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/vectorStore/2.58.2.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/vectorStore/2.59.0.md
 sha256: cd3f16f49f1c3fe01ec8adb179af907bf2a9938a282a80f9938588ec9e1f1e72
 description: The `vectorStore:` resource adds documents to, and runs similarity search against, an external vector database. Unlike `embedding:` (SQLite keyword/vector index built into kdeps), `vectorStore:` talks to a real vector database service - Qdrant, Chroma, Pinecone, pgvector, and more - for production-scale RAG.
 tags:

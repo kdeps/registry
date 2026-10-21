@@ -1,8 +1,8 @@
 name: kdeps-resource-search-local
-version: 2.58.2
+version: 2.59.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/searchLocal/2.58.2.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/searchLocal/2.59.0.md
 sha256: eb61dc8822ca7631741c33522eb1aecc4ad696c6f1cbabd3f70844027e9df167
 description: The `searchLocal` executor walks a local directory and returns matching files by filename glob pattern and/or content keyword. See [Search resources](https://kdeps.com/workflow/resources/search) for how it relates to `searchWeb`.
 tags:

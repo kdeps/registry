@@ -1,8 +1,8 @@
 name: kdeps-resource-code-intelligence
-version: 2.58.2
+version: 2.59.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/codeIntelligence/2.58.2.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/codeIntelligence/2.59.0.md
 sha256: cd09c26183fa673eb7710c7c1bf84e863c4d2495c06ac4307db898ca483b5581
 description: Navigate and map a codebase. The `codeIntelligence:` resource has two families
 tags:
