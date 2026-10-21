@@ -1,9 +1,9 @@
 name: kdeps-components-code_graph_topic
-version: 1.0.0
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_graph_topic/1.0.0.yaml
-sha256: 98a847a636fefc1bdabd13006a2a4c2c2381495639800e933bc8e7f9bf6edfa3
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_graph_topic/1.1.0.yaml
+sha256: 6a076b96e17f7ed57c667f35ca65200a7f10443dcea11c4f51159b0f5f05adad
 description: 'kdeps kdeps-component: code_graph_topic'
 tags:
   - kdeps
@@ -11,4 +11,4 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
-tokens: 41
+tokens: 119

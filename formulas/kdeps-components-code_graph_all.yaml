@@ -1,9 +1,9 @@
 name: kdeps-components-code_graph_all
-version: 1.0.0
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_graph_all/1.0.0.yaml
-sha256: 06f067896e49d2b23e44e932aa0f123d883f440489f77acdf8090c870547025e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_graph_all/1.1.0.yaml
+sha256: 4f929e22171bd0ef6ee02810461983b34dd172fa8069a689afc339db3aefd3ee
 description: 'kdeps kdeps-component: code_graph_all'
 tags:
   - kdeps
@@ -11,4 +11,4 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
-tokens: 16
+tokens: 93

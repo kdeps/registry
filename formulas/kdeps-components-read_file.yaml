@@ -1,9 +1,9 @@
 name: kdeps-components-read_file
-version: 1.0.0
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/read_file/1.0.0.yaml
-sha256: 4bb4a916e5a6bff7030b6ed007054f4ca4199324da56abea4f62c08b97f8e2c2
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/read_file/1.1.0.yaml
+sha256: 79228175a177ffec7f7935174c73724c1cb61036e59c189ce0f46b689ecd8b7c
 description: 'kdeps kdeps-component: read_file'
 tags:
   - kdeps
@@ -11,4 +11,4 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
-tokens: 103
+tokens: 210
