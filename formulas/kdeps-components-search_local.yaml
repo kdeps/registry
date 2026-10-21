@@ -1,9 +1,9 @@
 name: kdeps-components-search_local
-version: 1.1.1
+version: 1.2.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/search_local/1.1.1.yaml
-sha256: da9c650e7b872d980576ddc05a0d9dab55618c8d835194b4e4ac7e944e9e0390
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/search_local/1.2.0.yaml
+sha256: 7a51b8081ef7324a0e73125fbebeeb78a42302a2d7c542909ce28ed685227553
 description: 'kdeps kdeps-component: search_local'
 tags:
   - kdeps
@@ -12,4 +12,4 @@ license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
   kdeps-tools-search_local: ""
-tokens: 119
+tokens: 277
