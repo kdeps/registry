@@ -1,12 +1,12 @@
 name: kdeps-tools-load_document
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/load_document/1.0.0.yaml
-sha256: 6617d925da67aefcddba635c04529cee856b39d6513b6dfc7819b04ca1c0e2de
-description: 'Load a document file and return its content as text. Supports PDF (go-pdf, pdftotext, pdfcpu), DOCX/EPUB/RTF/ODT (pandoc), HTML (goquery, lynx), CSV, text, directory, notion, markdown (textutil). Use for reading documents into the conversation for analysis or RAG pipelines. Returns document content with optional splitting into chunks. Requires: source (absolute file path). Optional: type (pdf, csv, html, text — auto-detected from extension), chunkSize (split into chunks of N characters).'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/load_document/1.1.0.yaml
+sha256: e738c86f46987bb1c995efa4362e5652dffcedc25342de32a6d32ef5e5f9dace
+description: 'Load a document file and return its content as text. Supports PDF (go-pdf, pdftotext, pdfcpu), DOCX/EPUB/RTF/ODT (pandoc), HTML (goquery, lynx), CSV, text, directory, notion, markdown (textutil). Use for reading documents into the conversation for analysis or RAG pipelines. Returns document content with optional splitting into chunks. Requires: source (absolute file path). Optional: type (pdf, csv, html, text - auto-detected from extension), columns (CSV column filter), password (encrypted PDF), chunkSize (split into chunks of N characters), chunkOverlap, chunkSplitter (recursive, token, markdown).'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 269
+tokens: 410
