@@ -3,8 +3,8 @@ version: 2.59.0
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/loader/2.59.0.md
-sha256: 9f07e1f76999855867738f6405be3caf05f6407e88e180adf420eac288f457d6
-description: 'The `loader:` resource reads a file, URL, or directory into structured `Document` objects - plain text plus metadata - and optionally splits them into chunks. It is the ingestion step of a RAG pipeline: load, then feed the output into `vectorStore:` or `embedding:` for indexing.'
+sha256: 2b02fff11c9155cd5eb7f791ad24b5034b2ddd078c1da90d4453f67b3783bf8a
+description: 'The `loader:` resource reads a file, URL, or directory into structured `Document` objects - plain text plus metadata - and optionally splits them into chunks. It is the ingestion step of a RAG pipeline: load, then feed the output into `vectorStore:` or the `embedding` component for indexing.'
 tags:
   - kdeps
   - resource

@@ -1,0 +1,15 @@
+name: kdeps-components-embedding
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/embedding/1.0.0.yaml
+sha256: 7bf1416e83df583a457610670dcb69c1e931daf10f9cce1b0220ee5047058d77
+description: 'kdeps kdeps-component: embedding'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-embedding: ""
+tokens: 368

@@ -1,0 +1,12 @@
+name: kdeps-tools-embedding
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/embedding/1.0.0.yaml
+sha256: 5a1a6c1a6bf1725e522cedf21ec55ef59010e9bcb7ca46c0d619e132c7d0433f
+description: 'Run one embedding operation: index, search, upsert or delete in the local SQLite embedding database, vectorize or embed_query through an embedding backend, or rerank documents with Cohere. Call it through the embedding component. Requires: operation. Optional: text, collection, dbPath, limit, inputs, model, backend, baseURL, rerankQuery, rerankDocuments, rerankTopN.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 408
