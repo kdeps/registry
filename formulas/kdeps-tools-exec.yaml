@@ -1,0 +1,12 @@
+name: kdeps-tools-exec
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/exec/1.0.0.yaml
+sha256: 50edb102552e5269799eac942dc21f51b32afefb3af386398878030fa913b856
+description: 'Run a shell command and return its structured result: success, exitCode, stdout, stderr, command, result and timedOut. Use through the exec component for pipeline steps that shell out. The command runs with sh -c (cmd /C on Windows) unless args are given. Optional: args, env, workingDir, timeout.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 240

@@ -1,0 +1,15 @@
+name: kdeps-components-python
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/python/1.0.0.yaml
+sha256: df1c58b5fcc3f372c4c6a499f0ac9e1ca31eb7f7d44ebd252201d8e2fa81b986
+description: 'kdeps kdeps-component: python'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-python: ""
+tokens: 276

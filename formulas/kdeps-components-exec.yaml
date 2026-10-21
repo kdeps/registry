@@ -1,0 +1,15 @@
+name: kdeps-components-exec
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/exec/1.0.0.yaml
+sha256: f686d2361c789d10ac4f94383aa7c0ab6127c09f880e9f7b37eb45e3a81d7170
+description: 'kdeps kdeps-component: exec'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-exec: ""
+tokens: 181

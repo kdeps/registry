@@ -1,0 +1,12 @@
+name: kdeps-tools-python
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/python/1.0.0.yaml
+sha256: 00f69bd8f2b03d10d1a58e0c985e5965b0c67e5352590791b78f1a55d5db3826
+description: 'Run a Python script and return its result: stdout parsed as JSON when possible, otherwise the raw text. Use through the python component for pipeline steps written in Python. Give either script (inline source) or scriptFile (a .py file). Optional: args, env, timeout, venvName, pythonVersion, packages.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 316
