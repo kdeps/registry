@@ -1,12 +1,12 @@
 name: kdeps-tools-code_search
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_search/1.0.0.yaml
-sha256: b99b9815ef889d2dab04b3f49c449b7da892d3587fcdd48d8168d4fb2da93810
-description: 'Search for a symbol or pattern across the codebase. Use this first to locate symbols before using code_definition or code_references. Requires: query, path.'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_search/1.1.0.yaml
+sha256: efe0296e9de6bba69ebe29a045856ee1e391bc1d7f7c0ed7caa99a6425163ef1
+description: 'Search for a symbol or pattern across the codebase. Use this first to locate symbols before using code_definition or code_references. Requires: query, path. Optional: pattern, language, languageId, context, limit.'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 92
+tokens: 258

@@ -1,12 +1,12 @@
 name: kdeps-tools-code_references
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_references/1.0.0.yaml
-sha256: f26cfbb7283ab76c7b58bacd726f2f722d933190786e1ae27d57492a2c7c10d3
-description: 'Find all references to a symbol across the codebase. Returns every file and line. Requires: symbol, path.'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_references/1.1.0.yaml
+sha256: bd005c4fbd08b6110fc6affa53491b6180478c5b86710fbed66965dc3cca678c
+description: 'Find all references to a symbol across the codebase. Returns every file and line. Requires: symbol, path. Optional: pattern, language, languageId, context, limit.'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 82
+tokens: 249

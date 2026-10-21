@@ -1,9 +1,9 @@
 name: kdeps-components-code_search
-version: 1.0.1
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_search/1.0.1.yaml
-sha256: c9e9f2ab327c0642849bfef05013c314c4e17f7a8e304da700541030e2b172cb
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_search/1.1.0.yaml
+sha256: c269e57469b3dac3582d58e19b783e4eb668c859259b0b3d8b332b9f4b5c3406
 description: 'kdeps kdeps-component: code_search'
 tags:
   - kdeps
@@ -12,4 +12,4 @@ license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
   kdeps-tools-code_search: ""
-tokens: 59
+tokens: 228

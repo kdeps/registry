@@ -1,9 +1,9 @@
 name: kdeps-components-code_diagnostics
-version: 1.0.1
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_diagnostics/1.0.1.yaml
-sha256: 5ec6ab1e744f9fbb96e7a65ed864e3ea154760b9b25a994abf222e63c51a4d6c
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_diagnostics/1.1.0.yaml
+sha256: 16657d352818daebd97faf8e2e6c57188a28764788bb029fc10d8223951e41d2
 description: 'kdeps kdeps-component: code_diagnostics'
 tags:
   - kdeps
@@ -12,4 +12,4 @@ license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
   kdeps-tools-code_diagnostics: ""
-tokens: 34
+tokens: 104

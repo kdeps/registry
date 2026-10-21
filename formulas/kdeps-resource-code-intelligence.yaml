@@ -3,8 +3,8 @@ version: 2.59.0
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/codeIntelligence/2.59.0.md
-sha256: cd09c26183fa673eb7710c7c1bf84e863c4d2495c06ac4307db898ca483b5581
-description: Navigate and map a codebase. The `codeIntelligence:` resource has two families
+sha256: 27e60825fbf2f24aed2ac498bf1467cf2fc69ed5e0b4dc9e072d0132bb49a8f8
+description: Navigate and map a codebase. The `code_*` components have two families of
 tags:
   - kdeps
   - resource

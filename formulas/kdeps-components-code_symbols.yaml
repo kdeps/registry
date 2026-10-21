@@ -1,9 +1,9 @@
 name: kdeps-components-code_symbols
-version: 1.0.1
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_symbols/1.0.1.yaml
-sha256: 3909b0b42317f8406730e15e3f557597685bcd1cef5499a970b67b4064633252
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_symbols/1.1.0.yaml
+sha256: 61a255d34bf58efeca2ce9fb43d6b5cc9c66ac6e602a57f7662970709ecb2cca
 description: 'kdeps kdeps-component: code_symbols'
 tags:
   - kdeps
@@ -12,4 +12,4 @@ license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
   kdeps-tools-code_symbols: ""
-tokens: 33
+tokens: 202

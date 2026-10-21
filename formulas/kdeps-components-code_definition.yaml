@@ -1,9 +1,9 @@
 name: kdeps-components-code_definition
-version: 1.0.1
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_definition/1.0.1.yaml
-sha256: d52daea88ac88a3096b45775ea596d8ae2949c635881628c1c623c95faa82aad
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_definition/1.1.0.yaml
+sha256: a8cc86031534b7f59e54e2a64ae30ae53d4622efa293e00569a1047d121938f8
 description: 'kdeps kdeps-component: code_definition'
 tags:
   - kdeps
@@ -12,4 +12,4 @@ license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
   kdeps-tools-code_definition: ""
-tokens: 56
+tokens: 226

@@ -1,12 +1,12 @@
 name: kdeps-tools-code_definition
-version: 1.0.0
+version: 1.1.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_definition/1.0.0.yaml
-sha256: 019c6ae3e37db18bd0cbc25d8be7d389965d4488b629eb47cb52366da7d9a564
-description: 'Find the definition of a symbol using semantic analysis (LSP). Returns file and line. Requires: symbol, path.'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_definition/1.1.0.yaml
+sha256: 2b27481930dd452a36d28972df58258d62db3056982bd89d6c4712aedcd263ed
+description: 'Find the definition of a symbol using semantic analysis (LSP). Returns file and line. Requires: symbol, path. Optional: pattern, language, languageId, context, limit.'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 85
+tokens: 252
