@@ -3,8 +3,8 @@ version: 2.59.0
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/httpClient/2.59.0.md
-sha256: 7e93707efed2b9e79b5d73e759470feb584349521d27969a7d9120f7b7b3df05
-description: The `httpClient:` resource makes an outbound HTTP request and stores the parsed response body as its output. JSON responses are parsed automatically; other content types are stored as a string.
+sha256: de3aff5d0f84bfab27a7730c9008d2f79dd747fcdbc37e13da0a86966d06e607
+description: 'The `http_request` component makes one outbound HTTP request and returns the response: status code, status line, headers, raw body, and the parsed JSON body under `data` when the response is JSON. It is a kdeps component from the `components` asset set: call it with a `component:` resource, no install step. Its call is the kdeps API''s `http_request` tool, which runs the native HTTP executor. A workflow that uses `httpClient:` directly - primary or in a `before:`/`after:` step - is rejected.'
 tags:
   - kdeps
   - resource

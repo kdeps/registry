@@ -1,12 +1,12 @@
 name: kdeps-tools-http_request
-version: 1.1.0
+version: 1.2.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/http_request/1.1.0.yaml
-sha256: db1dabdb4a3ccb8ba311cf8fef7f3b4f0448108986827fb93b2415f02ee3b3e1
-description: 'Make an HTTP request to a URL. Returns response status, headers, and body. Use for calling APIs, fetching web content, or interacting with external services. Requires: url. Optional: method (default GET), headers, data (JSON body), timeout, failOnError, saveTo.'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/http_request/1.2.0.yaml
+sha256: 5317fa5ead72896a912d21d951a948a3cfbafe836c77dd0b782faf93eaf8fc70
+description: 'Make an HTTP request to a URL. Returns response status, headers, and body. Use for calling APIs, fetching web content, or interacting with external services. Requires: url. Optional: method (default GET), headers, data (JSON body), files (multipart uploads), timeout, failOnError, saveTo, retry, cache, connectionName, accountName, followRedirects, tls.'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 249
+tokens: 489
