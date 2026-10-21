@@ -1,0 +1,12 @@
+name: kdeps-tools-browser_ops
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/browser_ops/1.0.0.yaml
+sha256: 245ba2d0bbc274542a3774d053ee34037ad0237ce1784eed23e03bca8556404c
+description: 'Drive a real browser with Playwright: open a page and run ordered steps - navigate, click, fill, type, upload, select, check, uncheck, hover, scroll, press, clear, evaluate, screenshot, wait - then return the page URL, title and each step''s result. Optional: engine (chromium, firefox or webkit), headless, sessionId (keep cookies and the last page between calls), viewport, timeout, waitFor, userAgent, stealthMode.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 403

@@ -1,9 +1,9 @@
 name: kdeps-components-searchWeb
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/searchWeb/1.0.1.yaml
-sha256: 44bd975ba6b0c01af485e18cee6d35655e4f1a6892c281285f320f156e759636
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/searchWeb/1.0.2.yaml
+sha256: 7840d576aa93f72a61386848bd9a9694c03cd4bcdf05c6b7ce9c0a6b1a422fa0
 description: 'kdeps kdeps-component: searchWeb'
 tags:
   - kdeps

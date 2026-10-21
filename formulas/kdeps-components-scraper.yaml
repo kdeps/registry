@@ -1,9 +1,9 @@
 name: kdeps-components-scraper
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/scraper/1.0.1.yaml
-sha256: 7ef905c3a83ca560a400c5e85478c393c8a7d9d40259a055c469ca5977638e01
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/scraper/1.0.2.yaml
+sha256: e5c388a9f84e906231ad1f0e525979b1d553d579bfe467e87ec37d9bc4ffc30e
 description: 'kdeps kdeps-component: scraper'
 tags:
   - kdeps

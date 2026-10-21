@@ -1,9 +1,9 @@
 name: kdeps-components-email
-version: 1.0.0
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/email/1.0.0.yaml
-sha256: 5302f3274b8aa683237f2dc0a509bf0c99ab8ce02fc0c4d8153fc3e0e9a4d0fa
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/email/1.1.0.yaml
+sha256: d33bd275bcf64bd39b54731f65ee7d1cef709ec59ec9899cbf18bbb04a34f141
 description: 'kdeps kdeps-component: email'
 tags:
   - kdeps
@@ -11,4 +11,4 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: '>=1.0.4'
-tokens: 620
+tokens: 622

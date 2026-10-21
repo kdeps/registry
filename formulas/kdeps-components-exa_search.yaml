@@ -1,0 +1,14 @@
+name: kdeps-components-exa_search
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/exa_search/1.0.0.yaml
+sha256: b6e59067dec6e9364f6afbf063ae58b2f516e518c179df28112b0050650c6104
+description: 'kdeps kdeps-component: exa_search'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 47

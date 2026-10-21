@@ -1,0 +1,14 @@
+name: kdeps-components-wolfram_alpha
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/wolfram_alpha/1.0.0.yaml
+sha256: 0a998ab9df485cddcf24c65c678196bb5f97772798982455771288add28f8c47
+description: 'kdeps kdeps-component: wolfram_alpha'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 56

@@ -1,0 +1,12 @@
+name: kdeps-tools-file_ops
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/file_ops/1.0.0.yaml
+sha256: fa2fd37f2ef44553d31774617f3a33b363e54d4d2a0f07f2229a14d1e891ad45
+description: 'Run one structured filesystem operation and return its JSON result. Operations: read, write, patch, list, delete, exists, mkdir, copy, move, append. Requires: operation, and path (or source for copy and move). Optional: content, patch, encoding (text or base64), pattern, recursive, backup, dryRun, mode, appendNewline.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 382

@@ -1,0 +1,12 @@
+name: kdeps-tools-email_ops
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/email_ops/1.0.0.yaml
+sha256: ace319760c237f4fdf8f34fb57066be02c04f78eff3f7eeb4d8faf3233e7e7a3
+description: 'Send email over SMTP and read, search, modify, list or delete IMAP mailboxes. SMTP and IMAP settings come from named connections in config.yaml smtp_connections and imap_connections. Actions: send, read, search, modify, list, delete.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 506

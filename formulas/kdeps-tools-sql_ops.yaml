@@ -1,0 +1,12 @@
+name: kdeps-tools-sql_ops
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/sql_ops/1.0.0.yaml
+sha256: 9a3f721e04dfe90b019a2e85b701a2e33384b129635d76472eeac937ef23d046
+description: 'Run SQL against a named connection in config.yaml sql_connections and return the rows or a change summary. Databases: PostgreSQL, MySQL/MariaDB, SQLite, SQL Server, Oracle. One statement (query + params), or several in one transaction (transaction + queries). Requires: connectionName.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 287

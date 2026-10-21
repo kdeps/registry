@@ -1,9 +1,9 @@
 name: kdeps-components-twiml
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/twiml/1.0.0.yaml
-sha256: 9b8808cb9fa2f275d1cfcbaaa097f2c207cb8ea53b7a937ccdd700792542bced
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/twiml/1.0.1.yaml
+sha256: ed78b63f440e13711e567bbbba2300abbbc40c94eb2c1efcdb2307d1a77c671d
 description: 'kdeps kdeps-component: twiml'
 tags:
   - kdeps

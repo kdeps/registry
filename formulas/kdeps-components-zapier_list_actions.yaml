@@ -1,0 +1,14 @@
+name: kdeps-components-zapier_list_actions
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/zapier_list_actions/1.0.0.yaml
+sha256: bada91a69dc15bfeffe2be8f0a25e2098cc3808275fce6d4cc99d2ae2145dd40
+description: 'kdeps kdeps-component: zapier_list_actions'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+tokens: 21
