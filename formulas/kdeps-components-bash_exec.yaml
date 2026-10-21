@@ -1,9 +1,9 @@
 name: kdeps-components-bash_exec
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/bash_exec/1.0.0.yaml
-sha256: 95c07b02d02e91c563fbedad308f8aaa7acecf8d920b55be816dbf5b30114d88
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/bash_exec/1.0.1.yaml
+sha256: 7111c5665445ed3f557847590f1fadec7302157709c34502bd856048a5fff01a
 description: 'kdeps kdeps-component: bash_exec'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-bash_exec: ""
 tokens: 34

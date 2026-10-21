@@ -1,9 +1,9 @@
 name: kdeps-components-serpapi_search
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/serpapi_search/1.0.0.yaml
-sha256: 50f0a332d72dc2c17e4e67bc183c28b4234b52fab93625c2a0c44d7542babd7a
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/serpapi_search/1.0.1.yaml
+sha256: b3244957ef38d7f4d6de70d24c7077e3f7b6d305053a9cded909b17b1b51f22e
 description: 'kdeps kdeps-component: serpapi_search'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-serpapi_search: ""
 tokens: 32

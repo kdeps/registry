@@ -1,9 +1,9 @@
 name: kdeps-components-web_scraper
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/web_scraper/1.0.0.yaml
-sha256: ad45f515a4d4c3c46e18af7a9b780a2626675aefeb9487705911250d6e456e2c
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/web_scraper/1.0.1.yaml
+sha256: f68a640138491b6bb6c583b3332d545ac90e35363a25e59efe384b91a9f7fdbc
 description: 'kdeps kdeps-component: web_scraper'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-web_scraper: ""
 tokens: 29

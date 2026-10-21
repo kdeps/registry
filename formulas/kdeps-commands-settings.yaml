@@ -1,9 +1,9 @@
 name: kdeps-commands-settings
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/settings/1.0.0.yaml
-sha256: 090af8915dd20c642a57f4ccff71ea878ffd8940b5a9a42577594cf043c6f168
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/settings/1.0.1.yaml
+sha256: ddc9342167244e6cfa53df0339002a1037e3d8668670f496816d663fc3dc163d
 description: 'kdeps command: settings'
 tags:
   - kdeps

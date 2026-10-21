@@ -1,9 +1,9 @@
 name: kdeps-components-code_references
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_references/1.0.0.yaml
-sha256: 9d72ddfa0b83a7bef87d4935af32de6437ae8689280ff210c0f3bd062daebf50
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_references/1.0.1.yaml
+sha256: 077510b0095ff72ada25c76d6629e181a254de86737b88258cb4f676bf2a4cd9
 description: 'kdeps kdeps-component: code_references'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-code_references: ""
 tokens: 57

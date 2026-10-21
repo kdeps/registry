@@ -1,9 +1,9 @@
 name: kdeps-components-md5_file
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/md5_file/1.0.0.yaml
-sha256: fd3fe72e32c6a14a8184c609b9be01019483ac6bd3490d6bb35fdc27b6bbb0e6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/md5_file/1.0.1.yaml
+sha256: 0b66ceba605910b7f816e9383956de8505fb06a0707ac02332ed8c9af225cded
 description: 'kdeps kdeps-component: md5_file'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-md5_file: ""
 tokens: 41

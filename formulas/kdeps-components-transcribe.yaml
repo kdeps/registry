@@ -1,9 +1,9 @@
 name: kdeps-components-transcribe
-version: 1.0.2
+version: 1.0.3
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/transcribe/1.0.2.yaml
-sha256: 10496d2ccd03f3f971b408ec6375f87e8d576ffb73a6af3edf37a6d6e5787c28
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/transcribe/1.0.3.yaml
+sha256: 2a280ed0947cc41494733f681a6c53578c78e818b6c0b0d42731f4982b18a235
 description: 'kdeps kdeps-component: transcribe'
 tags:
   - kdeps
@@ -11,4 +11,7 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-http_request: ""
+  kdeps-tools-transcribe_audio: ""
+  kdeps-tools-transcribe_audio_offline: ""
 tokens: 362

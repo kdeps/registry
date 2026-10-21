@@ -1,9 +1,9 @@
 name: kdeps-components-task_get
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_get/1.0.0.yaml
-sha256: e543a57cb0e15b8ccc11b9947772787112a9170b933e6b407617eff74842cfa5
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_get/1.0.1.yaml
+sha256: 79d66114ec5cf4e7c726532e8ccb841374b247f72ab63d8808a9e56c44de7f31
 description: 'kdeps kdeps-component: task_get'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-task_get: ""
 tokens: 34

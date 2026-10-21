@@ -1,9 +1,9 @@
 name: kdeps-components-sql_query
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/sql_query/1.0.0.yaml
-sha256: 066d5561f379183b8b35336d71c88dc1929cd880f27d754332799ec2c24c13b6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/sql_query/1.0.1.yaml
+sha256: e28988e8c56d69e1177a9782807f8b1f774ebd89ffcf32a29c1002c3078723cf
 description: 'kdeps kdeps-component: sql_query'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-sql_query: ""
 tokens: 66

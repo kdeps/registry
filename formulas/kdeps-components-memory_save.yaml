@@ -1,9 +1,9 @@
 name: kdeps-components-memory_save
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/memory_save/1.0.0.yaml
-sha256: 51ebdac87c037de6e24f4368ffbb27087a994cb3f92acdbb9bea49d107022d30
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/memory_save/1.0.1.yaml
+sha256: 3cb2019068d7e24f7de8a91c20cb5676c83728eea9d24d19db7fb8b53e81c86d
 description: 'kdeps kdeps-component: memory_save'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-memory_save: ""
 tokens: 51

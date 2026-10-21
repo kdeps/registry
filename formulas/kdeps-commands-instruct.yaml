@@ -1,9 +1,9 @@
 name: kdeps-commands-instruct
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/instruct/1.0.0.yaml
-sha256: f8c741bdb556054630c93879ced73a949373869cd0fd5f061ad24e949a643550
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/instruct/1.0.1.yaml
+sha256: 7b907ab24e9612ada6e50eb204d2d3a747ede1fc621d852410fa44fa1da72ba6
 description: 'kdeps command: instruct'
 tags:
   - kdeps

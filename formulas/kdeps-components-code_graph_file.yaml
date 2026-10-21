@@ -1,9 +1,9 @@
 name: kdeps-components-code_graph_file
-version: 1.1.0
+version: 1.1.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_graph_file/1.1.0.yaml
-sha256: 930f26e614c66f995f35b8b257bb4e763e03698569c4d2224a835c77dc2ab295
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_graph_file/1.1.1.yaml
+sha256: e0b495faef891138d6f3bc308f63bf3e9e12aea999016975c6ead29f00c540c2
 description: 'kdeps kdeps-component: code_graph_file'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-code_graph_file: ""
 tokens: 76

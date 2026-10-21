@@ -1,9 +1,9 @@
 name: kdeps-commands-fold
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/fold/1.0.0.yaml
-sha256: 8fffd4952dcd42db026303ff9cd1ef81581202b602f93358ec9c60553745931a
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/fold/1.0.1.yaml
+sha256: 5aa593025175baa5ef4ba08a369d2580fe0aa7e2c3bd7a777734b6f19c31f8b8
 description: 'kdeps command: fold'
 tags:
   - kdeps

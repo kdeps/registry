@@ -1,9 +1,9 @@
 name: kdeps-commands-memory
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/memory/1.0.0.yaml
-sha256: 46ecd0b6d5c4fa73a57fb835c752d18642f238e4d51b848068486f0bad83ff25
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/memory/1.0.1.yaml
+sha256: 083c86a216c989324db08abe2926f4e6361bce5a04020a061c9044501a6d5772
 description: 'kdeps command: memory'
 tags:
   - kdeps

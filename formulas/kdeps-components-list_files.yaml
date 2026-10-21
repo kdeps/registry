@@ -1,9 +1,9 @@
 name: kdeps-components-list_files
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/list_files/1.0.0.yaml
-sha256: 3901b44788ba0db37298310854fd8da31e5f6f70080b7572b00472f40bf57c5b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/list_files/1.0.1.yaml
+sha256: ed9ab062e5544e317ea96931a0224ed573d6639708dba732a6bcc591983219f9
 description: 'kdeps kdeps-component: list_files'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-list_files: ""
 tokens: 48

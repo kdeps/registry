@@ -1,9 +1,9 @@
 name: kdeps-components-write_file
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/write_file/1.0.0.yaml
-sha256: 8a88c6a0d5b030500b7df6b3dc0c60da86d49adbb12429bb29c7eaf780ee16bc
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/write_file/1.0.1.yaml
+sha256: fc21f30cc2f8fa530811bd043587d605797e90c31d88405ba868fd346e2b63e4
 description: 'kdeps kdeps-component: write_file'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-write_file: ""
 tokens: 58

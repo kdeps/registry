@@ -1,9 +1,9 @@
 name: kdeps-components-retrieve_context
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/retrieve_context/1.0.0.yaml
-sha256: 1c36df6bcbbbd0513c2b513cc44fd4a85f9e5a068d1336c582765baa3e2f613c
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/retrieve_context/1.0.1.yaml
+sha256: f15b7fea9b35fe4fd358739ba8506a0da510ec5894c57361f9f57dd29c5931b9
 description: 'kdeps kdeps-component: retrieve_context'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-retrieve_context: ""
 tokens: 76

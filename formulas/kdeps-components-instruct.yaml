@@ -1,9 +1,9 @@
 name: kdeps-components-instruct
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/instruct/1.0.0.yaml
-sha256: a203a28424689ea07069b92ddf5ab5bea78a891a090d5c0803aa70c5964de939
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/instruct/1.0.1.yaml
+sha256: 94d9ad773a218ded45c29ec2f03b9b26734cafce575132d668abf18c4888e0ec
 description: 'kdeps kdeps-component: instruct'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-instruct: ""
 tokens: 63

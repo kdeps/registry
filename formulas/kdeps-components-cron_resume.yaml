@@ -1,9 +1,9 @@
 name: kdeps-components-cron_resume
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_resume/1.0.0.yaml
-sha256: 564744fae5c274200b0a503507475f26228569ab1062883c3b226512c234fc3e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_resume/1.0.1.yaml
+sha256: 632092108d743d75c1b3da657b8dfc6fafee06284a877ec6276a0ee03130b0f9
 description: 'kdeps kdeps-component: cron_resume'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-cron_resume: ""
 tokens: 35

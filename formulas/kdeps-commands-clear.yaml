@@ -1,9 +1,9 @@
 name: kdeps-commands-clear
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/clear/1.0.0.yaml
-sha256: 955c6c673e064e0a20df49c336aeb3a0f7d61327e38e5b8b06de165564c61cb9
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/clear/1.0.1.yaml
+sha256: 17f59748d15146693a505123462acf79eb399ff982d70a7750b52df0dad720a2
 description: 'kdeps command: clear'
 tags:
   - kdeps

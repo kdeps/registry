@@ -1,9 +1,9 @@
 name: kdeps-commands-history
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/history/1.0.0.yaml
-sha256: a14172c99c8ab2559725bbc158315708f0da99cebf64296bea25322a769bf8c2
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/history/1.0.1.yaml
+sha256: a38f557ad3d877500e4543c1539a771503c82668a0a2c1ffdb272d0584ba0fff
 description: 'kdeps command: history'
 tags:
   - kdeps

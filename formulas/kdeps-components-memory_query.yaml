@@ -1,9 +1,9 @@
 name: kdeps-components-memory_query
-version: 1.1.0
+version: 1.1.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/memory_query/1.1.0.yaml
-sha256: a80b374e2258ce8083627f561474c8606e2cfe9cb5413694b92ba61319fbdc5b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/memory_query/1.1.1.yaml
+sha256: 1d779a69f7ce3b35f2327559f17000a04006dd5d4edadbef36189300e3a26fbf
 description: 'kdeps kdeps-component: memory_query'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-memory_query: ""
 tokens: 80

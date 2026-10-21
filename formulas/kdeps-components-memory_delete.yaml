@@ -1,9 +1,9 @@
 name: kdeps-components-memory_delete
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/memory_delete/1.0.0.yaml
-sha256: 280abd82255e17aaf302a7b7addb402761985c648f983e46a3d6808c724c8ae1
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/memory_delete/1.0.1.yaml
+sha256: c2575e0641cd3d6c73ba7ab8bf10c85587dc647f26539ea18c22c75471000eb6
 description: 'kdeps kdeps-component: memory_delete'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-memory_delete: ""
 tokens: 36

@@ -1,9 +1,9 @@
 name: kdeps-components-ocr_image
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/ocr_image/1.0.1.yaml
-sha256: 97333ff4d9e0493c19d96031a144832c0f5e5a84557ab3d1f6d0ea43a05c42b0
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/ocr_image/1.0.2.yaml
+sha256: 0d76019f16ab1bdc34d1b0af2c8f157c9e5e3c21769134f92858e89cab6b2474
 description: 'kdeps kdeps-component: ocr_image'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-ocr_image: ""
 tokens: 159

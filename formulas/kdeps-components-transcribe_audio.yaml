@@ -1,9 +1,9 @@
 name: kdeps-components-transcribe_audio
-version: 1.1.0
+version: 1.1.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/transcribe_audio/1.1.0.yaml
-sha256: 495dcade36f7f518b29d9405d69f3feba60e3db47b118dd1e941d5b4ee399a09
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/transcribe_audio/1.1.1.yaml
+sha256: c07e8629f0867ca2c38bb2d7ca63c12e8d83235e46e28c92a0850ccd9c72bef2
 description: 'kdeps kdeps-component: transcribe_audio'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-transcribe_audio: ""
 tokens: 269

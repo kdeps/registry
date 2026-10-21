@@ -1,9 +1,9 @@
 name: kdeps-components-voyageai_rerank
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/voyageai_rerank/1.0.0.yaml
-sha256: 4e81a1a5eaf53a81d2e85a6f6d3efe57d9a127a5c7a75c0d69349d9ed78e6444
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/voyageai_rerank/1.0.1.yaml
+sha256: f9558b08cc696a89b106b1e08252286beb1183a857ea67bc7573fee28963380a
 description: 'kdeps kdeps-component: voyageai_rerank'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-voyageai_rerank: ""
 tokens: 125

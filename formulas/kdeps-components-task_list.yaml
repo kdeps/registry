@@ -1,9 +1,9 @@
 name: kdeps-components-task_list
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_list/1.0.0.yaml
-sha256: ab32febf190bbe8bb216f49f3e765b17feec3d08d321ae24df26790b88b687c8
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/task_list/1.0.1.yaml
+sha256: a21b5b65e223f1020a79f3c45eb2bfb01ef2cb318c92fd2be7e67f2be590ff42
 description: 'kdeps kdeps-component: task_list'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-task_list: ""
 tokens: 12

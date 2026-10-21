@@ -1,9 +1,9 @@
 name: kdeps-commands-upgrade
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/upgrade/1.0.0.yaml
-sha256: 30c9585365e13e5fedfc91afb6cc56daf3f27e568fd6f6db1a08867def81cd23
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/upgrade/1.0.1.yaml
+sha256: 913fdded9f25105f1c51a8dcbbf0a069bf010b394e5f6d2664186aea9477da68
 description: 'kdeps command: upgrade'
 tags:
   - kdeps

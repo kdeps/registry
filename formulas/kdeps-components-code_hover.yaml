@@ -1,9 +1,9 @@
 name: kdeps-components-code_hover
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_hover/1.0.0.yaml
-sha256: f2ea50e4680677c002a331fbd1cf72709b5b8508f723c99bc140557462a2252b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/code_hover/1.0.1.yaml
+sha256: 4fa1b6717c8ac22a776d4e77fbf9396dab156b3724a3c0814a03697cb8bad6cd
 description: 'kdeps kdeps-component: code_hover'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-code_hover: ""
 tokens: 55

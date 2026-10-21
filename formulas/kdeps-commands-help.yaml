@@ -1,9 +1,9 @@
 name: kdeps-commands-help
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/help/1.0.0.yaml
-sha256: 9976d7235f662629cb25727f28a73accd3f58a36d33483870231677808652f51
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/help/1.0.1.yaml
+sha256: 109da8658ce372d807bf2f11b4f0bf817b4a26380fa6101910d65129786ff55e
 description: 'kdeps command: help'
 tags:
   - kdeps

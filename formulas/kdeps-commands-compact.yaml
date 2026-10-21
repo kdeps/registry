@@ -1,9 +1,9 @@
 name: kdeps-commands-compact
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/compact/1.0.0.yaml
-sha256: cddc2d060fd6cf6b5822408c5ef9c234b415534ec12c7e149e36e0ca69604570
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/compact/1.0.1.yaml
+sha256: e32513ec62adf0fb5b19a65c560da7591a777e60690a1c51542ed2f09ad17ed2
 description: 'kdeps command: compact'
 tags:
   - kdeps

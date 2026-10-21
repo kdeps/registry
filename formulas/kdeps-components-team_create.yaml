@@ -1,9 +1,9 @@
 name: kdeps-components-team_create
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/team_create/1.0.0.yaml
-sha256: 9d2f5c153b311fd8e660fd1090c002665839db08b140a131a8e38e94ce22e05a
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/team_create/1.0.1.yaml
+sha256: 92398a632f5edaebc0739fe9e59952cf10e34d6ebb095d9330836b8b8b3d4898
 description: 'kdeps kdeps-component: team_create'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-team_create: ""
 tokens: 30

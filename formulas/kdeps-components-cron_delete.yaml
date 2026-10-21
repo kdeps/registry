@@ -1,9 +1,9 @@
 name: kdeps-components-cron_delete
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_delete/1.0.0.yaml
-sha256: 7711fa74fa75a0703b2e0f184cfdbb4b2c9635257ba95149401f49ac3e45f878
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_delete/1.0.1.yaml
+sha256: fe2763722f0b4258f1dd11debc517bfdeca88b2819af8761eeb4f928519ee37f
 description: 'kdeps kdeps-component: cron_delete'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-cron_delete: ""
 tokens: 34

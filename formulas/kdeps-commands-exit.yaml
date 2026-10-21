@@ -1,9 +1,9 @@
 name: kdeps-commands-exit
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/exit/1.0.0.yaml
-sha256: 98db6ed20342d18b9c6d126d30815debabac776af6969b7f8088094b261569ba
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/exit/1.0.1.yaml
+sha256: 7dcaee3f9f39e3ad25d97fe8fa099128059461a53ba4b4d0cb88d035c6e9b14e
 description: 'kdeps command: exit'
 tags:
   - kdeps

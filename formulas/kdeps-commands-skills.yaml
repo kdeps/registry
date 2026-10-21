@@ -1,9 +1,9 @@
 name: kdeps-commands-skills
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/skills/1.0.0.yaml
-sha256: 9c85087a6632c59ddb28f79e8982e1981c421e787d7bd252e6d8a5cfd0e0b1b9
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/skills/1.0.1.yaml
+sha256: e77b969467bf252b8d53c7ccbd936f778f1fe225ecba9d3637226a112cc56fb9
 description: 'kdeps command: skills'
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-components-cron_list
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_list/1.0.0.yaml
-sha256: ca224763298a1aa3965af3d1ac05767b90e67b983daadb9bcded73c4d1cca631
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cron_list/1.0.1.yaml
+sha256: 485cf38f05c8c193ef26dc0772cd07d31229ad02cdd37a8641bfada9991595b2
 description: 'kdeps kdeps-component: cron_list'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-cron_list: ""
 tokens: 13

@@ -1,9 +1,9 @@
 name: kdeps-commands-harness
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/harness/1.0.0.yaml
-sha256: 50f8b735f018b3b18b608fae9ab0052a82337a34f86bed85127580c4b2fd977d
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/harness/1.0.1.yaml
+sha256: a0c9b91427ea14d1c1c68a131217b90d76b7bac8dca405f1562999c08fc2191a
 description: 'kdeps command: harness'
 tags:
   - kdeps

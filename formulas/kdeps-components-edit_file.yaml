@@ -1,9 +1,9 @@
 name: kdeps-components-edit_file
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/edit_file/1.0.0.yaml
-sha256: 8d88208a7eb6a03a46828b551778efe21036abae7bb63a6e73494ed9d55b39b2
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/edit_file/1.0.1.yaml
+sha256: 75f585756d59576a61ba4f3a7a562d37f2009c1a2482866db637884224203949
 description: 'kdeps kdeps-component: edit_file'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-edit_file: ""
 tokens: 560

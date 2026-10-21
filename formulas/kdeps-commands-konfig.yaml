@@ -1,9 +1,9 @@
 name: kdeps-commands-konfig
-version: 1.0.0
+version: 1.0.1
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/konfig/1.0.0.yaml
-sha256: 2143ca3597901fe1b4109208fdb9c72d6dc959b37a841a6c56ffe0bdb38d0fc0
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/konfig/1.0.1.yaml
+sha256: 4a6d3ab7be1d6c8087058dcf87ba7ad90329f5912d68ef65aeb862c7e3e32f15
 description: 'kdeps command: konfig'
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-components-perplexity_search
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/perplexity_search/1.0.0.yaml
-sha256: 3efcae28de9697b944d59d46f7826014cf7440e6b4dacce05aa52710d8d387e6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/perplexity_search/1.0.1.yaml
+sha256: 861cb2a98148ed0598305d3bed13a0866bc6202f8511333876d852ab64b8f364
 description: 'kdeps kdeps-component: perplexity_search'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-perplexity_search: ""
 tokens: 37

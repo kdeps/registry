@@ -1,9 +1,9 @@
 name: kdeps-components-embedding_search
-version: 1.1.0
+version: 1.1.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/embedding_search/1.1.0.yaml
-sha256: ba34ba61b18a4182503298512c369232534dd37b4c837f3f974567c5211216bf
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/embedding_search/1.1.1.yaml
+sha256: a69051f8e6c45f395d1af2e8d644bd5ad6ff7185bcd6f40d45f720bf6a2212e6
 description: 'kdeps kdeps-component: embedding_search'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-embedding_search: ""
 tokens: 91

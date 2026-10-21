@@ -1,9 +1,9 @@
 name: kdeps-components-http_request
-version: 1.1.0
+version: 1.1.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/http_request/1.1.0.yaml
-sha256: 29994e79b22884d033b61e996b8bb3354807dea1c01dd47cf4a2267288e4aa21
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/http_request/1.1.1.yaml
+sha256: bec3ade0261752f40322fb2915a23d3091af8511e6500453da2ce0b738dd206a
 description: 'kdeps kdeps-component: http_request'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-http_request: ""
 tokens: 201

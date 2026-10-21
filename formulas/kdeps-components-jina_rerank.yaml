@@ -1,9 +1,9 @@
 name: kdeps-components-jina_rerank
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/jina_rerank/1.0.0.yaml
-sha256: 286837452326c491325e5b59ffaabfff76b4ae3b24efa4ca2074eb8e7c18d9ee
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/jina_rerank/1.0.1.yaml
+sha256: 9a3c30507a1f5fd489aaa87d24323d66cf63d6b5d7f96dce51aaeca457db8d15
 description: 'kdeps kdeps-component: jina_rerank'
 tags:
   - kdeps
@@ -11,4 +11,5 @@ tags:
 license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
+  kdeps-tools-jina_rerank: ""
 tokens: 129
