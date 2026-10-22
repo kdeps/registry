@@ -1,9 +1,9 @@
 name: kdeps-templates-resources
-version: 1.0.3
+version: 1.0.4
 type: template
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/resources/1.0.3.yaml
-sha256: e2d972006aa32e9f44e4b25e7b449642514631a7bb2882badde8ddfa101995e6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/resources/1.0.4.yaml
+sha256: fbd8824580617e9a8d53bc382143bbd20e082cd7ba665c36e881229b824de1cc
 description: 'kdeps template: resources'
 tags:
   - kdeps
