@@ -1,0 +1,11 @@
+name: kdeps-providers-cohere
+version: 1.0.0
+type: provider
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/providers/cohere/1.0.0.yaml
+sha256: 85938167e88240bbc33ec6a5ec71d009fff83f77143c03f873280ca854b17e2a
+description: 'kdeps provider: cohere'
+tags:
+  - kdeps
+  - provider
+license: Apache-2.0
