@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/cron_pause/1.0.0.yaml
 sha256: 8cb3a15a9ea7c8281a973e2594a4f075e7ed037704387a834a3974c1481d35ed
-description: Pause a cron job. No new tasks will be created until resumed.
+description: 'kdeps tool: cron_pause'
 tags:
   - kdeps
   - tool

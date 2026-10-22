@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/cron_list/1.0.0.yaml
 sha256: 99603e03cc40466c1337f47db2e2671ecf32bfc27efc785a31a588e6e41c866d
-description: List all cron jobs in the registry. Shows expression, status, and last/next run times.
+description: 'kdeps tool: cron_list'
 tags:
   - kdeps
   - tool

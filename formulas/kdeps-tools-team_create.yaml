@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/team_create/1.0.0.yaml
 sha256: 1df55f78f033f65b845d7bddaf2f9c7eee45d33e28d07908affbd8d4c9d80372
-description: Create a new team for grouping related tasks. Returns the team ID.
+description: 'kdeps tool: team_create'
 tags:
   - kdeps
   - tool

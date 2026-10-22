@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/cron_create/1.0.0.yaml
 sha256: 3e88a9077ef0c0020a96acc2ab5e929755d66e0b25ecee82a190039469df2cac
-description: Create a new scheduled cron job. The job will fire at the given cron expression and create a task each time it fires. Returns the cron ID.
+description: 'kdeps tool: cron_create'
 tags:
   - kdeps
   - tool

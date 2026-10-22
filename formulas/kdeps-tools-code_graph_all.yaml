@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_graph_all/1.0.0.yaml
 sha256: 9fe56f621e9bcd5facc64af4b1a2b99250c66777599c444c49cd7492f71985cf
-description: 'Graph everything in the index: the full reference graph plus every root file (files nothing else references). Requires an index built with code_index_folder first.'
+description: 'kdeps tool: code_graph_all'
 tags:
   - kdeps
   - tool

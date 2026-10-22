@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_diagnostics/1.1.0.yaml
 sha256: f514deb2723bd90f3f3fb966fcde5f4ab6addb9323af7a789442d0748d0e826b
-description: 'Get compiler/linter diagnostics for a file. Returns errors, warnings, hints. Requires: path. Optional: pattern, languageId.'
+description: 'kdeps tool: code_diagnostics'
 tags:
   - kdeps
   - tool

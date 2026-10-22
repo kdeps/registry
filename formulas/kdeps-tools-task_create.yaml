@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/task_create/1.0.0.yaml
 sha256: b499de3634cd51d05fbc5ba6d7d37d8632e789cda8dda99faa6a05df2a8c9062
-description: Create a new task in the global task registry. Returns the task ID. Use for tracking discrete work items that may span multiple LLM turns.
+description: 'kdeps tool: task_create'
 tags:
   - kdeps
   - tool

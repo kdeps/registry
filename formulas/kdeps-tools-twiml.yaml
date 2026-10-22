@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/twiml/1.0.0.yaml
 sha256: 33a348c9d3e04dd763caf9c406dbb01ef497098e6a24b730fe8d40afcb047516
-description: 'Build a TwiML voice response (say, play, pause, gather, dial, record, hangup, reject, redirect) from an ordered list of verbs. Returns {"twiml": "<Response>...</Response>"}. Requires: verbs (an ordered list, one key per verb).'
+description: 'kdeps tool: twiml'
 tags:
   - kdeps
   - tool

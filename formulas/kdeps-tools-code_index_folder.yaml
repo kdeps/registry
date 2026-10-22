@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_index_folder/1.0.0.yaml
 sha256: 7aa488dafe8bdb5197c7fb37fcbb9e042fb47f63064f8e19f2ce02ac2fbd05bb
-description: Index the current working directory into a persistent graph database, tracking markdown/wikilink references between files and topics/tags declared in YAML frontmatter. Always indexes the CWD -- cannot be pointed at another directory. Run this once before code_graph_file, code_graph_topic, or code_graph_all.
+description: 'kdeps tool: code_index_folder'
 tags:
   - kdeps
   - tool

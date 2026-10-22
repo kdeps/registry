@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/task_append_output/1.0.0.yaml
 sha256: 9efcff6e5aae5d37b63f6537cd11022f4d4f9856021b2cb359a961a506f60535
-description: Append text to a task's output log. Use for recording intermediate results.
+description: 'kdeps tool: task_append_output'
 tags:
   - kdeps
   - tool

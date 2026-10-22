@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_graph_topic/1.0.0.yaml
 sha256: 5dc2a3a8cfe84e6de1991222dc1e9cb1ae64b4fdd0c04889848362ab4e348742
-description: 'Graph every indexed file tagged with a topic, plus the full reference graph. Requires an index built with code_index_folder first. Requires: topic.'
+description: 'kdeps tool: code_graph_topic'
 tags:
   - kdeps
   - tool

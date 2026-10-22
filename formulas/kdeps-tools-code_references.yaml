@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_references/1.1.0.yaml
 sha256: bd005c4fbd08b6110fc6affa53491b6180478c5b86710fbed66965dc3cca678c
-description: 'Find all references to a symbol across the codebase. Returns every file and line. Requires: symbol, path. Optional: pattern, language, languageId, context, limit.'
+description: 'kdeps tool: code_references'
 tags:
   - kdeps
   - tool

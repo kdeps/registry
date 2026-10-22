@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/cron_resume/1.0.0.yaml
 sha256: 40fc51c502fd71ac56a518b0dd80fb7e82842381ad7a69334f4309bd24af497a
-description: Resume a paused cron job.
+description: 'kdeps tool: cron_resume'
 tags:
   - kdeps
   - tool

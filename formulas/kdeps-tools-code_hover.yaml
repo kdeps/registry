@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_hover/1.1.0.yaml
 sha256: 277237f3f7242883aadb7b9a4dc533fea7f701ae7789eafe47be9c5943b59d45
-description: 'Get documentation and type info for a symbol. Returns doc comments and type signatures. Requires: symbol, path. Optional: languageId.'
+description: 'kdeps tool: code_hover'
 tags:
   - kdeps
   - tool

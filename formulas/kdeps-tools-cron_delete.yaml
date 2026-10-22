@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/cron_delete/1.0.0.yaml
 sha256: c5ee69b426115608c4209976d678bdc7beb9a2720e87bc03a5992ce3bd38f07c
-description: Delete a cron job. Marked as deleted in the registry.
+description: 'kdeps tool: cron_delete'
 tags:
   - kdeps
   - tool

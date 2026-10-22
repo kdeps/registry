@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/goal_task_fail/1.0.0.yaml
 sha256: 462d22095db7c33d10460999ee3d2f80b78b19a54caebeea3e790f92da0c24bf
-description: Give up on the ACTIVE task and advance to the next one. Use this instead of retrying when the task cannot be completed, so the goal keeps moving. Pass the active task's id and the reason.
+description: 'kdeps tool: goal_task_fail'
 tags:
   - kdeps
   - tool

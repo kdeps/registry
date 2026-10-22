@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/code_symbols/1.1.0.yaml
 sha256: 58275374a03f048f589949558e5b16395383086379c647d8f32e399c14d7b1e8
-description: 'List all symbols (functions, types, classes) in a file. Returns structured symbol info with nesting. Requires: path. Optional: pattern, language, languageId, context, limit.'
+description: 'kdeps tool: code_symbols'
 tags:
   - kdeps
   - tool

@@ -4,7 +4,7 @@ type: tool
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/team_delete/1.0.0.yaml
 sha256: 2a11902d9287311ae05491d34efc93b5c87eb17501b29ecd55be18c360e6883e
-description: Delete (mark as deleted) a team.
+description: 'kdeps tool: team_delete'
 tags:
   - kdeps
   - tool
