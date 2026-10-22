@@ -1,8 +1,8 @@
 name: kdeps-resource-python
-version: 2.59.0
+version: 2.60.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/python/2.59.0.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/python/2.60.0.md
 sha256: 4fe4c1f646d887a71aa2ed9f97d652e7f0b1e6225b05839ba086faaad0f10472
 description: 'The `python` component runs a Python script in a managed virtualenv and returns its stdout, parsed as JSON when possible and as raw text otherwise. It is a kdeps component from the `components` asset set: call it with a `component:` resource, no install step. Its call is the kdeps API''s `python` tool, which runs the native Python executor. A workflow that uses `python:` directly - primary or in a `before:`/`after:` step - is rejected.'
 tags:
