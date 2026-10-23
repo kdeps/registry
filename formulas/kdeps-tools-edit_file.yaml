@@ -1,12 +1,12 @@
 name: kdeps-tools-edit_file
-version: 1.1.0
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/edit_file/1.1.0.yaml
-sha256: f38a74820a64ab2c75703cbba646c8726bcb2340dd540793b9355ab6f2549c90
-description: 'Edit a file. Pass command:'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/edit_file/2.0.0.yaml
+sha256: bd9bea06eca6a69d50ce7a6ef380fd95f9d9a5490566e19ded66d5559abe0aa6
+description: 'Edit one line of an existing file. Give file_path, the line to change (line, 1-based) or words that are on it (match), and either:'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 1353
+tokens: 315
