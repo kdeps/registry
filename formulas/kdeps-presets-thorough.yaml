@@ -1,9 +1,9 @@
 name: kdeps-presets-thorough
-version: 1.0.1
+version: 1.0.2
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.0.1.yaml
-sha256: aeca6b2d0243eac6cdbdaaa83eb8c099868ff03b81696f51361804037666e70d
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.0.2.yaml
+sha256: 81d82636d980962f94ffee7e81e3acd17ebb37d8dc84bf314687568d970e5edb
 description: 'Maximizes context retention: compacts and folds much less often, injects far more memory context, keeps more of every tool result, and allows larger tool-call budgets. Best for long research/investigation sessions where losing history hurts quality more than the extra tokens cost.'
 tags:
   - kdeps
@@ -15,6 +15,17 @@ dependencies:
   kdeps-actions-compact: ""
   kdeps-actions-drop_oldest: ""
   kdeps-actions-truncate: ""
+  kdeps-components-bash_exec: ""
+  kdeps-components-edit_file: ""
+  kdeps-components-exec: ""
+  kdeps-components-list_files: ""
+  kdeps-components-memory_query: ""
+  kdeps-components-memory_search: ""
+  kdeps-components-read_file: ""
+  kdeps-components-search_local: ""
+  kdeps-components-web_scraper: ""
+  kdeps-components-web_search: ""
+  kdeps-components-write_file: ""
   kdeps-events-auto-compact: ""
   kdeps-events-bash-call-budget: ""
   kdeps-events-code-call-budget: ""

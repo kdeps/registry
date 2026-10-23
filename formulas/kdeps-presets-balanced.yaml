@@ -1,9 +1,9 @@
 name: kdeps-presets-balanced
-version: 1.0.1
+version: 1.0.2
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/balanced/1.0.1.yaml
-sha256: 4ac14699f4345fdb8d1eed4a9e91d2f9944edc57405f6772b0697ac9d1461512
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/balanced/1.0.2.yaml
+sha256: eb39673a4c6d6d2f1aa501a7982e5574198f0c73b70df0e1177e62cd22a276f5
 description: The shipped, out-of-the-box defaults for every token-economy event. Applying this after switching to "frugal" or "thorough" resets them all in one step, without needing to hand-edit or delete override files.
 tags:
   - kdeps
@@ -15,6 +15,17 @@ dependencies:
   kdeps-actions-compact: ""
   kdeps-actions-drop_oldest: ""
   kdeps-actions-truncate: ""
+  kdeps-components-bash_exec: ""
+  kdeps-components-edit_file: ""
+  kdeps-components-exec: ""
+  kdeps-components-list_files: ""
+  kdeps-components-memory_query: ""
+  kdeps-components-memory_search: ""
+  kdeps-components-read_file: ""
+  kdeps-components-search_local: ""
+  kdeps-components-web_scraper: ""
+  kdeps-components-web_search: ""
+  kdeps-components-write_file: ""
   kdeps-events-auto-compact: ""
   kdeps-events-bash-call-budget: ""
   kdeps-events-code-call-budget: ""

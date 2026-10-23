@@ -1,9 +1,9 @@
 name: kdeps-presets-frugal
-version: 1.0.1
+version: 1.0.2
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.0.1.yaml
-sha256: 1525c99f05a020a0612b4a76a759011a60d3f44b0deead56ce41d80539778d16
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.0.2.yaml
+sha256: f53b6d56a3a909513a119c4b21b8465b0d9907f68d0a1342c95a13be7c10a6f7
 description: 'Minimizes token usage: compacts and folds history sooner, injects far less memory context, truncates tool output harder, and caps tool-call budgets tighter. Best for cost-sensitive sessions or a small-context- window local model.'
 tags:
   - kdeps
@@ -15,6 +15,17 @@ dependencies:
   kdeps-actions-compact: ""
   kdeps-actions-drop_oldest: ""
   kdeps-actions-truncate: ""
+  kdeps-components-bash_exec: ""
+  kdeps-components-edit_file: ""
+  kdeps-components-exec: ""
+  kdeps-components-list_files: ""
+  kdeps-components-memory_query: ""
+  kdeps-components-memory_search: ""
+  kdeps-components-read_file: ""
+  kdeps-components-search_local: ""
+  kdeps-components-web_scraper: ""
+  kdeps-components-web_search: ""
+  kdeps-components-write_file: ""
   kdeps-events-auto-compact: ""
   kdeps-events-bash-call-budget: ""
   kdeps-events-code-call-budget: ""
