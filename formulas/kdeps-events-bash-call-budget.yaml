@@ -1,9 +1,9 @@
 name: kdeps-events-bash-call-budget
-version: 1.0.3
+version: 1.1.0
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/bash-call-budget/1.0.3.yaml
-sha256: 9312f47fbbd795e0af60b8f292835f85cd81544a60f25b5785cd0fd0192cca85
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/bash-call-budget/1.1.0.yaml
+sha256: 4857ec7c8a2b966e0bb3ec437567592401538d41afc217f2026306784f1f6258
 description: 'kdeps event: bash-call-budget'
 tags:
   - kdeps
