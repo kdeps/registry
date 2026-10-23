@@ -1,8 +1,8 @@
 name: kdeps-resource-http-client
-version: 2.60.0
+version: 2.61.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/httpClient/2.60.0.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/httpClient/2.61.0.md
 sha256: e20f8a77143441a3eb1fa5a311ef14dbfe3fac73c55487b0e7f6c4afb485bb58
 description: 'The `http_request` component makes one outbound HTTP request and returns the response: status code, status line, headers, raw body, and the parsed JSON body under `data` when the response is JSON. It is a kdeps component from the `components` asset set: call it with a `component:` resource, no install step. Its call is the kdeps API''s `http_request` tool, which runs the native HTTP executor. A workflow that uses `httpClient:` directly - primary or in a `before:`/`after:` step - is rejected.'
 tags:
