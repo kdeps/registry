@@ -1,9 +1,9 @@
 name: kdeps-events-web-call-budget
-version: 1.0.2
+version: 1.0.3
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/web-call-budget/1.0.2.yaml
-sha256: c3c8218a3899fb5d9f6cfce94b12999da5286fa87318981f42460f25a32873a4
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/web-call-budget/1.0.3.yaml
+sha256: 79359555d537ed18a6fbf306773e2032c0027cd0dab449d0a302784494a2cf53
 description: 'kdeps event: web-call-budget'
 tags:
   - kdeps

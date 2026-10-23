@@ -1,9 +1,9 @@
 name: kdeps-events-handshake-timeout
-version: 1.0.2
+version: 1.0.3
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/handshake-timeout/1.0.2.yaml
-sha256: 369ae5439857bb41a3f6fa17f855c4ee27144874762b81c45344943438c0029e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/handshake-timeout/1.0.3.yaml
+sha256: c9a3fc8245bd40727adb210e4aa12d602efbf657e273f2c34a73b72aa26e38d0
 description: 'kdeps event: handshake-timeout'
 tags:
   - kdeps

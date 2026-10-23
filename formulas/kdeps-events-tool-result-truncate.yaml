@@ -1,9 +1,9 @@
 name: kdeps-events-tool-result-truncate
-version: 1.0.2
+version: 1.0.3
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/tool-result-truncate/1.0.2.yaml
-sha256: 5c78b37ab7f6a1227aa630b3e334b51daa17fb283872c58d4b0747b3fa6a1b2e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/tool-result-truncate/1.0.3.yaml
+sha256: 394f28777cfb5af71bfc33f59bb52bbe46d935399d61a6a88f20cbd5e8ea1d95
 description: 'kdeps event: tool-result-truncate'
 tags:
   - kdeps

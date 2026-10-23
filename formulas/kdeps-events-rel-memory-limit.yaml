@@ -1,9 +1,9 @@
 name: kdeps-events-rel-memory-limit
-version: 1.0.2
+version: 1.0.3
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/rel-memory-limit/1.0.2.yaml
-sha256: 4df3d1697c8bb0fd2d3d40180d1dd8b09c1332eb288f7b4a0bf537346c32692b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/rel-memory-limit/1.0.3.yaml
+sha256: 3cec13a93fb22c7d45b32c46e1dd16c0e0829a65aeb2cf6356674ab62fbc5671
 description: 'kdeps event: rel-memory-limit'
 tags:
   - kdeps

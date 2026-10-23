@@ -1,9 +1,9 @@
 name: kdeps-events-fold
-version: 1.0.2
+version: 1.0.3
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/fold/1.0.2.yaml
-sha256: 6cd348466a3dfcf35421040122e345d503f24c008a3bbef423383e5b217786f1
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/fold/1.0.3.yaml
+sha256: cf0848bc3089e188eb771fbb22221d6eee4c54877b032c92a2a6237d1745e4cb
 description: 'kdeps event: fold'
 tags:
   - kdeps

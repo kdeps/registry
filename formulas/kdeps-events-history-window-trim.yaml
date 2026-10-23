@@ -1,9 +1,9 @@
 name: kdeps-events-history-window-trim
-version: 1.0.2
+version: 1.0.3
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/history-window-trim/1.0.2.yaml
-sha256: e81ec269a79887f78ff57d8dd6c303f52de6c1af1164f49932a5aac576d34e03
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/history-window-trim/1.0.3.yaml
+sha256: 1578888cd873a8df8d2c709083649ddc2f819646f38d4ac15baf9e5c130a596f
 description: 'kdeps event: history-window-trim'
 tags:
   - kdeps

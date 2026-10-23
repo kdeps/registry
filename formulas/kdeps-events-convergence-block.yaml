@@ -1,9 +1,9 @@
 name: kdeps-events-convergence-block
-version: 1.0.2
+version: 1.0.3
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/convergence-block/1.0.2.yaml
-sha256: ff3ab184edc957b43c6a1a7ae233be578d1df04f4efd17d326943c932dec01c5
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/convergence-block/1.0.3.yaml
+sha256: 474c8ca8283825293df8f614841112ab6bbf615fd71932bb4662f78b192c3e32
 description: 'kdeps event: convergence-block'
 tags:
   - kdeps

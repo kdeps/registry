@@ -1,9 +1,9 @@
 name: kdeps-events-judge-max-rounds
-version: 1.0.2
+version: 1.0.3
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/judge-max-rounds/1.0.2.yaml
-sha256: c371cf09f28ebf9584cb5b63930f35267456e33d6c0ffe2d6d71aa45a2c04595
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/judge-max-rounds/1.0.3.yaml
+sha256: 77f92af8fba1121b09aede91648ba92ff031356414c3decd04f78aef4a633552
 description: 'kdeps event: judge-max-rounds'
 tags:
   - kdeps
