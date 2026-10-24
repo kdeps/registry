@@ -1,11 +1,13 @@
 name: kdeps-commands-compact
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/compact/1.0.1.yaml
-sha256: e32513ec62adf0fb5b19a65c560da7591a777e60690a1c51542ed2f09ad17ed2
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/compact/2.0.0.yaml
+sha256: 1f55cb8f59a4fd47e73107d705de80eed6569c9fe17a7e636f73e4e28aa77d4e
 description: 'kdeps command: compact'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""

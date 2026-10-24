@@ -1,0 +1,12 @@
+name: kdeps-tools-session_ops
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/session_ops/1.0.0.yaml
+sha256: f9290c610068799d56e7a8ed648fec02bcd2c9a513d61ecdc3ace9f3847c6cf0
+description: 'Read or change the active agent session: messages lists every message ({turns, messages: [{turn, role, content}]}); clear empties the history, summarizing it first when it has at least summarize_min_turns turns ({turns, summary}); compact folds older turns into a summary ({summary, turns, keep}).'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 143
