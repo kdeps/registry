@@ -1,0 +1,13 @@
+name: kdeps-events-thinking-budget-low
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-low/1.0.0.yaml
+sha256: d5b19fcfcc299abbe40ead2073d40308441b341835d97ddc6b1dc9763d84ae9e
+description: 'kdeps event: thinking-budget-low'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""

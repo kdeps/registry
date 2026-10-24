@@ -1,0 +1,13 @@
+name: kdeps-events-thinking-budget-auto
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-auto/1.0.0.yaml
+sha256: 16796dec72bf840c04d819cefea08455ea1799bdccfbf93783028e051fe06010
+description: 'kdeps event: thinking-budget-auto'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
