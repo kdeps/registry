@@ -1,11 +1,13 @@
 name: kdeps-commands-skills
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/skills/1.0.1.yaml
-sha256: e77b969467bf252b8d53c7ccbd936f778f1fe225ecba9d3637226a112cc56fb9
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/skills/2.0.0.yaml
+sha256: 75952ff072eb06c51eb49139199d6b270a79471d95417464e920402ca2f152e6
 description: 'kdeps command: skills'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""

@@ -1,11 +1,13 @@
 name: kdeps-commands-reload
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/reload/1.0.1.yaml
-sha256: 5dd3be427484b45df1245b3fb0b388a34ee53b98c33b72e33066fdd107e8cffa
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/reload/2.0.0.yaml
+sha256: 8b023a9a3049b2338af79a1d4ed2a3033dd50dedfc1f6fbdc31c58dc71ebb115
 description: 'kdeps command: reload'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""

@@ -1,11 +1,13 @@
 name: kdeps-commands-memory
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/memory/1.0.1.yaml
-sha256: 083c86a216c989324db08abe2926f4e6361bce5a04020a061c9044501a6d5772
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/memory/2.0.0.yaml
+sha256: c84c24d2ec40019d802e3ddf6faf96d7426c47271a26356a9bffa2fb4fa2c80f
 description: 'kdeps command: memory'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""
