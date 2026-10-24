@@ -1,12 +1,12 @@
 name: kdeps-tools-md5_file
-version: 1.0.1
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/md5_file/1.0.1.yaml
-sha256: 785a26996d06f7ee7d70fd2fd21d2fb92e89cbfd8ac501af2361c849614ff113
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/md5_file/2.0.0.yaml
+sha256: 392dc1de5dd16276b35146d1893334ac3e3782e08380026db15be41e9267b8ca
 description: Compute the MD5 checksum of a file. Call once before and once after a change to prove whether the file's contents actually changed -- pair both hashes as evidence rather than asserting the change happened.
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 102
+tokens: 110

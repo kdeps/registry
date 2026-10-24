@@ -1,12 +1,12 @@
 name: kdeps-tools-web_search
-version: 1.1.0
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/web_search/1.1.0.yaml
-sha256: 6b64e5b814cf412e12eae5ddcfbf27af886fa93700ecba5f14e2b928a805672f
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/web_search/2.0.0.yaml
+sha256: 7373d3c0106dd877c3d4d659d2d74528bd01085713a848955ce55dba0d230e0a
 description: Search the web using DuckDuckGo. Free, no API key required. Use for current events, facts, research, or anything needing an internet lookup. Input is a plain search query string.
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 106
+tokens: 109

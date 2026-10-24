@@ -1,9 +1,9 @@
 name: kdeps-tools-google_cache_delete
-version: 1.0.0
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/google_cache_delete/1.0.0.yaml
-sha256: 36d5b7fab2b9c79900c088c394b8bed91eb766b686ae35a1ba976a18249ed4ee
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/google_cache_delete/2.0.0.yaml
+sha256: 1f3250207ecafccf6eb10f6c75cb449e6b36463caccb543c2314901def275c60
 description: Delete a Google AI cached content entry by name. Only available when GOOGLE_API_KEY is set.
 tags:
   - kdeps

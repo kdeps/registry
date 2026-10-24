@@ -1,9 +1,9 @@
 name: kdeps-tools-git_ops
-version: 1.0.0
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/git_ops/1.0.0.yaml
-sha256: bec6fbea00c64d8fc38a178963322b12287ce4b2f2e0fdc6b03143d758a604ea
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/git_ops/2.0.0.yaml
+sha256: a456ddb9d95dcdc26de72496c3efa10e54d6ee6c186904dcb6aab2b0cb1ff85e
 description: 'Run one structured git operation and return its JSON result. Operations: status, diff, log, show, branch, remote, add, commit, checkout, init, clone, push, pull. Requires: operation, and url for clone. Optional: workingDir, paths, message, branch, remote, args, maxCount, dryRun.'
 tags:
   - kdeps

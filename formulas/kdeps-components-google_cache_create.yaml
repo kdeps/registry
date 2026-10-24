@@ -1,9 +1,9 @@
 name: kdeps-components-google_cache_create
-version: 1.0.1
+version: 1.1.0
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/google_cache_create/1.0.1.yaml
-sha256: a695bd039963b7782c159f03a86d3a0386cef80172ae8ced278b0e4aa2e60a3d
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/google_cache_create/1.1.0.yaml
+sha256: 3b3423f3c79e7d839a26bbb6190b0cf5eae38f8c3fa9880d65cfbe63ed6363d8
 description: 'kdeps kdeps-component: google_cache_create'
 tags:
   - kdeps
@@ -12,4 +12,4 @@ license: Apache-2.0
 dependencies:
   kdeps-schemas-v1: ""
   kdeps-tools-google_cache_create: ""
-tokens: 89
+tokens: 97
