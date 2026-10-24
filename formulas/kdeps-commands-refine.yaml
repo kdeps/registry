@@ -1,9 +1,9 @@
 name: kdeps-commands-refine
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/refine/1.0.1.yaml
-sha256: 6dbf69a046134bebe1e21fda7073859b9959f40acf636c9e71556333bf172d7e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/refine/2.0.0.yaml
+sha256: f9e738e13e45e45c26836ff93e20c006daa0a9fbc546bb9d245519bf2c1589a9
 description: 'kdeps command: refine'
 tags:
   - kdeps
