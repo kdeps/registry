@@ -1,12 +1,12 @@
 name: kdeps-tools-sql_describe_table
-version: 1.0.0
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/sql_describe_table/1.0.0.yaml
-sha256: c45985a99c1ee25e3dc46ab3cb7903bb418246f43b2ecc501d97db7acba31341
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/sql_describe_table/2.0.0.yaml
+sha256: 4501c5f8dd20c834fb5774806efe20fe26baec9f4d04e5e7de7e1c30fd2b95f5
 description: Return the schema (column names and types) for a table in a SQLite database. Use before writing queries to know the exact column names.
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 95
+tokens: 108

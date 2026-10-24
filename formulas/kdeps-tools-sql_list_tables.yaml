@@ -1,9 +1,9 @@
 name: kdeps-tools-sql_list_tables
-version: 1.0.0
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/sql_list_tables/1.0.0.yaml
-sha256: f419af69db0a4f4cc340ee6832551c16e930e175c52c95596df582f2a5bbb465
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/sql_list_tables/2.0.0.yaml
+sha256: 14475bd2c56b035f75ef8985939b5768df25014adafd0cbd8f444ea9ecf76033
 description: List all tables in a SQLite database. Use this to discover available data before querying. Returns a newline-separated list of table names.
 tags:
   - kdeps
