@@ -1,11 +1,13 @@
 name: kdeps-commands-knowledge
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/knowledge/1.0.1.yaml
-sha256: fd3dfd5341528c8b83fb4a440224cf8f19fd672b5ea6904f493f481f885b06fa
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/knowledge/2.0.0.yaml
+sha256: 3a1d46fc3071732d74b47d1554848b1cd1afb4ec23a4fac878607e0f96a819c3
 description: 'kdeps command: knowledge'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""

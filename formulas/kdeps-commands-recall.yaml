@@ -1,11 +1,13 @@
 name: kdeps-commands-recall
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/recall/1.0.1.yaml
-sha256: a0643c2a67f738d47d1a59dcc322d0e9248e04d5e09fba41078b41fe4b463e1d
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/recall/2.0.0.yaml
+sha256: bf54ca65ea83812af6bf9e9df5c587efa16f1139828b25ca00f6a3d5a0fd47ac
 description: 'kdeps command: recall'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""
