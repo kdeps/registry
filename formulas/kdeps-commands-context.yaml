@@ -1,11 +1,13 @@
 name: kdeps-commands-context
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/context/1.0.1.yaml
-sha256: 8921e5bee747b24f51dbf724a7df6b5c4e8109d6716e6700f3fbe3b6e6b2de3b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/context/2.0.0.yaml
+sha256: 019da0341a88369a435e0fbc154af3ccca29b54dacae8c3439850797df6047ef
 description: 'kdeps command: context'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""

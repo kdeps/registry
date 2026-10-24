@@ -1,11 +1,13 @@
 name: kdeps-commands-konfig
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/konfig/1.0.1.yaml
-sha256: 4a6d3ab7be1d6c8087058dcf87ba7ad90329f5912d68ef65aeb862c7e3e32f15
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/konfig/2.0.0.yaml
+sha256: 96057da8f114043fafe4354174e2eb67900fb06cafa5a22928d753473942b3ff
 description: 'kdeps command: konfig'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""

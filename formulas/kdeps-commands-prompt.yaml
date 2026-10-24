@@ -1,11 +1,13 @@
 name: kdeps-commands-prompt
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/prompt/1.0.1.yaml
-sha256: 424cdbc1b3f7fdf590bce1874b09fdbca8061253134d483f88e3445a8c906ac0
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/prompt/2.0.0.yaml
+sha256: 22ef4d65381f0afa4e29597e26bd45c3e69cf1bcbd575a14c713ba63bf802542
 description: 'kdeps command: prompt'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""

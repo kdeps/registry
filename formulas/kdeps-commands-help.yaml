@@ -1,11 +1,13 @@
 name: kdeps-commands-help
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/help/1.0.1.yaml
-sha256: 109da8658ce372d807bf2f11b4f0bf817b4a26380fa6101910d65129786ff55e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/help/2.0.0.yaml
+sha256: 7b93ee3a82990a3f3a6ab17efe4bc209b467f7d5f095a664426347d79093a49f
 description: 'kdeps command: help'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-session_ops: ""

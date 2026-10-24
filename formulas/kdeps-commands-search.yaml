@@ -1,11 +1,14 @@
 name: kdeps-commands-search
-version: 1.1.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/search/1.1.1.yaml
-sha256: b49246a93c21cad10ef116bed6fe50820d935167066b0beb9cc83c29b3dba100
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/search/2.0.0.yaml
+sha256: 47de957768c83fb8bc1ba87ad418e5ea9dd628788f20eae31ece6a171649eb85
 description: 'kdeps command: search'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-search_local: ""
+  kdeps-tools-session_ops: ""
