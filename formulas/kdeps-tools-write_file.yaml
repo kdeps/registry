@@ -1,12 +1,12 @@
 name: kdeps-tools-write_file
-version: 1.1.0
+version: 2.0.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/write_file/1.1.0.yaml
-sha256: 6e6d8e7e44beb37dbef804f32e04ff0489ef80ae01cebf70b839988172939ced
-description: Write or overwrite a text file on the local filesystem. Creates a new file if it does not exist; overwrites existing files entirely. Use for creating or updating configuration files, source code, scripts, or any text-based file. Requires an absolute path.
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/write_file/2.0.0.yaml
+sha256: 7d0d8ada05a6c5c495e785f704314f360bbe93f8913aa73dfd711b9b018de27c
+description: Write or overwrite a text file on the local filesystem. Creates a new file if it does not exist; overwrites existing files entirely. Use for creating or updating configuration files, source code, scripts, or any text-based file. Takes an absolute path.
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 153
+tokens: 168
