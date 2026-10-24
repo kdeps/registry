@@ -1,11 +1,14 @@
 name: kdeps-commands-copy
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/copy/1.0.1.yaml
-sha256: bd69a1455cc5968ff76281f4981e7e8cf6069688aec627c92ac8eac70701512e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/copy/2.0.0.yaml
+sha256: 97a896ef437491605ddde9b4c0e0eac8ac17364486cf13f3133a98de67efefa3
 description: 'kdeps command: copy'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-clipboard_copy: ""
+  kdeps-tools-session_ops: ""

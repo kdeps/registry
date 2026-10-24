@@ -1,0 +1,12 @@
+name: kdeps-tools-clipboard_copy
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/clipboard_copy/1.0.0.yaml
+sha256: 1d774f56d3548318fe610b7628a8f25effc3df11b6ee1fc241857fed64e51e45
+description: Copy text to the user's system clipboard (pbcopy on macOS, xclip or xsel on Linux, clip on Windows). Use when the user asks to copy something. Returns {copied, tool}; copied is false when text is empty.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 71
