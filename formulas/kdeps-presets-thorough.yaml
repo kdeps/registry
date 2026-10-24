@@ -1,9 +1,9 @@
 name: kdeps-presets-thorough
-version: 1.1.0
+version: 1.2.0
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.1.0.yaml
-sha256: e17b51d63fd5c6ed4a3609bac1a51413743a94a5e016d26d9c8618c9892708bf
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.2.0.yaml
+sha256: 381d23f29e6ff0f867a494d81a201506fddef504a6a547d0dd5a2d88bdd1e58a
 description: 'Maximizes context retention: compacts and folds much less often, injects far more memory context, keeps more of every tool result, and allows larger tool-call budgets. Best for long research/investigation sessions where losing history hurts quality more than the extra tokens cost.'
 tags:
   - kdeps
@@ -44,10 +44,13 @@ dependencies:
   kdeps-events-fold: ""
   kdeps-events-force-answer-digest: ""
   kdeps-events-history-window-trim: ""
+  kdeps-events-memory-capture-limit: ""
   kdeps-events-memory-chain-max: ""
   kdeps-events-memory-focus-max: ""
   kdeps-events-memory-keys-limit: ""
   kdeps-events-memory-prompt-limit: ""
+  kdeps-events-memory-search-limit: ""
+  kdeps-events-memory-value-limit: ""
   kdeps-events-rel-memory-limit: ""
   kdeps-events-tool-error-truncate: ""
   kdeps-events-tool-result-truncate: ""

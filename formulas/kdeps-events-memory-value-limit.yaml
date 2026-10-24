@@ -1,0 +1,13 @@
+name: kdeps-events-memory-value-limit
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-value-limit/1.0.0.yaml
+sha256: abfa2c5bbe57708212a4675e6cc9fc2c157e2612aaabad320a45ce6a58065a15
+description: 'kdeps event: memory-value-limit'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-truncate: ""

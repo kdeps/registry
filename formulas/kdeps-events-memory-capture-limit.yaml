@@ -1,0 +1,13 @@
+name: kdeps-events-memory-capture-limit
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-capture-limit/1.0.0.yaml
+sha256: e977bc8763bfbaaa1c7e1a3ef00be6e44e1717ec4167bc4c72f237e43240009b
+description: 'kdeps event: memory-capture-limit'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-truncate: ""

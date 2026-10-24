@@ -1,9 +1,9 @@
 name: kdeps-presets-frugal
-version: 1.1.0
+version: 1.2.0
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.1.0.yaml
-sha256: 28f100e9c652a5e31691f137dcafb58f79c0448e4ac6540ea25f4bbc4f9960e6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.2.0.yaml
+sha256: b356d30b4787214f2a2738f7222e7118dd54ab6802b8dcdfe1c03bb0a00126c9
 description: 'Minimizes token usage: compacts and folds history sooner, injects far less memory context, truncates tool output harder, and caps tool-call budgets tighter. Best for cost-sensitive sessions or a small-context- window local model.'
 tags:
   - kdeps
@@ -44,10 +44,13 @@ dependencies:
   kdeps-events-fold: ""
   kdeps-events-force-answer-digest: ""
   kdeps-events-history-window-trim: ""
+  kdeps-events-memory-capture-limit: ""
   kdeps-events-memory-chain-max: ""
   kdeps-events-memory-focus-max: ""
   kdeps-events-memory-keys-limit: ""
   kdeps-events-memory-prompt-limit: ""
+  kdeps-events-memory-search-limit: ""
+  kdeps-events-memory-value-limit: ""
   kdeps-events-rel-memory-limit: ""
   kdeps-events-tool-error-truncate: ""
   kdeps-events-tool-result-truncate: ""
