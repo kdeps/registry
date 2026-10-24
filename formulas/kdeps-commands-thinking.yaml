@@ -1,9 +1,9 @@
 name: kdeps-commands-thinking
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/thinking/1.0.1.yaml
-sha256: 3869f5788e3568d759d779e8d113c6eaeb5d2dfeae4e25afed9dab5cb8301ad3
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/thinking/2.0.0.yaml
+sha256: 673dc03a390d43ea334265e472b568adad13de322528d9077b9a4a2d4bc8fe95
 description: 'kdeps command: thinking'
 tags:
   - kdeps
