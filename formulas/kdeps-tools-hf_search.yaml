@@ -1,0 +1,12 @@
+name: kdeps-tools-hf_search
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/hf_search/1.0.0.yaml
+sha256: 23997c1519571a3812bbab17501232ea25389910566abf2b6b7c15f54dca3d86
+description: Search HuggingFace for GGUF model repos (most downloaded first) and list each repo's GGUF files with their sizes. Use to find a local model to download with /model hff download.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 124

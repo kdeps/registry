@@ -1,0 +1,12 @@
+name: kdeps-tools-hf_repo_files
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/hf_repo_files/1.0.0.yaml
+sha256: de5b151e25c206fb7596d966210cd39652c76db54f24cd55c4fdebf78f9f83ae
+description: List the GGUF files in one HuggingFace repo with their sizes, to pick one for /model hff download.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 68

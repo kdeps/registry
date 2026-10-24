@@ -1,0 +1,15 @@
+name: kdeps-components-hf_repo_files
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/hf_repo_files/1.0.0.yaml
+sha256: 8b266f7468603cc3ae6048dbed6b14104ac697ede683d5cc77a58b66b6f47269
+description: 'kdeps kdeps-component: hf_repo_files'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-hf_repo_files: ""
+tokens: 43

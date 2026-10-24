@@ -1,11 +1,15 @@
 name: kdeps-commands-model
-version: 1.0.1
+version: 2.0.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/model/1.0.1.yaml
-sha256: f1c9c47700782a3f43714df329793aebab303714cefe61b720c3945347274ca6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/model/2.0.0.yaml
+sha256: abf12115f965384bebe0a3ae2c0568c06a60680f879f270d63638192cacf74cd
 description: 'kdeps command: model'
 tags:
   - kdeps
   - command
 license: Apache-2.0
+dependencies:
+  kdeps-tools-hf_repo_files: ""
+  kdeps-tools-hf_search: ""
+  kdeps-tools-session_ops: ""

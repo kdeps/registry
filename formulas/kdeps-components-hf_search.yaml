@@ -1,0 +1,15 @@
+name: kdeps-components-hf_search
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/hf_search/1.0.0.yaml
+sha256: 7830edd383cc6e60b05941d202c8fdeaa0da580cc62ca204e49da6138352e52c
+description: 'kdeps kdeps-component: hf_search'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-hf_search: ""
+tokens: 65
