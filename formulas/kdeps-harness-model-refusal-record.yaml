@@ -1,0 +1,12 @@
+name: kdeps-harness-model-refusal-record
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/model-refusal-record/1.0.0.yaml
+sha256: ec7804367e2b2748ca7ffe8c031f2b2270174f80c562328ba6355462222dec74
+description: 'kdeps harness: model-refusal-record'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 175

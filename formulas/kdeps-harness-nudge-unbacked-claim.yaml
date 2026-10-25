@@ -1,0 +1,12 @@
+name: kdeps-harness-nudge-unbacked-claim
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-unbacked-claim/1.0.0.yaml
+sha256: 8962f13f8040627f9283f2f39737dfe7f33d7b3f3e761c99276aa2f863a0e3f5
+description: 'kdeps harness: nudge-unbacked-claim'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 93
