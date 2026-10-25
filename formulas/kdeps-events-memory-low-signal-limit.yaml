@@ -1,0 +1,13 @@
+name: kdeps-events-memory-low-signal-limit
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-low-signal-limit/1.0.0.yaml
+sha256: c6c5b563aebedef801faf55e4135b12d4a3a96bd2f661ff90c4f493ea541eb45
+description: 'kdeps event: memory-low-signal-limit'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""

@@ -1,0 +1,13 @@
+name: kdeps-events-memory-status-limit
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-status-limit/1.0.0.yaml
+sha256: 6e132a187005b5f358b8ad6e1762bb5080c941de525018208978b9652588b1d3
+description: 'kdeps event: memory-status-limit'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
