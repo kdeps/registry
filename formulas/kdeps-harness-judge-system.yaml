@@ -1,12 +1,12 @@
 name: kdeps-harness-judge-system
-version: 1.0.0
+version: 1.0.1
 type: harness
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/judge-system/1.0.0.yaml
-sha256: acf978e23edbdc326de77359c85c9d6ca5a79a1ace120c682aeac4ef5cbce667
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/judge-system/1.0.1.yaml
+sha256: e12746153916215fb2586b80456a4f04f089b5fbeeb27f9d3e941de4783a1dea
 description: 'kdeps harness: judge-system'
 tags:
   - kdeps
   - harness
 license: Apache-2.0
-tokens: 106
+tokens: 135

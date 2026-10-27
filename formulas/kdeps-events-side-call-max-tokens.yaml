@@ -1,0 +1,13 @@
+name: kdeps-events-side-call-max-tokens
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/side-call-max-tokens/1.0.0.yaml
+sha256: 483ee67949b8dd085ce37b182f4e3f3c33cfd9787bd838158b1d139608da4795
+description: 'kdeps event: side-call-max-tokens'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-truncate: ""
