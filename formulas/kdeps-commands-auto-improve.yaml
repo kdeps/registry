@@ -1,9 +1,9 @@
 name: kdeps-commands-auto-improve
-version: 1.0.2
+version: 1.0.3
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/auto-improve/1.0.2.yaml
-sha256: cf4665555b6e71f9103e655a1e93e9e9d90d3488b37a54cf5c259868704a3b5f
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/auto-improve/1.0.3.yaml
+sha256: 7c9f53f6c037c028325b0d9ce6e6e1b05e14e4958d2bb675761bad50292858af
 description: 'kdeps command: auto-improve'
 tags:
   - kdeps
