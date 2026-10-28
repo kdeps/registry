@@ -1,0 +1,13 @@
+name: kdeps-events-openrouter-free-per-minute
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/openrouter-free-per-minute/1.0.0.yaml
+sha256: 25931614fb8152176ecc8ac827a9637dc2e589601a503bb5dfa0143dccfe0c3c
+description: 'kdeps event: openrouter-free-per-minute'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
