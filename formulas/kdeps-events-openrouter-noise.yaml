@@ -1,0 +1,11 @@
+name: kdeps-events-openrouter-noise
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/openrouter-noise/1.0.0.yaml
+sha256: fbb9a7440de628c455f0adf60e7335594d6ec7d03700a2cdd7cc62859a59bf7e
+description: 'kdeps event: openrouter-noise'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
