@@ -1,0 +1,11 @@
+name: kdeps-events-openrouter-provider-limit
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/openrouter-provider-limit/1.0.0.yaml
+sha256: 509a55bb626a4d0c467039a9b83de0e528758627c7e738655137aaeda1409761
+description: 'kdeps event: openrouter-provider-limit'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0

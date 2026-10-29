@@ -1,0 +1,11 @@
+name: kdeps-events-openrouter-rate-limit
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/openrouter-rate-limit/1.0.0.yaml
+sha256: 70dcb58cdcb001b2aecea2a710ab06f229fc68d72451a271c8014a0f0c474c93
+description: 'kdeps event: openrouter-rate-limit'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0

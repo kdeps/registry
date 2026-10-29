@@ -1,0 +1,11 @@
+name: kdeps-events-openrouter-refusal
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/openrouter-refusal/1.0.0.yaml
+sha256: a2a300446e3d56f090f6d672fc5b03338af526dfe4d1702ac2f5a68c193584e5
+description: 'kdeps event: openrouter-refusal'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
