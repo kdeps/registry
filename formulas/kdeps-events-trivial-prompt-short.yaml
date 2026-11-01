@@ -1,0 +1,13 @@
+name: kdeps-events-trivial-prompt-short
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/trivial-prompt-short/1.0.0.yaml
+sha256: 880d53e77604b1b7f951f0aa9e3ced69486f2dac51cbb77bf993150894526630
+description: 'kdeps event: trivial-prompt-short'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""

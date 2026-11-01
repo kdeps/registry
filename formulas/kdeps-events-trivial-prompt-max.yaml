@@ -1,0 +1,13 @@
+name: kdeps-events-trivial-prompt-max
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/trivial-prompt-max/1.0.0.yaml
+sha256: 394fb2e6cd82cb6224b9e2dd6e29d69eb8430ed6b4f4e6256cd7891f3b161fd8
+description: 'kdeps event: trivial-prompt-max'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
