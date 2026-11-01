@@ -1,0 +1,13 @@
+name: kdeps-events-knowledge-extract-per-session
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/knowledge-extract-per-session/1.0.0.yaml
+sha256: f6df953784679d7e09abd02d783a404fc79c9d58ce11df0201586fe67cd4fae6
+description: 'kdeps event: knowledge-extract-per-session'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
