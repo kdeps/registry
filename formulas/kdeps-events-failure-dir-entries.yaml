@@ -1,0 +1,13 @@
+name: kdeps-events-failure-dir-entries
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/failure-dir-entries/1.0.0.yaml
+sha256: bf90462a62d29ab18f4a7ba48231c288d7ded16ffcc6463467cc9a22bbc955f6
+description: 'kdeps event: failure-dir-entries'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
