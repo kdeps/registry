@@ -1,0 +1,13 @@
+name: kdeps-events-tui-activity-lines
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/tui-activity-lines/1.0.0.yaml
+sha256: f8930582e098a2d6a35d7d9fd36cc691efcf82d6ef5093a82954fd42b4dff8eb
+description: 'kdeps event: tui-activity-lines'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-truncate: ""
