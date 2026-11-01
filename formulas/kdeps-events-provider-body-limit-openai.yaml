@@ -1,0 +1,13 @@
+name: kdeps-events-provider-body-limit-openai
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/provider-body-limit-openai/1.0.0.yaml
+sha256: c58450edf1b992795f0786e1bf4813a7921845fabf9705af9939e3f84a2eeb5e
+description: 'kdeps event: provider-body-limit-openai'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-reject: ""
