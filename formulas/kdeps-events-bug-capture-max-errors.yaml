@@ -1,0 +1,13 @@
+name: kdeps-events-bug-capture-max-errors
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/bug-capture-max-errors/1.0.0.yaml
+sha256: a0a8afa0d815b321761467348df56ef9828b27f47090c8f78162e8fd26afb308
+description: 'kdeps event: bug-capture-max-errors'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
