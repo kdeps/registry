@@ -1,0 +1,13 @@
+name: kdeps-events-efficiency-drops
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency-drops/1.0.0.yaml
+sha256: 6877f06d73d936c7b438ebdf93569c1a182b8819d98df4e5338b89fc7441443a
+description: 'kdeps event: efficiency-drops'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-block: ""
