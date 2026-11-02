@@ -1,0 +1,13 @@
+name: kdeps-events-context-segment-cap
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/context-segment-cap/1.0.0.yaml
+sha256: d0b0e7cd0847fc3d29cde5b315df418ee0746e6abc196e34dc39c5e21dfa3dc4
+description: 'kdeps event: context-segment-cap'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
