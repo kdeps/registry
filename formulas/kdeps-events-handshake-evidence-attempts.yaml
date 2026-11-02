@@ -1,0 +1,13 @@
+name: kdeps-events-handshake-evidence-attempts
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/handshake-evidence-attempts/1.0.0.yaml
+sha256: 89a18cef4aefb9e89aaab1695c0002242a239e54bbbef3d5cc3846ab64d5acd5
+description: 'kdeps event: handshake-evidence-attempts'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-fail_handshake: ""

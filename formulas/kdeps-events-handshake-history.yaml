@@ -1,0 +1,13 @@
+name: kdeps-events-handshake-history
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/handshake-history/1.0.0.yaml
+sha256: 763bbe58a7c5a274b7043d461619525d1bda61f0720e220c9a40485c1b178c74
+description: 'kdeps event: handshake-history'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
