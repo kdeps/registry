@@ -1,0 +1,11 @@
+name: kdeps-knowledge-recall
+version: 1.0.0
+type: knowledge-rules
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/recall/1.0.0.yaml
+sha256: 4a3140609f8b9b38c46a21a4d26c397ab0630ef660d54ab2ef82e437a65b5b36
+description: 'kdeps knowledge-rules: recall'
+tags:
+  - kdeps
+  - knowledge-rules
+license: Apache-2.0
