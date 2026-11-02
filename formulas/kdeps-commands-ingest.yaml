@@ -1,0 +1,16 @@
+name: kdeps-commands-ingest
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/ingest/1.0.0.yaml
+sha256: 6d326c210a6754c7f551495f7d3d70527d3bdd3c7ad5bd0d57ec698fe347055a
+description: 'kdeps command: ingest'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0
+dependencies:
+  kdeps-tools-knowledge_note_save: ""
+  kdeps-tools-load_document: ""
+  kdeps-tools-ocr_image: ""
+  kdeps-tools-transcribe_audio: ""
