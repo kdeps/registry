@@ -1,0 +1,13 @@
+name: kdeps-events-prompt-history-limit
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/prompt-history-limit/1.0.0.yaml
+sha256: 2b9a327f38a7f8fb5f0d69534da0a16e5b62a7bb0bc4f3a3afb59aa1307d2d60
+description: 'kdeps event: prompt-history-limit'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
