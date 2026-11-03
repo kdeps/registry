@@ -1,9 +1,9 @@
 name: kdeps-commands-knowledge
-version: 2.0.1
+version: 2.0.3
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/knowledge/2.0.1.yaml
-sha256: c65ff4442a278209d8b868757899a080c753efa5de5d4276f9ccb70ac3aa8be1
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/knowledge/2.0.3.yaml
+sha256: 9808d17ed5d75f22bff7260138d8475881844b96d2a0c0267290e63647ee1834
 description: 'kdeps command: knowledge'
 tags:
   - kdeps

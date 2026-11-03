@@ -1,9 +1,9 @@
 name: kdeps-commands-model
-version: 2.1.0
+version: 2.1.2
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/model/2.1.0.yaml
-sha256: 968e1f8714f0a831a863a47b54d3f2e10b4d87ed1fc3f197eb3dd5e560cafa2d
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/model/2.1.2.yaml
+sha256: 160ea934dca911475c90439190f2b75bf530b655ac513b7930331de1f1563f20
 description: 'kdeps command: model'
 tags:
   - kdeps

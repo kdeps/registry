@@ -1,0 +1,11 @@
+name: kdeps-commands-auxiliary
+version: 1.3.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/auxiliary/1.3.0.yaml
+sha256: 56a26405c164a5b3db92b68bdf48cf4d5925c730f0db73a594fc0834f23c2dbb
+description: 'kdeps command: auxiliary'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0
