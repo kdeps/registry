@@ -1,0 +1,11 @@
+name: kdeps-knowledge-check
+version: 1.0.0
+type: knowledge-rules
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/check/1.0.0.yaml
+sha256: 1d040ba4502edae14719e73da23b9e9265655f8772b6a28479bcd0bc52741e4a
+description: 'kdeps knowledge-rules: check'
+tags:
+  - kdeps
+  - knowledge-rules
+license: Apache-2.0

@@ -1,0 +1,11 @@
+name: kdeps-knowledge-vault
+version: 1.0.0
+type: knowledge-rules
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/vault/1.0.0.yaml
+sha256: 8623cc095d671c05bf9eeb9116f56dfde326a98acde79c9c24b0ce404ae0495c
+description: 'kdeps knowledge-rules: vault'
+tags:
+  - kdeps
+  - knowledge-rules
+license: Apache-2.0

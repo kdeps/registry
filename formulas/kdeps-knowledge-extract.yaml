@@ -1,0 +1,11 @@
+name: kdeps-knowledge-extract
+version: 1.0.0
+type: knowledge-rules
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/extract/1.0.0.yaml
+sha256: faba02f0c3d8375c31042d111bbf6e33ad262389fd2823f21bbe7de6ceddd609
+description: 'kdeps knowledge-rules: extract'
+tags:
+  - kdeps
+  - knowledge-rules
+license: Apache-2.0

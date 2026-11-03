@@ -1,0 +1,11 @@
+name: kdeps-knowledge-search
+version: 1.2.0
+type: knowledge-rules
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/search/1.2.0.yaml
+sha256: 797d8b79913c9a7f316a63fd78b888d81be8f45677463711f931eea268051a46
+description: 'kdeps knowledge-rules: search'
+tags:
+  - kdeps
+  - knowledge-rules
+license: Apache-2.0

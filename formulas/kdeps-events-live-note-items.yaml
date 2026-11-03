@@ -1,0 +1,13 @@
+name: kdeps-events-live-note-items
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/live-note-items/1.0.0.yaml
+sha256: 8c06de6aefa4235230c86bd3e2a4bf0d5e98eb24a910299bd836902f08d6155e
+description: 'kdeps event: live-note-items'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""

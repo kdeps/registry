@@ -1,9 +1,9 @@
 name: kdeps-codegraph-rules
-version: 1.0.0
+version: 1.1.0
 type: codegraph-rules
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/codegraph/rules/1.0.0.yaml
-sha256: ce8a7120fc0febd6e1d3068dbe66cc908f10269a47e91bf5774360f9080cbbe4
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/codegraph/rules/1.1.0.yaml
+sha256: 000fa469fee535be4d87c5ae52edcd38e4dd8080d62578481ddf0118f973aa76
 description: 'kdeps codegraph-rules: rules'
 tags:
   - kdeps
