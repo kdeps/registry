@@ -1,9 +1,9 @@
 name: kdeps-memory-rules
-version: 1.4.0
+version: 1.5.0
 type: memory-rules
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/memory/rules/1.4.0.yaml
-sha256: d4d12641cf81164a9b8463be5349fd9e136ab25812197f3c5ac6878c1bf032bb
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/memory/rules/1.5.0.yaml
+sha256: a61e24413ac44feec0fa0f73f6268417d9d1ba8231011a3a84652e6c4ef3e767
 description: 'kdeps memory-rules: rules'
 tags:
   - kdeps
