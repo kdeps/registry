@@ -1,0 +1,13 @@
+name: kdeps-events-memory-summary-chars
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-summary-chars/1.0.0.yaml
+sha256: ccc9ec5fed783747cdcc9331d40f9a5b45b15e5ec7db51c450290c75adbd78b5
+description: 'kdeps event: memory-summary-chars'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-truncate: ""

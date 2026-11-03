@@ -1,0 +1,13 @@
+name: kdeps-events-memory-derived-key-chars
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-derived-key-chars/1.0.0.yaml
+sha256: 2893695247643f58261d5d95f6b9690613151d7a443a3faad63996cb3b55af17
+description: 'kdeps event: memory-derived-key-chars'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-truncate: ""

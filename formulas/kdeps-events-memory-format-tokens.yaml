@@ -1,0 +1,13 @@
+name: kdeps-events-memory-format-tokens
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-format-tokens/1.0.0.yaml
+sha256: 4e866a69e51e426369e884d96d91da7f440067ab1e40aa25588bbcd23098de88
+description: 'kdeps event: memory-format-tokens'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""

@@ -1,0 +1,13 @@
+name: kdeps-events-memory-key-chars
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-key-chars/1.0.0.yaml
+sha256: 6bf24355473de297d8d87850f07540e9f95631c666e279760e139c1479ac7e30
+description: 'kdeps event: memory-key-chars'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-truncate: ""
