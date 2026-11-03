@@ -1,0 +1,13 @@
+name: kdeps-events-tool-allocation-increment
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/tool-allocation-increment/1.0.0.yaml
+sha256: 47698c9b047b946ee83865beb655275b2244f4bc5534977e129e74e6aa23d6fe
+description: 'kdeps event: tool-allocation-increment'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
