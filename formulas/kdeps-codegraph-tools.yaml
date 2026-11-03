@@ -1,9 +1,9 @@
 name: kdeps-codegraph-tools
-version: 1.0.0
+version: 1.1.0
 type: codegraph-rules
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/codegraph/tools/1.0.0.yaml
-sha256: dbfdcbc28189b4edbd0e8cdaa36ecbee57b2dcf9b8631567ff747ff0b20e67da
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/codegraph/tools/1.1.0.yaml
+sha256: d1994fbf1f19e0b2fbc80e6553e4c0960436d0919777e62c340d5ab399bb5200
 description: 'kdeps codegraph-rules: tools'
 tags:
   - kdeps
