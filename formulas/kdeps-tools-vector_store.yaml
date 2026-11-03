@@ -1,12 +1,12 @@
 name: kdeps-tools-vector_store
-version: 1.0.0
+version: 1.0.1
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/vector_store/1.0.0.yaml
-sha256: cb4595b8a242751b5e2942ba3a0208868c8e086712db02ad1580dd3ba5bc7f65
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/vector_store/1.0.1.yaml
+sha256: 3c166fda0cfe15ec043f2410af400e42b6e91a8ef6cdf116733853099004651c
 description: 'Run one vector store operation against an external vector database: add_documents to upsert documents, or similarity_search to query them. Call it through the vector_store component. Requires: collection, operation, embedModel (except bedrock). Optional: provider, url, apiKey, documents, query, topK, embedBackend, embedBaseURL.'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 430
+tokens: 434
