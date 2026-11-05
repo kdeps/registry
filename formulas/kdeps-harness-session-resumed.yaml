@@ -1,0 +1,12 @@
+name: kdeps-harness-session-resumed
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/session-resumed/1.0.0.yaml
+sha256: e153d3851f46e301be2464da40e546e05e997d92f21856c0411b60c37f625856
+description: 'kdeps harness: session-resumed'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 75
