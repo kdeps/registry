@@ -1,0 +1,12 @@
+name: kdeps-harness-ask-question
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/ask-question/1.0.0.yaml
+sha256: 0e87bc51b9f3420a3de64fd51afd21afdb0d57d00a13950ad2d2fa716261673b
+description: 'kdeps harness: ask-question'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 29

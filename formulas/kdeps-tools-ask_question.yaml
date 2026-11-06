@@ -1,0 +1,12 @@
+name: kdeps-tools-ask_question
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/ask_question/1.0.0.yaml
+sha256: 43ee8914096aac1c5c5a14e40b0a60a6cac637aa9841b7d2f23d0433dd342be0
+description: Ask the user a question and wait for the answer. The question, with its options numbered, is shown and your turn ends; the user's next message is the answer. Use it for a choice only the user can make, such as which mode to run; ask in plain text otherwise.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 139
