@@ -1,0 +1,12 @@
+name: kdeps-tools-subagent
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/subagent/1.0.0.yaml
+sha256: ad65e030f05af99746f745c6124ce3f5ed9b64b3a0ee3d1aeecc8db8ad6f638f
+description: Hand a task to a subagent, a fresh agent that has not seen this conversation. It reads files and searches with read-only tools, then returns a report. Use it for a second opinion with no shared assumptions, such as reviewing a design or a change. State everything it needs in task; name files by path.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 191

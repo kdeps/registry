@@ -1,0 +1,11 @@
+name: kdeps-presets-design-review
+version: 1.0.0
+type: preset
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/design-review/1.0.0.yaml
+sha256: 156bb71135b4d207d39f75687f0541365df8f728c329a2287850764c65ea2307
+description: Four fresh-context reviewers check a design document or plan before it is built. Each reads the files the answer names; any rejection sends the answer back for a revision. Changes no events.
+tags:
+  - kdeps
+  - preset
+license: Apache-2.0
