@@ -1,0 +1,12 @@
+name: kdeps-harness-skill-folder
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/skill-folder/1.0.0.yaml
+sha256: f0ea80084b14e4a3c7d673a6ecdaef9d5a7a83004414ffcb3a745c7e272fadc5
+description: 'kdeps harness: skill-folder'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 27

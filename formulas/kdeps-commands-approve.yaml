@@ -1,0 +1,14 @@
+name: kdeps-commands-approve
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/approve/1.0.0.yaml
+sha256: 4c4a8eba450837ad45b9139f822c5a4e9ea9e4af407e46ab8fcdaeb49d7e98cd
+description: 'kdeps command: approve'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0
+dependencies:
+  kdeps-tools-approval_grant: ""
+  kdeps-tools-approval_list: ""

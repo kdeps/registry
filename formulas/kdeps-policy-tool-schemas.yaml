@@ -1,9 +1,9 @@
 name: kdeps-policy-tool-schemas
-version: 1.0.0
+version: 1.1.0
 type: policy
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/policy/tool-schemas/1.0.0.yaml
-sha256: d2e0e80c715fa07cb54675fad60c808ef3fba926bf85da17b4d79db0c43083bf
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/policy/tool-schemas/1.1.0.yaml
+sha256: 1f93d00cb71d69fea3d8d4d42b44892c296c5d03612e079380e20936866796f3
 description: 'kdeps policy: tool-schemas'
 tags:
   - kdeps
