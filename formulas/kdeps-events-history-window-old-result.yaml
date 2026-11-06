@@ -1,0 +1,13 @@
+name: kdeps-events-history-window-old-result
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/history-window-old-result/1.0.0.yaml
+sha256: fed85ff2b1fc71ea29b93e6c2cd5139fb7725a9057b5fd9245dfb8d0b55e1eb4
+description: 'kdeps event: history-window-old-result'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-truncate: ""

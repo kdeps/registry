@@ -1,9 +1,9 @@
 name: kdeps-events-memory-keys-limit
-version: 1.0.3
+version: 1.0.4
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-keys-limit/1.0.3.yaml
-sha256: dcbfd167a439eb3e2a90273149f7862faa6cd278776b28e4414d6fa533f98658
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-keys-limit/1.0.4.yaml
+sha256: 9eb34339cdf84b1f5d7dcc771f7c8e75728a151e6f40c60f66aba2910f4f31ca
 description: 'kdeps event: memory-keys-limit'
 tags:
   - kdeps

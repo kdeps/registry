@@ -1,0 +1,12 @@
+name: kdeps-tools-load_tools
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/load_tools/1.0.0.yaml
+sha256: 44fedc3c568f498cf42c8d17c88b82f4ef54ad6fd0f96131d54e5f70006f0c4d
+description: Load the full definitions of tools that are listed here by name only. Call it once with every tool you will need; from the next step on, call those tools as usual.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 87
