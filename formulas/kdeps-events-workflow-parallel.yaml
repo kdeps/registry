@@ -1,0 +1,13 @@
+name: kdeps-events-workflow-parallel
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/workflow-parallel/1.0.0.yaml
+sha256: fca7e82d62823d668ae34d80b11e06c5aecec13a0b4a92d25913321e8a994209
+description: 'kdeps event: workflow-parallel'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
