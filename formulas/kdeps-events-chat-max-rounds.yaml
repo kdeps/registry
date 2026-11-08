@@ -1,0 +1,13 @@
+name: kdeps-events-chat-max-rounds
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/chat-max-rounds/1.0.0.yaml
+sha256: 3ba34b66aa1e261ce57651480752b4e564ad43eb2adb5f51d7a9742578f93bb0
+description: 'kdeps event: chat-max-rounds'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-force_answer: ""
