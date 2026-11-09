@@ -1,9 +1,9 @@
 name: kdeps-models-gguf
-version: 1.0.29
+version: 1.0.30
 type: model
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/gguf/1.0.29.yaml
-sha256: 8a2e63c5cfb418aff9e8f0de15df4a5c02a634a863c88df5320311d9b68870f5
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/gguf/1.0.30.yaml
+sha256: 18a35cbe753c896a0c1952213f0bd623d6fd04e0d4358bc2df800ce4ee9e25ca
 description: 'kdeps model: gguf'
 tags:
   - kdeps
