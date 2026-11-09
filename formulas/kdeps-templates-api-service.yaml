@@ -1,9 +1,9 @@
 name: kdeps-templates-api-service
-version: 1.0.0
+version: 2.0.0
 type: template
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/api-service/1.0.0.yaml
-sha256: 07a6d50376abaa46d073e4eaa1bf4d3a2622424fa91e67df7e65340f0ac1d92b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/api-service/2.0.0.yaml
+sha256: 1983e28fd3d1e056abe67a413d5ece07da3ad3a53955240c1a1a63d12ad92c7d
 description: 'kdeps template: api-service'
 tags:
   - kdeps
