@@ -3,7 +3,7 @@ version: 2.72.0
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/vectorStore/2.72.0.md
-sha256: 4d32921368314025727a89d8c10913381eff73e82c0c3427cc0e1811d4f6adf8
+sha256: 9d32c1da0fdd3d3184148d300f1fa889d73fef47c8d3769ffcb80464e59cdd05
 description: The `vector_store` component adds documents to, and runs similarity search against, an external vector database - Qdrant, Chroma, Pinecone, pgvector, and more - for production-scale RAG. The kdeps API tool does the embedding and store work; the component only passes the inputs through.
 tags:
   - kdeps

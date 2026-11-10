@@ -3,7 +3,7 @@ version: 2.72.0
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/exec/2.72.0.md
-sha256: 8427465102def5ec637f4bc4441bd6154be651b77c03b1248165029f8772fe25
+sha256: 8d3e553ff6bea07f97cd54c309d6b8dc32ca3f882464c2ea9219a9ed0027d74f
 description: 'The `exec` component runs a shell command and returns a structured result: `{success, exitCode, stdout, stderr, command, result, timedOut}`. It is a kdeps component from the `components` asset set: call it with a `component:` resource, no install step. Its call is the kdeps API''s `exec` tool, which runs the native exec executor. A workflow that uses `exec:` directly - primary or in a `before:`/`after:` step - is rejected.'
 tags:
   - kdeps
