@@ -1,8 +1,8 @@
 name: kdeps-resource-component
-version: 2.72.0
+version: 3.0.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/component/2.72.0.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/component/3.0.0.md
 sha256: ad75fd992ec0b201f493b69bf1625e3c74b4385fc8c1afadafcead4af64bee06
 description: The `component:` resource calls a reusable resource bundle - a registry component installed with `kdeps install`, or a custom component in your project's `components/` directory. You pass typed inputs in `with:`, the component's resources run, and its result comes back.
 tags:
