@@ -1,0 +1,12 @@
+name: kdeps-harness-plan-council-revise
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/plan-council-revise/1.0.0.yaml
+sha256: b0175aae1dbccc356ed0776894d8f8d1dab0bc83aa64eb21d0a1570c3f3f8f92
+description: 'kdeps harness: plan-council-revise'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 156

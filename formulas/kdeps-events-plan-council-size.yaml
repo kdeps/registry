@@ -1,0 +1,13 @@
+name: kdeps-events-plan-council-size
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/plan-council-size/1.0.0.yaml
+sha256: b9032cbacb31da195e0e0ecdd0939e7f32e71012289020a8af169c09081a1bdf
+description: 'kdeps event: plan-council-size'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""

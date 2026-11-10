@@ -1,0 +1,12 @@
+name: kdeps-harness-plan-council-members
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/plan-council-members/1.0.0.yaml
+sha256: 04cf60af66318800c5e9a5170bcd1d2664ee1aefc261f208e6a2d0a016768798
+description: 'kdeps harness: plan-council-members'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 53

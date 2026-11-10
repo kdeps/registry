@@ -1,0 +1,12 @@
+name: kdeps-tools-plan_update
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/plan_update/1.0.0.yaml
+sha256: 8e119d76e462a6acf4374860771cd4add3c0703ad0308b138f18bdfeb1e20819
+description: Update the plan progress file the planning council wrote for this task. Mark a job order doing, done, blocked or dropped with a short note, or add a job order you discovered (status added, with title). The file keeps every update in order.
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 178

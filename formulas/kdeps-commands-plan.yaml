@@ -1,0 +1,11 @@
+name: kdeps-commands-plan
+version: 1.0.0
+type: command
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/plan/1.0.0.yaml
+sha256: fb5b3d9e6f474c0db2d360ad2251556ff07367a7755aeaa1b6b514e54bc2a658
+description: 'kdeps command: plan'
+tags:
+  - kdeps
+  - command
+license: Apache-2.0

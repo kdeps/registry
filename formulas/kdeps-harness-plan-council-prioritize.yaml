@@ -1,0 +1,12 @@
+name: kdeps-harness-plan-council-prioritize
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/plan-council-prioritize/1.0.0.yaml
+sha256: 1e13c0262697d215cdf208271aec01b45b61df7b7f989553e04240f8f5931d0d
+description: 'kdeps harness: plan-council-prioritize'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 79

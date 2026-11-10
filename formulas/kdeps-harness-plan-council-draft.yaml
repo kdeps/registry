@@ -1,0 +1,12 @@
+name: kdeps-harness-plan-council-draft
+version: 1.0.0
+type: harness
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/plan-council-draft/1.0.0.yaml
+sha256: f642d85c54bf355bca4f6aaed514d37a2b2797f16f354047290b181ad9063bf2
+description: 'kdeps harness: plan-council-draft'
+tags:
+  - kdeps
+  - harness
+license: Apache-2.0
+tokens: 114

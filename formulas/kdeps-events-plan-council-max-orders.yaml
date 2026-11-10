@@ -1,0 +1,13 @@
+name: kdeps-events-plan-council-max-orders
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/plan-council-max-orders/1.0.0.yaml
+sha256: 571da98d50a775871aa0f5e3e46d28d97165ea7760a1cda85b344f2099a53e9d
+description: 'kdeps event: plan-council-max-orders'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""

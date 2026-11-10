@@ -1,0 +1,13 @@
+name: kdeps-events-plan-council-rounds
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/plan-council-rounds/1.0.0.yaml
+sha256: 3f17a9f438381bff10b6fe3d9d9ae3fcba638dcf92116f8d07297ea50f75fdb6
+description: 'kdeps event: plan-council-rounds'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""
