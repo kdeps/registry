@@ -3,7 +3,7 @@ version: 2.72.0
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/chat/2.72.0.md
-sha256: 78b089279b7eb843592c25eed6e4791d2748e18386b71d9ded18951e72015f6a
+sha256: c2a8b0b98e6804693bddcfe054b3781a2c8e35b0ff9fc6106dea0f36c508363b
 description: 'The `chat:` resource sends a prompt to a language model and stores the response as the resource''s output. The output is the raw response object - the reply text is at `get(''id'').message.content`. With `json: true` under `harness.output` the output is the parsed JSON object instead.'
 tags:
   - kdeps
