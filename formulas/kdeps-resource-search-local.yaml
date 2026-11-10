@@ -1,8 +1,8 @@
 name: kdeps-resource-search-local
-version: 3.0.0
+version: 3.1.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/searchLocal/3.0.0.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/searchLocal/3.1.0.md
 sha256: 2f2e51d2d2b807548b00826d679cb2a8b78ec228182b98e27abf3d30a4d95c1a
 description: 'The `search_local` component searches a local directory by content keyword and/or filename glob and returns `{results, count}`. It is a kdeps component from the `components` asset set: call it with a `component:` resource, no install step. Its call is the kdeps API''s `search_local` tool, which runs the native searchLocal executor. A workflow that uses `searchLocal:` directly - primary or in a `before:`/`after:` step - is rejected. See [Search resources](https://kdeps.com/workflow/resources/search) for how it relates to `web_search`.'
 tags:
