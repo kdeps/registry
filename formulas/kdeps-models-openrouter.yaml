@@ -1,9 +1,9 @@
 name: kdeps-models-openrouter
-version: 1.0.7
+version: 1.0.8
 type: model
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/openrouter/1.0.7.yaml
-sha256: 464948b5eb9618c6f4ed3e624b3e1deb5cf3c1320416803d7538e4378cb15951
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/openrouter/1.0.8.yaml
+sha256: aa6b16e48e64bc49ecd6a280f129de55f138277ea0d6e141edbb15ccde84f431
 description: 'kdeps model: openrouter'
 tags:
   - kdeps
