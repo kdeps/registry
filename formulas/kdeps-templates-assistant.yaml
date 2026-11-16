@@ -1,0 +1,11 @@
+name: kdeps-templates-assistant
+version: 1.0.0
+type: template
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/assistant/1.0.0.yaml
+sha256: d553ed4873450ef007f90a48767618ca6649a72bbf36e88e4518813994c7d46e
+description: 'kdeps template: assistant'
+tags:
+  - kdeps
+  - template
+license: Apache-2.0
