@@ -1,9 +1,9 @@
 name: kdeps-commands-search
-version: 2.0.1
+version: 2.1.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/search/2.0.1.yaml
-sha256: 5605a2482a6344a907898b8bae3b66896e57063523989a239b30ad34dae34f6b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/search/2.1.0.yaml
+sha256: 69fc2b9319253ed76ecd4218baf167f429946455c454be4c7bf76b1127c17c04
 description: 'kdeps command: search'
 tags:
   - kdeps

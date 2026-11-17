@@ -1,12 +1,12 @@
 name: kdeps-tools-search_local
-version: 1.4.0
+version: 1.4.1
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/search_local/1.4.0.yaml
-sha256: 90d0cef8f876c63a6f23f460225d44afc72041236d801abad9045fe517d08a8a
-description: 'Search for text patterns in local files using ripgrep. Returns matching files with a snippet, and (when the query is found) a match_id/line/revision - pass match_id to read_file to jump straight to that hit. Use for finding usages, patterns, or strings across the codebase. Requires: query (search term). path is the directory to search; leave it out to search every folder of the working project (its own and the search folders its card lists). Optional: glob (file pattern), limit (max results, default 3), index (rank results with the folder index); index also accepts fuzzy, maxDistance, indexDBPath and graphBoost.'
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/search_local/1.4.1.yaml
+sha256: d8f633007cd554b35fe5891f2dcc6533f9bf2861f95d5c6f6539b014553f4e3c
+description: 'Search for text patterns in local files using ripgrep. Returns matching files with a snippet, and (when the query is found) a match_id/line/revision - pass match_id to read_file to jump straight to that hit. Use for finding usages, patterns, or strings across the codebase. Requires: query (search term). path is the directory to search; leave it out to search the working directory. Optional: glob (file pattern), limit (max results, default 3), index (rank results with the folder index); index also accepts fuzzy, maxDistance, indexDBPath and graphBoost.'
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 391
+tokens: 376
