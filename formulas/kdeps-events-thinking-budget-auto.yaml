@@ -1,9 +1,9 @@
 name: kdeps-events-thinking-budget-auto
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-auto/1.0.0.yaml
-sha256: 16796dec72bf840c04d819cefea08455ea1799bdccfbf93783028e051fe06010
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-auto/1.0.1.yaml
+sha256: 32784591ca4595cc678989cbce46f0133772e33cf28a4736213f05b02d0a887a
 description: 'kdeps event: thinking-budget-auto'
 tags:
   - kdeps

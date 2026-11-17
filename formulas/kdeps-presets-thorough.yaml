@@ -1,9 +1,9 @@
 name: kdeps-presets-thorough
-version: 1.2.1
+version: 1.2.2
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.2.1.yaml
-sha256: 609835d89b246e0fee0d41ffddc0451df383a144b6fac648de9d6b0679efb996
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.2.2.yaml
+sha256: aa20176923d8f6a8857baf2e61ba2400ba827a084002e6f1d40d5e7aea8d71a6
 description: 'Maximizes context retention: compacts and folds much less often, injects far more memory context, keeps more of every tool result, and allows larger tool-call budgets. Best for long research/investigation sessions where losing history hurts quality more than the extra tokens cost.'
 tags:
   - kdeps
@@ -29,17 +29,7 @@ dependencies:
   kdeps-events-auto-compact: ""
   kdeps-events-bash-call-budget: ""
   kdeps-events-code-call-budget: ""
-  kdeps-events-efficiency: ""
-  kdeps-events-efficiency-actions: ""
-  kdeps-events-efficiency-bash: ""
-  kdeps-events-efficiency-code: ""
   kdeps-events-efficiency-failures: ""
-  kdeps-events-efficiency-file: ""
-  kdeps-events-efficiency-reads: ""
-  kdeps-events-efficiency-stops: ""
-  kdeps-events-efficiency-tighten: ""
-  kdeps-events-efficiency-verbose: ""
-  kdeps-events-efficiency-web: ""
   kdeps-events-file-call-budget: ""
   kdeps-events-fold: ""
   kdeps-events-force-answer-digest: ""

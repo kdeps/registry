@@ -1,9 +1,9 @@
 name: kdeps-events-judge-iterations
-version: 1.0.3
+version: 1.0.4
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/judge-iterations/1.0.3.yaml
-sha256: b63f2dbacc9e4e050438e7bcec2c230294cce52354600351b1d32a273b6cc76a
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/judge-iterations/1.0.4.yaml
+sha256: b1180fb21437c9c4bb4dc572d85d82e1dd0d3a39c89b2a19125f9dc869c9b50c
 description: 'kdeps event: judge-iterations'
 tags:
   - kdeps

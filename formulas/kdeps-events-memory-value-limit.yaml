@@ -1,9 +1,9 @@
 name: kdeps-events-memory-value-limit
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-value-limit/1.0.0.yaml
-sha256: abfa2c5bbe57708212a4675e6cc9fc2c157e2612aaabad320a45ce6a58065a15
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-value-limit/1.0.1.yaml
+sha256: 12f23d9f35c3a142b02c7fcc6c56ae21eed4d8b653e6773b8f0ba5dc75bc8e03
 description: 'kdeps event: memory-value-limit'
 tags:
   - kdeps

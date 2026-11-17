@@ -1,9 +1,9 @@
 name: kdeps-policy-permission
-version: 1.4.0
+version: 1.4.1
 type: policy
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/policy/permission/1.4.0.yaml
-sha256: 2cb83eba8726f1a0876743908e947726b6541327622d59a3a8122de2818cbf9b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/policy/permission/1.4.1.yaml
+sha256: 07834dbb54b8c3f326d9c39b51d68f4c73c3e3a530413a86660519048a5f79ba
 description: 'kdeps policy: permission'
 tags:
   - kdeps

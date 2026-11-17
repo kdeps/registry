@@ -1,9 +1,9 @@
 name: kdeps-events-thinking-budget-minimal
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-minimal/1.0.0.yaml
-sha256: f76e3b49757ffddf5b555d14f0d3a03583bd2ba30924cdde5f2f94fd9554f6d6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-minimal/1.0.1.yaml
+sha256: 82339190e8434162900c52a26f7e86c19fb3eef6142b5baefa734911cbb5d38f
 description: 'kdeps event: thinking-budget-minimal'
 tags:
   - kdeps

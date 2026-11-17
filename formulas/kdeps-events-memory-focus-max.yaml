@@ -1,9 +1,9 @@
 name: kdeps-events-memory-focus-max
-version: 1.0.3
+version: 1.0.4
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-focus-max/1.0.3.yaml
-sha256: 07617a59f52c644a98c157a5328f721d2249d7cae98fe9da6b7c4c6fe2e766f3
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-focus-max/1.0.4.yaml
+sha256: db6edf1cd77bb77351ba49fb1594244821062438787096e25fc6056352408d00
 description: 'kdeps event: memory-focus-max'
 tags:
   - kdeps

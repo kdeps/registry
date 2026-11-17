@@ -1,9 +1,9 @@
 name: kdeps-events-thinking-budget-medium
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-medium/1.0.0.yaml
-sha256: 48a7c5dde3b0ce170e07a05fcf6a827e955daeb84e9cc09475d7e3f95eeceacd
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-medium/1.0.1.yaml
+sha256: 51ebfadc88d075c079fc1a43a6a89a5e1ff912ecfeb75f2bc8fa155f2ba3df2c
 description: 'kdeps event: thinking-budget-medium'
 tags:
   - kdeps

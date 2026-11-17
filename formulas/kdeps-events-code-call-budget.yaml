@@ -1,9 +1,9 @@
 name: kdeps-events-code-call-budget
-version: 1.1.0
+version: 1.1.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/code-call-budget/1.1.0.yaml
-sha256: 3e102534f5139b9d9214e34dd821cca694934a3bbbda0d1c8ce2605f1d043289
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/code-call-budget/1.1.1.yaml
+sha256: 0aaff022700dfe9ff7e24115ca05fc8fece9796ec55c5a0ee0aab644c84e1b24
 description: 'kdeps event: code-call-budget'
 tags:
   - kdeps

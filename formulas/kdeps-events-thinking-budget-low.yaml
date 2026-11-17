@@ -1,9 +1,9 @@
 name: kdeps-events-thinking-budget-low
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-low/1.0.0.yaml
-sha256: d5b19fcfcc299abbe40ead2073d40308441b341835d97ddc6b1dc9763d84ae9e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-low/1.0.1.yaml
+sha256: 27df4c0d38106d5f47fbb385b0750a296cb2593707e6dbf4c7ff1330fd0e692d
 description: 'kdeps event: thinking-budget-low'
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-events-subagent-max-rounds
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/subagent-max-rounds/1.0.0.yaml
-sha256: f27bdb8a58bdd12f7d55f450fcab79667941594dff44eaad22eff12af28e9e36
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/subagent-max-rounds/1.0.1.yaml
+sha256: df56e2026e80280e2bbb952c6702afd4334be7284cf9e2496c4910278fb3784d
 description: 'kdeps event: subagent-max-rounds'
 tags:
   - kdeps
