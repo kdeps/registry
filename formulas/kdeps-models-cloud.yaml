@@ -1,9 +1,9 @@
 name: kdeps-models-cloud
-version: 1.0.0
+version: 1.0.1
 type: model
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/cloud/1.0.0.yaml
-sha256: 99ac0a28ae3bcef25abb9a9fa39d72bd72b22109d5c3abd5dbc486cd15290215
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/cloud/1.0.1.yaml
+sha256: 3339d8b88bb891a790b4d03bdfc100f86fb8eb638c75538fd13618ad5ab29b0f
 description: 'kdeps model: cloud'
 tags:
   - kdeps
