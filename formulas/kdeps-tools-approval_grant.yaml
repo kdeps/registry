@@ -1,12 +1,12 @@
 name: kdeps-tools-approval_grant
-version: 1.1.0
+version: 1.2.0
 type: tool
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/approval_grant/1.1.0.yaml
-sha256: 87583f9bd2c8f71a8bc187884ff025d11fb88854d589003dabe471b936290361
-description: Grant a pending approval token. Only the user grants one, with /approve <token_id>; the agent loop does not offer this tool to the model.
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/approval_grant/1.2.0.yaml
+sha256: 7dd1019e67b09d2a6f9c94b7b8ee3939a519a708e403c68470a254cfa0873d3a
+description: Grant a pending approval token. Only the user grants one, on the kdeps API; the agent loop does not offer this tool to the model.
 tags:
   - kdeps
   - tool
 license: Apache-2.0
-tokens: 67
+tokens: 65

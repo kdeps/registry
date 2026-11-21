@@ -1,9 +1,9 @@
 name: kdeps-events-efficiency
-version: 1.0.1
+version: 1.0.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency/1.0.1.yaml
-sha256: 481c15ade94bb8f4f0fd96a61a4a2352e727fccd348272241663fdadcc909931
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/efficiency/1.0.2.yaml
+sha256: c2b4e6faea4f583641a72d4a3248695179a0b9a160eddf55a2de6d74cc45ad51
 description: 'kdeps event: efficiency'
 tags:
   - kdeps
