@@ -1,9 +1,9 @@
 name: kdeps-presets-frugal
-version: 1.3.0
+version: 1.4.0
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.3.0.yaml
-sha256: a649474bfdc68d4c295e6fcc912b5d0b9725a0c24f147624737cc7a55d37e560
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/frugal/1.4.0.yaml
+sha256: d162c16a17004b679c48c61309485a972de4942db52ec71c74f3cdd576b0b66d
 description: 'Minimizes token usage: compacts and folds history sooner, injects far less memory context, truncates tool output harder, and caps tool-call budgets tighter. Best for cost-sensitive sessions or a small-context- window local model.'
 tags:
   - kdeps
@@ -29,17 +29,6 @@ dependencies:
   kdeps-events-auto-compact: ""
   kdeps-events-bash-call-budget: ""
   kdeps-events-code-call-budget: ""
-  kdeps-events-efficiency: ""
-  kdeps-events-efficiency-actions: ""
-  kdeps-events-efficiency-bash: ""
-  kdeps-events-efficiency-code: ""
-  kdeps-events-efficiency-failures: ""
-  kdeps-events-efficiency-file: ""
-  kdeps-events-efficiency-reads: ""
-  kdeps-events-efficiency-stops: ""
-  kdeps-events-efficiency-tighten: ""
-  kdeps-events-efficiency-verbose: ""
-  kdeps-events-efficiency-web: ""
   kdeps-events-file-call-budget: ""
   kdeps-events-fold: ""
   kdeps-events-force-answer-digest: ""

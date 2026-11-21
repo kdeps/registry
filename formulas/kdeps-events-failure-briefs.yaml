@@ -1,0 +1,13 @@
+name: kdeps-events-failure-briefs
+version: 1.0.0
+type: event
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/failure-briefs/1.0.0.yaml
+sha256: 49b3abd65519467d040083ce57dd7473e29ccd67b404562ffe301b29ad44db2a
+description: 'kdeps event: failure-briefs'
+tags:
+  - kdeps
+  - event
+license: Apache-2.0
+dependencies:
+  kdeps-actions-cap: ""

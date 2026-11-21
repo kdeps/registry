@@ -1,9 +1,9 @@
 name: kdeps-schemas-v1
-version: 1.6.0
+version: 1.7.0
 type: schema
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/schemas/v1/1.6.0.yaml
-sha256: a178669072b4eb37e865816d14358b55d3e89d7d5b30b557b226a0c1f05e29e0
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/schemas/v1/1.7.0.yaml
+sha256: 8e7876ed8a295601616a2af55cbab774ca0c9fe64ce8e2e93361e8966758284a
 description: 'kdeps schema: v1'
 tags:
   - kdeps
