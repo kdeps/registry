@@ -1,9 +1,9 @@
 name: kdeps-commands-subagent
-version: 1.4.0
+version: 1.5.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/subagent/1.4.0.yaml
-sha256: 2b6ae9a7393efbadb22c3333cd038a2a4c240ad05ee1cabb3bf5a29169f2a1ef
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/subagent/1.5.0.yaml
+sha256: 3e3584451b8e0baf4600f9eacec9c769094637d9bb489e5f1cf36c0a3e9e0120
 description: 'kdeps command: subagent'
 tags:
   - kdeps

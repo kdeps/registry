@@ -1,8 +1,8 @@
 name: kdeps-resource-loader
-version: 3.1.0
+version: 3.2.1
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/loader/3.1.0.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/loader/3.2.1.md
 sha256: 5c0b530cbdcf1db5009f8414092e634da0421688c8e03c556dad4f32df9e5431
 description: The `load_document` component reads a file, URL, or directory into structured `Document` objects (plain text and metadata). It can also split them into chunks. It is the ingestion step of a RAG pipeline. First load the data. Then give the output to the `vector_store` or `embedding` component, which indexes it.
 tags:

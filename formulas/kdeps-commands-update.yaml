@@ -1,9 +1,9 @@
 name: kdeps-commands-update
-version: 1.0.1
+version: 1.1.0
 type: command
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/update/1.0.1.yaml
-sha256: 40e5953e51ac2ee30d7ca22d3bfed67c247189fb6419ce40d3f3fe5efb8b9a5a
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/commands/update/1.1.0.yaml
+sha256: e5cf50eb31f52295c0b71f28b0c39a6c56e4aa734066cc791ae362002d9ca0c5
 description: 'kdeps command: update'
 tags:
   - kdeps

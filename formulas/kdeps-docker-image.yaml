@@ -1,9 +1,9 @@
 name: kdeps-docker-image
-version: 1.0.0
+version: 1.1.0
 type: dockerfile
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/docker/image/1.0.0.yaml
-sha256: 45b6c53c5be684b0fbfe8697be92019a4f9e1d0d5468c61906ea299874e55b21
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/docker/image/1.1.0.yaml
+sha256: 7715a4cc9d3f7c10fcb713943935a18d89b697bc59d44768e7c99504ee778214
 description: 'kdeps dockerfile: image'
 tags:
   - kdeps
