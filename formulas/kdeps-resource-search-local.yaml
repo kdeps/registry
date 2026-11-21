@@ -1,8 +1,8 @@
 name: kdeps-resource-search-local
-version: 3.2.1
+version: 3.3.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/searchLocal/3.2.1.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/searchLocal/3.3.0.md
 sha256: d115cf474a54480e61931fe73fb4b83c1d083781ad7049d6c132fec74409d5f1
 description: The `search_local` component searches a local directory by content keyword and/or filename glob and returns `{results, count}`.
 tags:
