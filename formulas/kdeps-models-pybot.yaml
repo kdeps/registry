@@ -1,0 +1,11 @@
+name: kdeps-models-pybot
+version: 1.0.0
+type: model
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/models/pybot/1.0.0.yaml
+sha256: 05c92fb69e03b8321c3ed9c181c3c2686967d2c60a02e1134a822f11a8498e26
+description: 'kdeps model: pybot'
+tags:
+  - kdeps
+  - model
+license: Apache-2.0
