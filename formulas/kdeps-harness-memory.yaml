@@ -1,12 +1,12 @@
 name: kdeps-harness-memory
-version: 1.1.0
+version: 1.2.0
 type: harness
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/memory/1.1.0.yaml
-sha256: 312fa3199f7243ffb8a723734a19ea31925b244e1eaa0a0289f48ca0bc985dcf
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/memory/1.2.0.yaml
+sha256: f1874fd8e1713904c1f941937018880ba537e02130978adcf15aacf6e92e0766
 description: 'kdeps harness: memory'
 tags:
   - kdeps
   - harness
 license: Apache-2.0
-tokens: 222
+tokens: 232
