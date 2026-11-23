@@ -1,9 +1,9 @@
 name: kdeps-knowledge-policy
-version: 1.2.0
+version: 2.0.0
 type: knowledge-rules
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/policy/1.2.0.yaml
-sha256: ca430214ae077415a0b3d3509cb2ed266f6050c6d4b61272d398f05b76011444
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/policy/2.0.0.yaml
+sha256: b38b18c5d80b8d3e13f87eeec0214f7ec4f1d63e2f88b2ec0bf8382ac1e13f9f
 description: 'kdeps knowledge-rules: policy'
 tags:
   - kdeps
