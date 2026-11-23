@@ -1,9 +1,9 @@
 name: kdeps-knowledge-prompts
-version: 2.0.0
+version: 2.0.1
 type: knowledge-rules
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/prompts/2.0.0.yaml
-sha256: 6c8936421558a64747bc8455e54fc8418961e41960d9a95129bb6985d460c429
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/prompts/2.0.1.yaml
+sha256: 68f34e5a6e62ff8697e3786033d044d3cd913aaef78e489371c6a1146f82315d
 description: 'kdeps knowledge-rules: prompts'
 tags:
   - kdeps

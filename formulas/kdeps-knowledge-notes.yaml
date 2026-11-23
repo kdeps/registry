@@ -1,9 +1,9 @@
 name: kdeps-knowledge-notes
-version: 2.0.0
+version: 2.0.1
 type: knowledge-rules
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/notes/2.0.0.yaml
-sha256: b72c31537c03284a6aae2ac2bcb51b4cf2d1eb33820e78ce54f166e339216b4a
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/knowledge/notes/2.0.1.yaml
+sha256: e079b5f764f3e984dcedc59ec11878280250206e2a3894a53ac41ddd28569b04
 description: 'kdeps knowledge-rules: notes'
 tags:
   - kdeps
