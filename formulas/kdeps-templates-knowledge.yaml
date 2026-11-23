@@ -1,9 +1,9 @@
 name: kdeps-templates-knowledge
-version: 2.2.1
+version: 3.0.0
 type: template
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/knowledge/2.2.1.yaml
-sha256: eee07c1bb6ff164d254f3a9c2d9df3fa272dffc2d821d82a9e1c8a187fd4fd3c
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/templates/knowledge/3.0.0.yaml
+sha256: 24d28ccfebe27040c77ec400fe350f293bb0a94bc8d6e3924b2980038f0cc41b
 description: 'kdeps template: knowledge'
 tags:
   - kdeps
