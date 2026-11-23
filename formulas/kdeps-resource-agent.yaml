@@ -1,8 +1,8 @@
 name: kdeps-resource-agent
-version: 3.3.0
+version: 3.4.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/agent/3.3.0.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/agent/3.4.0.md
 sha256: 952de00a7f879c5373d608a6b888110d5dea501273f045639aa8131f438c235d
 description: The `agent:` resource calls a sibling agent's entire workflow within the same [agency](https://kdeps.com/agencies/) and returns that agent's `apiResponse` output. It is how one agent delegates a subtask to another specialized agent.
 tags:
