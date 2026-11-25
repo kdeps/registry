@@ -3,7 +3,7 @@ version: 3.5.1
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/apiResponse/3.5.1.md
-sha256: 566ffeefb2bfd3c2eb97e1352dca8118ebc0535890dd31fa4a98f4d91dc7060f
+sha256: 2bf0269484a356cea1d8a875eee86e0c43e6de9740e4b9cd285857d1d9f61083
 description: '`apiResponse:` builds the HTTP response that a workflow sends back to the caller. It is the last resource in the chain: the one that [`targetActionId`](https://kdeps.com/reference/glossary#targetactionid) in `workflow.yaml` names.'
 tags:
   - kdeps

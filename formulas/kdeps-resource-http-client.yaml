@@ -3,7 +3,7 @@ version: 3.5.1
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/httpClient/3.5.1.md
-sha256: 6a830404d17dc885f2dbb7200f189436b018ca0d7413ced01b888e2449a845e8
+sha256: 63940453dcfae224505d5827c24c33ec1f8c0b94f1a5d815a9c68c4f953fb840
 description: The `http_request` component makes one outbound HTTP request and returns the status code, headers, raw body, and the parsed JSON body under `data`.
 tags:
   - kdeps
