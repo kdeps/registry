@@ -1,12 +1,12 @@
 name: kdeps-harness-nudge-self-limit
-version: 1.0.1
+version: 1.0.2
 type: harness
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-self-limit/1.0.1.yaml
-sha256: de5e3d7e9d61b5b316b5f1dca007e13a0420d2aaf39299bf93086b454ec64f35
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/harness/nudge-self-limit/1.0.2.yaml
+sha256: d071e33d359037b4f824507908275addb1b4660597f249002918a02e02b1a376
 description: 'kdeps harness: nudge-self-limit'
 tags:
   - kdeps
   - harness
 license: Apache-2.0
-tokens: 161
+tokens: 200
