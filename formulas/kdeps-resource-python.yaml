@@ -1,8 +1,8 @@
 name: kdeps-resource-python
-version: 3.5.0
+version: 3.5.1
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/python/3.5.0.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/python/3.5.1.md
 sha256: 0072c31eafbc09766e22c45bcf269c2776f22b6894666bb79e387b8693e9f46f
 description: The `python` component runs a Python script in a managed virtualenv and returns its stdout, parsed as JSON when possible and as raw text otherwise.
 tags:

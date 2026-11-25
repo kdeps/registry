@@ -1,8 +1,8 @@
 name: kdeps-resource-exec
-version: 3.5.0
+version: 3.5.1
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/exec/3.5.0.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/exec/3.5.1.md
 sha256: 8c42a62dc85ec8d0767acc996c6847550c14fe82f6fa59c33af6b27246960d9c
 description: 'The `exec` component runs a shell command and returns a structured result: `{success, exitCode, stdout, stderr, command, result, timedOut}`.'
 tags:
