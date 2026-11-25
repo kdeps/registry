@@ -3,7 +3,7 @@ version: 3.5.1
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/embedding/3.5.1.md
-sha256: 8dcc4e7c413add4dd4479703da8c292eadd9f9b26b4f72a049786979085ded29
+sha256: 551466ba080b022a100af4596915bfbdedad175386b001e0e06ba1f17cb3cf8d
 description: The `embedding` component runs one embedding operation and returns a structured result. It uses a SQLite keyword store for `index`, `search`, `upsert`, and `delete`. It uses an embedding backend for `vectorize` and `embed_query`, and Cohere for `rerank`.
 tags:
   - kdeps

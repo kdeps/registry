@@ -3,7 +3,7 @@ version: 3.5.1
 type: resource
 github: kdeps/packages
 tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/sql/3.5.1.md
-sha256: b4c4bc1a97fa761cb0d14655fd48823c44c683ce4618e38b59dfa97a47bd6512
+sha256: 2062dd05dd59f52de36e53165dd18dbdbf8b25032771c1e0b850109fb9af2ad6
 description: The `sql` component runs SQL against a named connection - PostgreSQL, MySQL/MariaDB, SQLite, SQL Server or Oracle - and returns the rows or a change summary. One statement, or several in a transaction. It is a YAML component from the `components` asset set. Call it with a `component:` resource, no install step.
 tags:
   - kdeps
