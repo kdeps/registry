@@ -1,0 +1,15 @@
+name: kdeps-components-slack_socket_open
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/slack_socket_open/1.0.0.yaml
+sha256: 47de28c78721a75632d8423da8548f4c3d5019eb64905a22f8288b72f81d9fea
+description: 'kdeps kdeps-component: slack_socket_open'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-slack_socket_open: ""
+tokens: 20

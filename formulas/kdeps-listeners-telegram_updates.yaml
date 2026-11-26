@@ -1,0 +1,13 @@
+name: kdeps-listeners-telegram_updates
+version: 1.0.0
+type: listener
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/listeners/telegram_updates/1.0.0.yaml
+sha256: 652cd4b9235f9b7dde47c95c3f6f17e8b57ba862d39de1bbe292c789f428635f
+description: 'Telegram bot messages: polls getUpdates and runs the workflow once for each update. The event is the update: input(''message'').text, input(''message'').chat.id. Reply with the telegram_post component (sendMessage).'
+tags:
+  - kdeps
+  - listener
+license: Apache-2.0
+dependencies:
+  kdeps-tools-telegram_get: ""

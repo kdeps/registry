@@ -1,0 +1,11 @@
+name: kdeps-listeners-discord_gateway
+version: 1.0.0
+type: listener
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/listeners/discord_gateway/1.0.0.yaml
+sha256: 07aa153808c77b35a868769fdef9542a4769c08cd09b797d45a6dc18ddcec56a
+description: 'Discord messages over the Gateway: runs the workflow once for each new message in a guild channel or a DM. The event is the message: input(''content''), input(''channel_id''), input(''author'').username. Messages from bots are left out. Reply with the discord_post component. Enable the Message Content intent for the bot. Requires DISCORD_BOT_TOKEN or the vault secret discord_bot_token.'
+tags:
+  - kdeps
+  - listener
+license: Apache-2.0

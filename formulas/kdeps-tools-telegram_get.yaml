@@ -1,0 +1,12 @@
+name: kdeps-tools-telegram_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/telegram_get/1.0.0.yaml
+sha256: 867d8afb465995d7692b52e648336a8a3e2ebd493c2a738a8db2abc81497f896
+description: 'Read the Telegram Bot API: GET https://api.telegram.org/bot<TOKEN>/METHOD and return the JSON. Use it for getMe, getUpdates, getChat and getFile. Requires TELEGRAM_BOT_TOKEN, TELEGRAM_TOKEN or the vault secret telegram_bot_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 105

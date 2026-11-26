@@ -1,0 +1,15 @@
+name: kdeps-components-discord_get
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/discord_get/1.0.0.yaml
+sha256: 92bd5c9ab3bebe3c550b003febd4457a4f1f0928ab11e7cabfec1f32adf7bb70
+description: 'kdeps kdeps-component: discord_get'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-discord_get: ""
+tokens: 44

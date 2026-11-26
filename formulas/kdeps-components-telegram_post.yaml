@@ -1,0 +1,15 @@
+name: kdeps-components-telegram_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/telegram_post/1.0.0.yaml
+sha256: 8916b9b254afd4f073e56cee5f104525e96b66c8fb694be43ba70451695966ef
+description: 'kdeps kdeps-component: telegram_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-telegram_post: ""
+tokens: 72

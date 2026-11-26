@@ -1,0 +1,15 @@
+name: kdeps-components-discord_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/discord_post/1.0.0.yaml
+sha256: 950dd62de00929723c27cc755f868669b98a7fdbcb939ca4574cd11f3e6c4738
+description: 'kdeps kdeps-component: discord_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-discord_post: ""
+tokens: 79

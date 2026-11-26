@@ -1,0 +1,12 @@
+name: kdeps-tools-slack_socket_open
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/slack_socket_open/1.0.0.yaml
+sha256: 40d629e77b44a5e43af08c58a6ff43d35b2ea51fbc56fc44b689acc8512a1421
+description: 'Open a Slack Socket Mode connection: POST https://slack.com/api/apps.connections.open with the app-level token and return the JSON with the websocket url. The slack_events listener calls it before each connect. Requires SLACK_APP_TOKEN or the vault secret slack_app_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 75

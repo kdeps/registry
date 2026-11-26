@@ -1,0 +1,12 @@
+name: kdeps-tools-discord_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/discord_get/1.0.0.yaml
+sha256: 6dab385bef9c8a09685330e18980e88da391d8ededc775574f63b0e4240dd3fc
+description: 'Read the Discord API: GET https://discord.com/api/v10/PATH and return the JSON. Use it for channels, messages, guilds and users. Requires DISCORD_BOT_TOKEN or the vault secret discord_bot_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 101

@@ -1,0 +1,12 @@
+name: kdeps-tools-telegram_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/telegram_post/1.0.0.yaml
+sha256: f215d89cf08830797ca359899ca4ce9d3438d895a7fb9a4fe2c6fa42c217fc33
+description: 'Write to the Telegram Bot API: POST a JSON body to https://api.telegram.org/bot<TOKEN>/METHOD and return the JSON. Use it to send, edit and delete messages. Requires TELEGRAM_BOT_TOKEN, TELEGRAM_TOKEN or the vault secret telegram_bot_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 133

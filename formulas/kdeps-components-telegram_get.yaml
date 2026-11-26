@@ -1,0 +1,15 @@
+name: kdeps-components-telegram_get
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/telegram_get/1.0.0.yaml
+sha256: 3ce8d0fb32f71a5bb2a630e892a9e401dac6e9f038aa888298980c2c63cc1dcd
+description: 'kdeps kdeps-component: telegram_get'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-telegram_get: ""
+tokens: 48

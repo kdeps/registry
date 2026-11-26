@@ -1,0 +1,12 @@
+name: kdeps-tools-discord_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/discord_post/1.0.0.yaml
+sha256: 0f9a56a81f3768aa829404220aa3cd2794fd34551ce0343fe9fd94e052aaa828
+description: 'Write to the Discord API: POST a JSON body to https://discord.com/api/v10/PATH and return the JSON. Use it to send messages and add reactions. Requires DISCORD_BOT_TOKEN or the vault secret discord_bot_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 136

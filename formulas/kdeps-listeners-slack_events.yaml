@@ -1,0 +1,13 @@
+name: kdeps-listeners-slack_events
+version: 1.0.0
+type: listener
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/listeners/slack_events/1.0.0.yaml
+sha256: 42bb329ec6d36c924d83e7403b7fcccef985315303049ae3312fd8a276c0d1da
+description: 'Slack events over Socket Mode (no public URL): runs the workflow once for each message event. The event is the Slack event: input(''text''), input(''channel''), input(''user''). Messages from bots are left out. Reply with the slack_post component (chat.postMessage). Needs SLACK_APP_TOKEN (xapp-) for the connection.'
+tags:
+  - kdeps
+  - listener
+license: Apache-2.0
+dependencies:
+  kdeps-tools-slack_socket_open: ""
