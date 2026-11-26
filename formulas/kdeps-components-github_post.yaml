@@ -1,0 +1,15 @@
+name: kdeps-components-github_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/github_post/1.0.0.yaml
+sha256: fc088b8e75938c8db625b29030ea137a3731f55a1ea2a995d445021d1d38aa6a
+description: 'kdeps kdeps-component: github_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-github_post: ""
+tokens: 85

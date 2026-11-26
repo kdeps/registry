@@ -1,0 +1,12 @@
+name: kdeps-tools-github_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/github_post/1.0.0.yaml
+sha256: a0613ff1cab9accc02ba7b07cc248afddd7eb2bb0db0a5df04a9024f8f811514
+description: 'Write to the GitHub REST API: POST a JSON body to https://api.github.com/PATH and return the JSON. Use it to create issues, comments, pull requests and labels. Requires GITHUB_TOKEN, GH_TOKEN or the vault secret github_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 141

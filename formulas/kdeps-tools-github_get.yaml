@@ -1,0 +1,12 @@
+name: kdeps-tools-github_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/github_get/1.0.0.yaml
+sha256: 0f21860a9dfebace9b7424d4280d2c538c29baa49f09934f4cd23fd7a427a32f
+description: 'Read the GitHub REST API: GET https://api.github.com/PATH and return the JSON. Use it for repositories, issues, pull requests, commits, files and search. Requires GITHUB_TOKEN, GH_TOKEN or the vault secret github_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 114
