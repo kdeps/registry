@@ -1,9 +1,9 @@
 name: kdeps-events-knowledge-extract-tokens
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/knowledge-extract-tokens/1.0.0.yaml
-sha256: dd68668450c6294ca7d38cad866f65322eeefc395e1a49bf2709f41210f1453a
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/knowledge-extract-tokens/1.0.1.yaml
+sha256: 61f0b6cf39f803c0b2f8591b29c489c080b5bd606b4005c976a08507a87a8167
 description: 'kdeps event: knowledge-extract-tokens'
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-events-provider-small-threshold
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/provider-small-threshold/1.0.0.yaml
-sha256: 5c23630816edc86d4dee734051644cb629949d87f237e9a87d76cec21295d4bd
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/provider-small-threshold/1.0.1.yaml
+sha256: 01d9c68f3214124b888d9df5d9379924cf817563b223ee7006401b846aa58db4
 description: 'kdeps event: provider-small-threshold'
 tags:
   - kdeps

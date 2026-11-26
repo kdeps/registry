@@ -1,9 +1,9 @@
 name: kdeps-events-memory-prompt-limit
-version: 1.0.4
+version: 1.0.5
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-prompt-limit/1.0.4.yaml
-sha256: 3c5769d3d00a0efc34a4f6ad365632aa5f8a3dbbe3f5a458348552832cfc1765
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-prompt-limit/1.0.5.yaml
+sha256: e7a34aa6e36cd9f777170a785d803fd77b5847337a7876312300d4978edd99ff
 description: 'kdeps event: memory-prompt-limit'
 tags:
   - kdeps

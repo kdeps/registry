@@ -1,9 +1,9 @@
 name: kdeps-events-memory-thinking-limit
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-thinking-limit/1.0.0.yaml
-sha256: f27050a8da3ee45680f71afe08be293fd56f9a1d43f44398ac451462eb77dc6d
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-thinking-limit/1.0.1.yaml
+sha256: 0b7726d6c123914345be1f2f5cae0e11f3b8f9a5dc27a6d2739e1203a163e9dd
 description: 'kdeps event: memory-thinking-limit'
 tags:
   - kdeps

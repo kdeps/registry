@@ -1,9 +1,9 @@
 name: kdeps-components-approval_grant
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_grant/1.0.1.yaml
-sha256: b32ce4874b20c377e15069c8e429e615a82392b8c723dd01f32ba7d5735c3640
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_grant/1.0.2.yaml
+sha256: 1ec9c3c7e5847a34f373cb1b0d99af85f2cd3d4c10298bd27cbe1ae3f0299e24
 description: 'kdeps kdeps-component: approval_grant'
 tags:
   - kdeps

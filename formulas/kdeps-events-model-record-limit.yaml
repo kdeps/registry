@@ -1,9 +1,9 @@
 name: kdeps-events-model-record-limit
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/model-record-limit/1.0.0.yaml
-sha256: 94016201459a903bc9abfb73018e873858c62949a71d120995b4f9f4fd04afa3
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/model-record-limit/1.0.1.yaml
+sha256: a6fce6a1fdb754ddcd16c0b16c47eb36258e1d5b5e23173f251300fadc359248
 description: 'kdeps event: model-record-limit'
 tags:
   - kdeps

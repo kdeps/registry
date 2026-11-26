@@ -1,9 +1,9 @@
 name: kdeps-events-provider-body-limit-dashscope
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/provider-body-limit-dashscope/1.0.0.yaml
-sha256: 65c9e9a37c38f66c2f32bac520ef25b261fe9657c3b62e02eb12b84cb28cbeb2
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/provider-body-limit-dashscope/1.0.1.yaml
+sha256: 7e16335b74891e6068004f8bb7d4f3e4bb79e90c8e4ba683e5d3cd9d4429acdf
 description: 'kdeps event: provider-body-limit-dashscope'
 tags:
   - kdeps

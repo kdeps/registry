@@ -1,9 +1,9 @@
 name: kdeps-components-list_files
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/list_files/1.0.1.yaml
-sha256: ed9ab062e5544e317ea96931a0224ed573d6639708dba732a6bcc591983219f9
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/list_files/1.0.2.yaml
+sha256: 86ea576fa9e4046c5b6873afda018b4b7a794be4a98fcb1b627ecb0922e6702d
 description: 'kdeps kdeps-component: list_files'
 tags:
   - kdeps

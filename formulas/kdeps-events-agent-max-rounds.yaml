@@ -1,9 +1,9 @@
 name: kdeps-events-agent-max-rounds
-version: 1.0.1
+version: 1.0.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/agent-max-rounds/1.0.1.yaml
-sha256: 44f94b8dd2d28d4846753a058301557be37adf11ee44551b0a10a84751666e01
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/agent-max-rounds/1.0.2.yaml
+sha256: a3e083f946a269456cdf96b8ab3225371499bdfc7a867c77288748bfb9a97c2c
 description: 'kdeps event: agent-max-rounds'
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-events-thinking-budget-xhigh
-version: 1.0.1
+version: 1.0.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-xhigh/1.0.1.yaml
-sha256: 2301422b1f8cb333d66f9c517d09c76e5db87496227cbfbbe4a5398924a390aa
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/thinking-budget-xhigh/1.0.2.yaml
+sha256: f90b88c25b324ea5cccf4a357c349a90f874a50656e55186b9ffc4ade569233d
 description: 'kdeps event: thinking-budget-xhigh'
 tags:
   - kdeps

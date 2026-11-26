@@ -1,9 +1,9 @@
 name: kdeps-components-cohere_rerank
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cohere_rerank/1.0.1.yaml
-sha256: 53add28b31f8a00ebad9949fc3ea6eed739759407aaa04b5a5522017b3a99ee6
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/cohere_rerank/1.0.2.yaml
+sha256: 456e64bdb298bce021b3977ed3982a0ba1368ab3ac873891ba74a0151416833d
 description: 'kdeps kdeps-component: cohere_rerank'
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-components-approval_request
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_request/1.0.1.yaml
-sha256: 050f0fad5edf578ee0d30984e90a9f7ebc667234798d7ed9bcefbf2fe582ef3e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_request/1.0.2.yaml
+sha256: e5e92c4cb8a19232995c7189c98b9b4fca7b885853b1251ebd9a8eb444770930
 description: 'kdeps kdeps-component: approval_request'
 tags:
   - kdeps

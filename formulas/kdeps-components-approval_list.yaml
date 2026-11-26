@@ -1,9 +1,9 @@
 name: kdeps-components-approval_list
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_list/1.0.1.yaml
-sha256: ac183a8d5aa855414b9aec0f828884dddb715eda277c2476024e193caa87046a
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/approval_list/1.0.2.yaml
+sha256: 325534539218b73d26bcf05fe0501e21b83e71c8f911bf599667aa13d9a6cb24
 description: 'kdeps kdeps-component: approval_list'
 tags:
   - kdeps

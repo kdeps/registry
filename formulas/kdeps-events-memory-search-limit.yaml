@@ -1,9 +1,9 @@
 name: kdeps-events-memory-search-limit
-version: 1.0.1
+version: 1.0.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-search-limit/1.0.1.yaml
-sha256: a37ae51a45592730df72569f88d58fd6dabf73e3aa9cdb5be8e5dfb60c3bcf75
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-search-limit/1.0.2.yaml
+sha256: da7f0158e59f4a5d4476f6ddb67fd16b23402829b4d02247f237a3d115f43339
 description: 'kdeps event: memory-search-limit'
 tags:
   - kdeps

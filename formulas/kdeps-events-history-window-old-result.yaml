@@ -1,9 +1,9 @@
 name: kdeps-events-history-window-old-result
-version: 1.0.1
+version: 1.0.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/history-window-old-result/1.0.1.yaml
-sha256: 53a532b18bcb91b94ca8a81aa3db2728d597d5659bc82cdf75e2c87af4ecd79e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/history-window-old-result/1.0.2.yaml
+sha256: 560ec19f3a9699c44ac61b959762e0d894344bb3244e6f2b4c397472d3ffd0be
 description: 'kdeps event: history-window-old-result'
 tags:
   - kdeps

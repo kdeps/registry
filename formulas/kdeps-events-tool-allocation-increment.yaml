@@ -1,9 +1,9 @@
 name: kdeps-events-tool-allocation-increment
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/tool-allocation-increment/1.0.0.yaml
-sha256: 47698c9b047b946ee83865beb655275b2244f4bc5534977e129e74e6aa23d6fe
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/tool-allocation-increment/1.0.1.yaml
+sha256: 105f8b02bb9142340b636f0bb4abb081683f573d4dbeb266f30e3fce40436b5f
 description: 'kdeps event: tool-allocation-increment'
 tags:
   - kdeps

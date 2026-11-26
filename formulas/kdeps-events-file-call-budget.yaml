@@ -1,9 +1,9 @@
 name: kdeps-events-file-call-budget
-version: 1.1.1
+version: 1.1.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/file-call-budget/1.1.1.yaml
-sha256: 72c8c3aa168b52a1d185714b0c89628f19acebaf6b962fcc81c07394365e4bd0
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/file-call-budget/1.1.2.yaml
+sha256: 6e9c4db36fd7ae59e74ea536f15d713a94dd30a275449d992a4325aae0232a8a
 description: 'kdeps event: file-call-budget'
 tags:
   - kdeps

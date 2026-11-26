@@ -1,9 +1,9 @@
 name: kdeps-events-provider-body-limit-xai
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/provider-body-limit-xai/1.0.0.yaml
-sha256: f60f3b05f987eaca4919d50883ac8551128a985adaba4bf01f7cce5469f4d3a4
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/provider-body-limit-xai/1.0.1.yaml
+sha256: e786cb1e917d1a4b349851d6b44451adc34a08e61d886a1007019dc06760b7ff
 description: 'kdeps event: provider-body-limit-xai'
 tags:
   - kdeps

@@ -1,9 +1,9 @@
 name: kdeps-components-zapier_run_action
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/zapier_run_action/1.0.1.yaml
-sha256: 275957ae9f8d0c06b4049a5ff62f3ecac628ca50c18601fd27ec12403b9dd1d3
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/zapier_run_action/1.0.2.yaml
+sha256: 6585ac9c69f1807e0e62dc60baf58ae5b8a50a7e04c8bf51c1433f8c6b3d0ad2
 description: 'kdeps kdeps-component: zapier_run_action'
 tags:
   - kdeps

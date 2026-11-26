@@ -1,9 +1,9 @@
 name: kdeps-events-memory-focus-min-word
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-focus-min-word/1.0.0.yaml
-sha256: c3417600e5fbd04d1388d597efb307afd1c1c3205e77e807f82aba52efbe5fa7
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-focus-min-word/1.0.1.yaml
+sha256: 2e386762eb3277df8217ab0342b1f62832ecc1ebbaebfda05b7775c6843f72b3
 description: 'kdeps event: memory-focus-min-word'
 tags:
   - kdeps

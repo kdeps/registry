@@ -1,9 +1,9 @@
 name: kdeps-components-knowledge_recall
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/knowledge_recall/1.0.0.yaml
-sha256: ef6b85cef4cd49eec6cde3fb102af881fca7ef1246542e166b51673ff126dc2e
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/knowledge_recall/1.0.1.yaml
+sha256: 0f7ae54a1cb5b18ed4e63c477d6cd6874fcbf6e74cba99191181848f92f34242
 description: 'kdeps kdeps-component: knowledge_recall'
 tags:
   - kdeps

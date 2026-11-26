@@ -1,9 +1,9 @@
 name: kdeps-events-knowledge-extract-seconds
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/knowledge-extract-seconds/1.0.0.yaml
-sha256: 13a184cdb8c7bd968c5b4bb36dca47d7f58ec631e72266b39fbd014e3b705aac
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/knowledge-extract-seconds/1.0.1.yaml
+sha256: 8ade3a5d2d5c352603ac10c8a338602dd88d983acc5624e55d7ba08bed5b3f13
 description: 'kdeps event: knowledge-extract-seconds'
 tags:
   - kdeps

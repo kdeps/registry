@@ -1,9 +1,9 @@
 name: kdeps-components-read_file
-version: 1.1.1
+version: 1.1.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/read_file/1.1.1.yaml
-sha256: 8dfca4989f4b26289feca00a86dcf41549cbe0dab9ed625f59ea2b900e3d2997
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/read_file/1.1.2.yaml
+sha256: 717d916e1967eb7c6aee8d4113a92de237e625b01a028aac68ad50952784f6bd
 description: 'kdeps kdeps-component: read_file'
 tags:
   - kdeps

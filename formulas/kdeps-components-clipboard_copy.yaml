@@ -1,9 +1,9 @@
 name: kdeps-components-clipboard_copy
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/clipboard_copy/1.0.0.yaml
-sha256: 748d6a966cf2b8b1248004640d14366de4bf91583b826ba72cd3582ce2808bae
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/clipboard_copy/1.0.1.yaml
+sha256: a70423ae9254826525441606fbb6163cfb621142bb817bd027f39e0621bccea4
 description: 'kdeps kdeps-component: clipboard_copy'
 tags:
   - kdeps

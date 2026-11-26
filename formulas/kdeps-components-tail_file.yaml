@@ -1,9 +1,9 @@
 name: kdeps-components-tail_file
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/tail_file/1.0.1.yaml
-sha256: b4f15bcc75b88ba8c5f73916cafd021488f90e469bd1c4495b45e646e7472432
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/tail_file/1.0.2.yaml
+sha256: 917fb11a62225310b5ab5882d59d31c3a188e479eccc6743cea6fab13a90a00e
 description: 'kdeps kdeps-component: tail_file'
 tags:
   - kdeps

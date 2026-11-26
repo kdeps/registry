@@ -1,9 +1,9 @@
 name: kdeps-events-tool-error-truncate
-version: 1.0.4
+version: 1.0.5
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/tool-error-truncate/1.0.4.yaml
-sha256: efdfb8f7485443f4076c297db4f429860fbd9c14045e5ecdacb2816f7bfef41f
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/tool-error-truncate/1.0.5.yaml
+sha256: 0adaaeaf14f41f136422034c8d156ef8bff1bf0a9bc9fca76e4428c5033d03f2
 description: 'kdeps event: tool-error-truncate'
 tags:
   - kdeps

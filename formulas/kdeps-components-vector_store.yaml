@@ -1,9 +1,9 @@
 name: kdeps-components-vector_store
-version: 1.1.0
+version: 1.1.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/vector_store/1.1.0.yaml
-sha256: e662ea09b7d4e3468822845d3bfd23074c04b58632a2dd2f0fcff6b73deb1e14
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/vector_store/1.1.1.yaml
+sha256: 1d64b47dbb09fc5bbe66de48d71a402b852779c6a4659bf17b8f5f24a4140e63
 description: 'kdeps kdeps-component: vector_store'
 tags:
   - kdeps

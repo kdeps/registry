@@ -1,9 +1,9 @@
 name: kdeps-events-memory-tool-results-limit
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-tool-results-limit/1.0.0.yaml
-sha256: 2c1b6bc09eef9e9f38f5f6604dde3b5713449a270680bc4c13e35abff21c4962
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-tool-results-limit/1.0.1.yaml
+sha256: ab5c46e17d9a23bf377cbfa4a55848d66520cac9da95b5876fa7617ffd5c2ac0
 description: 'kdeps event: memory-tool-results-limit'
 tags:
   - kdeps

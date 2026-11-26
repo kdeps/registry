@@ -1,9 +1,9 @@
 name: kdeps-presets-thorough
-version: 1.4.0
+version: 1.4.1
 type: preset
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.4.0.yaml
-sha256: fc564365c9e8d5f4b7b60e7e3ce156d695dd41324444adcfc46086eb15628ed8
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/presets/thorough/1.4.1.yaml
+sha256: e5e5d99b828cb9f25be5451ec7f13efd5fe90776af93b8ecdbfe899b275fe8ea
 description: 'Maximizes context retention: compacts and folds much less often, injects far more memory context, keeps more of every tool result, and allows larger tool-call budgets. Best for long research/investigation sessions where losing history hurts quality more than the extra tokens cost.'
 tags:
   - kdeps

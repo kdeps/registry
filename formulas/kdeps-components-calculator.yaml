@@ -1,9 +1,9 @@
 name: kdeps-components-calculator
-version: 1.1.0
+version: 1.1.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/calculator/1.1.0.yaml
-sha256: 5739d726663cad66b2c872c83e2c1e55c6e3627d3202463828feff0051768e0b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/calculator/1.1.1.yaml
+sha256: 8bd61a6d7bb25d672838f13426149d6dea115dd1570ed198f31f0220e4e0eadf
 description: 'kdeps kdeps-component: calculator'
 tags:
   - kdeps

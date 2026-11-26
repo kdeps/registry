@@ -1,9 +1,9 @@
 name: kdeps-events-memory-query-rows-max
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-query-rows-max/1.0.0.yaml
-sha256: 82a9a5b9f83a9265d8d7c3e7acf7f145a5c4ba35aa280ebd44f6bc476c080d30
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-query-rows-max/1.0.1.yaml
+sha256: 803373badbcc8ab78640d73cccaad6cdbd96a20e492cb8b37b5fd519ee829665
 description: 'kdeps event: memory-query-rows-max'
 tags:
   - kdeps

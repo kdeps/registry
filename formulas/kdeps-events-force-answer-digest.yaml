@@ -1,9 +1,9 @@
 name: kdeps-events-force-answer-digest
-version: 1.0.4
+version: 1.0.5
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/force-answer-digest/1.0.4.yaml
-sha256: 488670828d55e1d88144b73373969d5db4dbebefe1b0db0cf13c997344adb092
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/force-answer-digest/1.0.5.yaml
+sha256: c3f1931c4612fbe21800eca1c03c2ee957662b09d100d31ccab92fb61d539104
 description: 'kdeps event: force-answer-digest'
 tags:
   - kdeps

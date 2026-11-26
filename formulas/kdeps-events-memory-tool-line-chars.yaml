@@ -1,9 +1,9 @@
 name: kdeps-events-memory-tool-line-chars
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-tool-line-chars/1.0.0.yaml
-sha256: c303addaed45836297ad0a0faf9cded8705de2477012e2155cd83f4ea1239530
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/memory-tool-line-chars/1.0.1.yaml
+sha256: e82d91ddffde29c549e3d29907797593981ab70f6b873392884ce10dd29b3ab8
 description: 'kdeps event: memory-tool-line-chars'
 tags:
   - kdeps

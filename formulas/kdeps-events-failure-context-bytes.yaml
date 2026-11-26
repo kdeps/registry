@@ -1,9 +1,9 @@
 name: kdeps-events-failure-context-bytes
-version: 1.0.1
+version: 1.0.2
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/failure-context-bytes/1.0.1.yaml
-sha256: b12e2ab3c8ab254829ae2c0fdcb892a5694a0d5bf85c9cd3400743adb29917c1
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/failure-context-bytes/1.0.2.yaml
+sha256: 76bce0e473659958d31a64ab706fc4320291fb4b84c07e4483212bffafd2fad5
 description: 'kdeps event: failure-context-bytes'
 tags:
   - kdeps

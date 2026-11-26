@@ -1,9 +1,9 @@
 name: kdeps-events-preamble-token-limit
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/preamble-token-limit/1.0.0.yaml
-sha256: d18f1f0bc026026aa61fa043bd065138019e6a549c837345d9cf1cdd5956d7dc
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/preamble-token-limit/1.0.1.yaml
+sha256: a7f2ec11fa58931f3d40584325247ee5203f6bbb05af527eabd44cec881baae6
 description: 'kdeps event: preamble-token-limit'
 tags:
   - kdeps

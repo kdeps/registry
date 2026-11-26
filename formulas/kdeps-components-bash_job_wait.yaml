@@ -1,9 +1,9 @@
 name: kdeps-components-bash_job_wait
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/bash_job_wait/1.0.1.yaml
-sha256: b7616d6f69d61fcd1bdab9488b650287bd71bdb9ac50f4debb6760e6b51849f2
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/bash_job_wait/1.0.2.yaml
+sha256: a4bd8be150cce85aa1406a0b29551c76c99c46940f08b56c191cee63f174c50e
 description: 'kdeps kdeps-component: bash_job_wait'
 tags:
   - kdeps

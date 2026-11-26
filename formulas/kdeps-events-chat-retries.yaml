@@ -1,9 +1,9 @@
 name: kdeps-events-chat-retries
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/chat-retries/1.0.0.yaml
-sha256: 4cab84d5987373577c420300faff5e2d9f6f2bcaf276ace27e09dcc7bd03c346
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/chat-retries/1.0.1.yaml
+sha256: c2ebf8d1ae5d3f162520ec2896ee9ff21e29da0782b2fec95a0f8aceb76f3591
 description: 'kdeps event: chat-retries'
 tags:
   - kdeps

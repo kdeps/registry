@@ -1,9 +1,9 @@
 name: kdeps-events-parallel
-version: 1.0.0
+version: 1.0.1
 type: event
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/parallel/1.0.0.yaml
-sha256: 141e8b8908128a646d97b80340ccc3c849a77c3da1737992c1ab4eaafa6d7f5f
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/events/parallel/1.0.1.yaml
+sha256: 09ede45fb5ce25c05f55fe0c58f4a3db4167b8280d4b4796396da48703bf242e
 description: 'kdeps event: parallel'
 tags:
   - kdeps

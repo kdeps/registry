@@ -1,9 +1,9 @@
 name: kdeps-components-wikipedia
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/wikipedia/1.0.1.yaml
-sha256: 8fd96bc40821fb07ed8d8f2c328ae9d992bc1d92b7c0fddd9988d661d3a8207b
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/wikipedia/1.0.2.yaml
+sha256: a60406ae91c5892e156d1742c3061f1ea4efe7727a3710310a9ea7be312b6113
 description: 'kdeps kdeps-component: wikipedia'
 tags:
   - kdeps

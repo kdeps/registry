@@ -1,9 +1,9 @@
 name: kdeps-components-hf_search
-version: 1.0.0
+version: 1.0.1
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/hf_search/1.0.0.yaml
-sha256: 7830edd383cc6e60b05941d202c8fdeaa0da580cc62ca204e49da6138352e52c
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/hf_search/1.0.1.yaml
+sha256: 0b5a84682accbeac4deb50a661bc4a6f1685fc845ae41687e7a848170fee0288
 description: 'kdeps kdeps-component: hf_search'
 tags:
   - kdeps

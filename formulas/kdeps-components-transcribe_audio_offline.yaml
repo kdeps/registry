@@ -1,9 +1,9 @@
 name: kdeps-components-transcribe_audio_offline
-version: 1.0.1
+version: 1.0.2
 type: kdeps-component
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/transcribe_audio_offline/1.0.1.yaml
-sha256: f9fd6c0e58327cdaac93a179416bdda102961a00a7932d5865068653959a240c
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/transcribe_audio_offline/1.0.2.yaml
+sha256: 3cc417367d992e4d80e1b729e0d44048618a8ff78f14e7d1d29a087472c0677f
 description: 'kdeps kdeps-component: transcribe_audio_offline'
 tags:
   - kdeps
