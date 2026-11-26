@@ -1,0 +1,15 @@
+name: kdeps-components-slack_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/slack_post/1.0.0.yaml
+sha256: 7e50be173eb29356c1d3dc4fb32820d1f3bd8d1d1618a43456ffd799c4db473c
+description: 'kdeps kdeps-component: slack_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-slack_post: ""
+tokens: 84

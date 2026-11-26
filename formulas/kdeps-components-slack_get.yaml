@@ -1,0 +1,15 @@
+name: kdeps-components-slack_get
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/slack_get/1.0.0.yaml
+sha256: 6ea3a163b5540ede88b46077036f4b27f8caa853006e1f9a71542860fb0377f6
+description: 'kdeps kdeps-component: slack_get'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-slack_get: ""
+tokens: 56

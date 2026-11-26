@@ -1,0 +1,12 @@
+name: kdeps-tools-slack_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/slack_get/1.0.0.yaml
+sha256: 32c3ec7771c15a18d8623f440fa503f0c7d2308d174f009f042ffc7dce6a1e59
+description: 'Read the Slack Web API: GET https://slack.com/api/METHOD and return the JSON. Use it for channels, messages, users and threads. A failed call returns "ok": false and an "error" text. Requires SLACK_BOT_TOKEN, SLACK_TOKEN or the vault secret slack_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 125

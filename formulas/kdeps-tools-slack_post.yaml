@@ -1,0 +1,12 @@
+name: kdeps-tools-slack_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/slack_post/1.0.0.yaml
+sha256: e6bebc51dc5595e8ac0f5bdc8dc885ee95964bf29bb52212063595d8ebb8e65f
+description: 'Write to the Slack Web API: POST a JSON body to https://slack.com/api/METHOD and return the JSON. Use it to send, update and delete messages and to add reactions. A failed call returns "ok": false and an "error" text. Requires SLACK_BOT_TOKEN, SLACK_TOKEN or the vault secret slack_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 154
