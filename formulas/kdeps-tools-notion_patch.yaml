@@ -1,0 +1,12 @@
+name: kdeps-tools-notion_patch
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/notion_patch/1.0.0.yaml
+sha256: 4bf97d656f0a40d462458f8bfcadfa70495bdd4d47b72ab7383e01a65d388d92
+description: 'Change Notion content: PATCH a JSON body to https://api.notion.com/v1/PATH and return the JSON. Use it to update page properties, append blocks and archive pages. Requires NOTION_TOKEN, NOTION_API_KEY or the vault secret notion_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 136

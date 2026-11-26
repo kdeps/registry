@@ -1,0 +1,12 @@
+name: kdeps-tools-notion_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/notion_post/1.0.0.yaml
+sha256: 35b12b6cea15c3b70d4e3a52da52a284699a558e6adbe6de499a2e159937c820
+description: 'Call the Notion API: POST a JSON body to https://api.notion.com/v1/PATH and return the JSON. Use it to search, query databases and create pages. Requires NOTION_TOKEN, NOTION_API_KEY or the vault secret notion_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 131

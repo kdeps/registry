@@ -1,0 +1,12 @@
+name: kdeps-tools-notion_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/notion_get/1.0.0.yaml
+sha256: c2c6e049f508ee22065ae05b77b8e08fb53c3bc138abd019f624a58d7af722e4
+description: 'Read the Notion API: GET https://api.notion.com/v1/PATH and return the JSON. Use it for pages, page properties, blocks and users. Requires NOTION_TOKEN, NOTION_API_KEY or the vault secret notion_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 106

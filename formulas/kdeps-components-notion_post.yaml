@@ -1,0 +1,15 @@
+name: kdeps-components-notion_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/notion_post/1.0.0.yaml
+sha256: 8e00bb05737e81c867a5386fc9acb6d0851078b7848e39844005cd618098ce29
+description: 'kdeps kdeps-component: notion_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-notion_post: ""
+tokens: 88

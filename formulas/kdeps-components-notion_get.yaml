@@ -1,0 +1,15 @@
+name: kdeps-components-notion_get
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/notion_get/1.0.0.yaml
+sha256: bcb68366edd88d768cf45d3a05c9fd4e3ccb0a3da447413987192dfa6caed98d
+description: 'kdeps kdeps-component: notion_get'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-notion_get: ""
+tokens: 50
