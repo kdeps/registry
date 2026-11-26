@@ -1,0 +1,15 @@
+name: kdeps-components-jira_get
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/jira_get/1.0.0.yaml
+sha256: 37cfceb30c8b84e9b389dc6b02847462ed7fc5f1d8d9e4aa331e8cecf5cc900f
+description: 'kdeps kdeps-component: jira_get'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-jira_get: ""
+tokens: 57

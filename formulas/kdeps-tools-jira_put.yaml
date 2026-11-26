@@ -1,0 +1,12 @@
+name: kdeps-tools-jira_put
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/jira_put/1.0.0.yaml
+sha256: 761fb3f962f3a74f2fd9fa996380caddf7590e507b6ba199d073a5dc05e81e17
+description: 'Change Jira issues: PUT a JSON body to JIRA_URL/rest/api/3/PATH. Use it to edit issue fields and assignees. Requires JIRA_URL, JIRA_EMAIL and JIRA_API_TOKEN (or the vault secrets jira_url, jira_email and jira_api_token).'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 125

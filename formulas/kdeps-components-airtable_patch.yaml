@@ -1,0 +1,15 @@
+name: kdeps-components-airtable_patch
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/airtable_patch/1.0.0.yaml
+sha256: a66b6720fa50e3620e4e2a0553f09f5da15837c86e28b128a3ffb6b69894e97c
+description: 'kdeps kdeps-component: airtable_patch'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-airtable_patch: ""
+tokens: 87

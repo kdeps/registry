@@ -1,0 +1,15 @@
+name: kdeps-components-stripe_get
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/stripe_get/1.0.0.yaml
+sha256: 9304900faee4675d4dea184631d79269083c368c7150b6658d571ac9ccd3fcbe
+description: 'kdeps kdeps-component: stripe_get'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-stripe_get: ""
+tokens: 62

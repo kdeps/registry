@@ -1,0 +1,15 @@
+name: kdeps-components-jira_put
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/jira_put/1.0.0.yaml
+sha256: 0c2e62a58764a3e47b09baf42c775001c00b3250e480bbc41026f5a744690356
+description: 'kdeps kdeps-component: jira_put'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-jira_put: ""
+tokens: 79

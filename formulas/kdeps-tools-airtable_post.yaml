@@ -1,0 +1,12 @@
+name: kdeps-tools-airtable_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/airtable_post/1.0.0.yaml
+sha256: 7d1554a5ac8cdb1a40f9d1f2c656f05e6308ad035e6d4117b391d8cfd741c798
+description: 'Write to the Airtable API: POST a JSON body to https://api.airtable.com/v0/PATH and return the JSON. Use it to create records. Requires AIRTABLE_TOKEN, AIRTABLE_API_KEY or the vault secret airtable_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 124

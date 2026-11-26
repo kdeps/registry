@@ -1,0 +1,12 @@
+name: kdeps-tools-jira_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/jira_post/1.0.0.yaml
+sha256: 5dda4d334f50e5dc860f3fb66f4b452e0ffa9578dbc11d4f3a22cc1a1b4ece5f
+description: 'Write to the Jira Cloud REST API: POST a JSON body to JIRA_URL/rest/api/3/PATH and return the JSON. Use it to create issues, add comments and move issues to a new status. Requires JIRA_URL, JIRA_EMAIL and JIRA_API_TOKEN (or the vault secrets jira_url, jira_email and jira_api_token).'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 164

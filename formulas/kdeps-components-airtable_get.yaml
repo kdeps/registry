@@ -1,0 +1,15 @@
+name: kdeps-components-airtable_get
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/airtable_get/1.0.0.yaml
+sha256: fcc2064699911d89b6fa3f36df7743148da726c971e15e086f9f6a77835c7b87
+description: 'kdeps kdeps-component: airtable_get'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-airtable_get: ""
+tokens: 67

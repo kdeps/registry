@@ -1,0 +1,15 @@
+name: kdeps-components-stripe_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/stripe_post/1.0.0.yaml
+sha256: 25f02ebe58a2bfe46a668118b0a55198fe2a031a69e20bef5a258d31077579b7
+description: 'kdeps kdeps-component: stripe_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-stripe_post: ""
+tokens: 104

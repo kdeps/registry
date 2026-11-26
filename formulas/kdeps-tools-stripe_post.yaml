@@ -1,0 +1,12 @@
+name: kdeps-tools-stripe_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/stripe_post/1.0.0.yaml
+sha256: bd647cbb1e95a4d5095a4a89dc965973ca7074725f36c1ce2ffeec4e134f972c
+description: 'Write to the Stripe API: POST form fields to https://api.stripe.com/v1/PATH and return the JSON. It creates and changes customers, payments, refunds and invoices, and can move money. Requires STRIPE_SECRET_KEY, STRIPE_API_KEY or the vault secret stripe_secret_key.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 159

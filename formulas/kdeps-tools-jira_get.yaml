@@ -1,0 +1,12 @@
+name: kdeps-tools-jira_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/jira_get/1.0.0.yaml
+sha256: a53dc3a878c0a68ef9145183880df5875c6a30085f3334b73d7e7456f37859ae
+description: 'Read the Jira Cloud REST API: GET JIRA_URL/rest/api/3/PATH and return the JSON. Use it for issues, projects, transitions and JQL search. Requires JIRA_URL, JIRA_EMAIL and JIRA_API_TOKEN (or the vault secrets jira_url, jira_email and jira_api_token).'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 110

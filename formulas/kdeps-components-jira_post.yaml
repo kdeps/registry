@@ -1,0 +1,15 @@
+name: kdeps-components-jira_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/jira_post/1.0.0.yaml
+sha256: ab472e3c8c89d9f5f38bd4ceffc74fc890a0cb40fc751fc0935b009cf005f822
+description: 'kdeps kdeps-component: jira_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-jira_post: ""
+tokens: 103

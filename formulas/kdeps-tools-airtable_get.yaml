@@ -1,0 +1,12 @@
+name: kdeps-tools-airtable_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/airtable_get/1.0.0.yaml
+sha256: 9c438796559d077f487dae120c71a6c3d3de017ed099ec236f00a7d5303cac2a
+description: 'Read the Airtable API: GET https://api.airtable.com/v0/PATH and return the JSON. Use it to list and read records and bases. Requires AIRTABLE_TOKEN, AIRTABLE_API_KEY or the vault secret airtable_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 107

@@ -1,0 +1,12 @@
+name: kdeps-tools-airtable_patch
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/airtable_patch/1.0.0.yaml
+sha256: fd811e4b9c7bc137ba97a2944237e67447fa9ab061676a6a6116ebc3cb4a1346
+description: 'Change Airtable records: PATCH a JSON body to https://api.airtable.com/v0/PATH and return the JSON. Fields not in the body stay as they are. Requires AIRTABLE_TOKEN, AIRTABLE_API_KEY or the vault secret airtable_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 131

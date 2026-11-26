@@ -1,0 +1,12 @@
+name: kdeps-tools-stripe_get
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/stripe_get/1.0.0.yaml
+sha256: a434ed361740c402cd80c70469404a9ea76e8f10b0022083207853e511d6aca3
+description: 'Read the Stripe API: GET https://api.stripe.com/v1/PATH and return the JSON. Use it for customers, payments, invoices, subscriptions and balance. Requires STRIPE_SECRET_KEY, STRIPE_API_KEY or the vault secret stripe_secret_key.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 109

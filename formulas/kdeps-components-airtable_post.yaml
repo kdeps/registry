@@ -1,0 +1,15 @@
+name: kdeps-components-airtable_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/airtable_post/1.0.0.yaml
+sha256: 7879f7f9a4212d5044337f032846004b8b32f3f8c40ab3515a3b5afaa24f1548
+description: 'kdeps kdeps-component: airtable_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-airtable_post: ""
+tokens: 84
