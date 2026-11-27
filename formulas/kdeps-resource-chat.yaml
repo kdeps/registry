@@ -1,8 +1,8 @@
 name: kdeps-resource-chat
-version: 3.5.1
+version: 3.6.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/chat/3.5.1.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/chat/3.6.0.md
 sha256: 64723c3144bd520584f606e0137f6f8af042ee2b60770ae005a3af3d1d5b5571
 description: The `chat:` resource sends a prompt to a language model and stores the reply as the resource's output.
 tags:

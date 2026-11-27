@@ -1,8 +1,8 @@
 name: kdeps-resource-vector-store
-version: 3.5.1
+version: 3.6.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/vectorStore/3.5.1.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/vectorStore/3.6.0.md
 sha256: d01017a84c0fbc44edfe21a268ba7407e291e235ebf6888b8bebbb91679365ae
 description: The `vector_store` component adds documents to, and runs similarity search against, an external vector database, such as Qdrant, Chroma, Pinecone or pgvector.
 tags:

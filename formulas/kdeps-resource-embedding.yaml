@@ -1,8 +1,8 @@
 name: kdeps-resource-embedding
-version: 3.5.1
+version: 3.6.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/embedding/3.5.1.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/embedding/3.6.0.md
 sha256: 5ea0fb33cb92d24d544667eec27fe79af51699f30c39181c96820ae814c4e6b1
 description: The `embedding` component indexes and searches text in a local SQLite store. It needs no external service.
 tags:

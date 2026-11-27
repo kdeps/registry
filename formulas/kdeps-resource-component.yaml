@@ -1,8 +1,8 @@
 name: kdeps-resource-component
-version: 3.5.1
+version: 3.6.0
 type: resource
 github: kdeps/packages
-tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/component/3.5.1.md
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/resources/component/3.6.0.md
 sha256: aed4606bcf7e42b2eef9c707068088f609078016f4a090470ec70c828ac25632
 description: The `component:` resource calls a reusable component with inputs in `with:` and returns its result.
 tags:
