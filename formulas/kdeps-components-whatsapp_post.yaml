@@ -1,0 +1,15 @@
+name: kdeps-components-whatsapp_post
+version: 1.0.0
+type: kdeps-component
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/components/whatsapp_post/1.0.0.yaml
+sha256: 09d3f9f16707c4ce0a501631f44893cdbf76326e748cedc82fc88b337d9e6a97
+description: 'kdeps kdeps-component: whatsapp_post'
+tags:
+  - kdeps
+  - kdeps-component
+license: Apache-2.0
+dependencies:
+  kdeps-schemas-v1: ""
+  kdeps-tools-whatsapp_post: ""
+tokens: 96

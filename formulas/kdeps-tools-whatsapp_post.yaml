@@ -1,0 +1,12 @@
+name: kdeps-tools-whatsapp_post
+version: 1.0.0
+type: tool
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/tools/whatsapp_post/1.0.0.yaml
+sha256: 25d43d4ce921a986fe45229f4da9d93a74b2e624a1f594c83730aea677f27d14
+description: 'Write to the WhatsApp Cloud API: POST a JSON body to https://graph.facebook.com/PATH and return the JSON. Use it to send messages and mark them read. Requires WHATSAPP_ACCESS_TOKEN or the vault secret whatsapp_access_token.'
+tags:
+  - kdeps
+  - tool
+license: Apache-2.0
+tokens: 146

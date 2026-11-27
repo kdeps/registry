@@ -1,0 +1,11 @@
+name: kdeps-listeners-whatsapp_webhook
+version: 1.0.0
+type: listener
+github: kdeps/packages
+tarball: https://raw.githubusercontent.com/kdeps/packages/main/assets/listeners/whatsapp_webhook/1.0.0.yaml
+sha256: 3e4b0376811dca0e2cccef4f865f181b497dbab7f80a2559b97e1d5fb270abc8
+description: 'WhatsApp Cloud API webhook on /whatsapp: answers the Meta verification handshake and runs the workflow once for each signed notification. The event is the notification: input(''entry'')[0].changes[0].value.messages[0]. Status callbacks (sent, delivered, read) get 200 and start no run. Reply with the whatsapp_post component. Needs WHATSAPP_VERIFY_TOKEN and WHATSAPP_APP_SECRET.'
+tags:
+  - kdeps
+  - listener
+license: Apache-2.0
